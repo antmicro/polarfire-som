@@ -1,0 +1,22 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid db4a0d3e-2eb3-499e-977d-6eb378cfd3ed)
+
+  (paper "A4")
+
+  (title_block
+    (title "PolarFire SoM")
+    (date "2024-01-09")
+    (rev "1.0.0")
+    (company "Antmicro Ltd")
+    (comment 1 "www.antmicro.com")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
