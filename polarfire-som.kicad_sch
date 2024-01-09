@@ -16,7 +16,161 @@
   )
 
 
+  (sheet (at 209.55 135.89) (size 26.67 17.78) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 03c99aa2-3a70-4e62-834d-8bf1b61d2c0d)
+    (property "Sheet name" "LPDDR4" (id 0) (at 209.55 135.1784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "lpddr.kicad_sch" (id 1) (at 209.55 154.2546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 52.07 135.89) (size 26.67 17.78) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 1a89b4c6-5d95-4c13-8da9-62b42c0a8ed9)
+    (property "Sheet name" "Connectors" (id 0) (at 52.07 135.1784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "connectors.kicad_sch" (id 1) (at 52.07 154.2546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 130.81 135.89) (size 26.67 17.78) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 6b5c9386-08fc-46bf-a582-c320c1d104da)
+    (property "Sheet name" "Misc" (id 0) (at 130.81 135.1784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "misc.kicad_sch" (id 1) (at 130.81 154.2546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 91.44 135.89) (size 26.67 17.78) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 99f116ae-bc8e-42a5-8f88-aecc401b3bcc)
+    (property "Sheet name" "SoC" (id 0) (at 91.44 135.1784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "soc.kicad_sch" (id 1) (at 91.44 154.2546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 170.18 135.89) (size 26.67 17.78) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid aa0aa716-c477-450b-ad01-6403345c3aae)
+    (property "Sheet name" "Supply" (id 0) (at 170.18 135.1784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "supply.kicad_sch" (id 1) (at 170.18 154.2546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 91.44 107.95) (size 26.67 17.78) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid c9bdf952-cb44-4ee1-a4b1-ef79b2174bdb)
+    (property "Sheet name" "PCIe" (id 0) (at 91.44 107.2384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "pcie.kicad_sch" (id 1) (at 91.44 126.3146 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 52.07 107.95) (size 26.67 17.78) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid d93d65d4-e21e-44e3-82fb-4ad52468a6b3)
+    (property "Sheet name" "USB" (id 0) (at 52.07 107.2384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "usb.kicad_sch" (id 1) (at 52.07 126.3146 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
   (sheet_instances
     (path "/" (page "1"))
+    (path "/1a89b4c6-5d95-4c13-8da9-62b42c0a8ed9" (page "2"))
+    (path "/99f116ae-bc8e-42a5-8f88-aecc401b3bcc" (page "3"))
+    (path "/6b5c9386-08fc-46bf-a582-c320c1d104da" (page "4"))
+    (path "/aa0aa716-c477-450b-ad01-6403345c3aae" (page "5"))
+    (path "/03c99aa2-3a70-4e62-834d-8bf1b61d2c0d" (page "6"))
+    (path "/d93d65d4-e21e-44e3-82fb-4ad52468a6b3" (page "7"))
+    (path "/c9bdf952-cb44-4ee1-a4b1-ef79b2174bdb" (page "8"))
+  )
+
+  (symbol_instances
+    (path "/1a89b4c6-5d95-4c13-8da9-62b42c0a8ed9/a5fb86dc-a7eb-4dbf-a831-b4bb59ec38f4"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/1a89b4c6-5d95-4c13-8da9-62b42c0a8ed9/b07c68a4-4958-4293-babe-6dfd9512ec03"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/1a89b4c6-5d95-4c13-8da9-62b42c0a8ed9/b6e07bd8-c529-406a-8663-c7db69baf72d"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/1a89b4c6-5d95-4c13-8da9-62b42c0a8ed9/c410c1e5-46b2-4389-ae78-de86c508cca9"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/1a89b4c6-5d95-4c13-8da9-62b42c0a8ed9/ab4369a7-e4e8-43db-a719-65d5abf7c44e"
+      (reference "J?") (unit 1) (value "CM4_Plug_Module_Hirose_DF40_2x50_DF40C-100DP-0.4V_1") (footprint "antmicro-footprints:CM4_Module_Conn_Plug_Hirose_DF40_2x50_DF40C-100DP-0.4V")
+    )
+    (path "/1a89b4c6-5d95-4c13-8da9-62b42c0a8ed9/a6694df8-ade9-452b-bc07-4b7bc818e782"
+      (reference "J?") (unit 2) (value "CM4_Plug_Module_Hirose_DF40_2x50_DF40C-100DP-0.4V_1") (footprint "antmicro-footprints:CM4_Module_Conn_Plug_Hirose_DF40_2x50_DF40C-100DP-0.4V")
+    )
+    (path "/99f116ae-bc8e-42a5-8f88-aecc401b3bcc/48b961bb-e84f-4162-9b4f-ee3835cef348"
+      (reference "U?") (unit 1) (value "MPFS250T-FCVG484") (footprint "antmicro-footprints:BGA-484_19x19mm_Layout22x22_P0.8mm_FCVG484")
+    )
+    (path "/6b5c9386-08fc-46bf-a582-c320c1d104da/5187db4b-d539-45e7-9e51-971745f66849"
+      (reference "U?") (unit 1) (value "SDINBDG4-8G") (footprint "antmicro-footprints:BGA-196-153_11.5x13mm_Layout14x14_P0.5x0.5mm")
+    )
+    (path "/d93d65d4-e21e-44e3-82fb-4ad52468a6b3/b5c33554-f489-40de-90a8-a44de066fed2"
+      (reference "U?") (unit 1) (value "USB3300-EZK-TR") (footprint "antmicro-footprints:QFN-32-1EP_5x5mm")
+    )
+    (path "/6b5c9386-08fc-46bf-a582-c320c1d104da/c6bf1eab-4fb6-4f61-ae8e-24d235924fe7"
+      (reference "U?") (unit 1) (value "KSZ9031RNXCA") (footprint "antmicro-footprints:QFN-48-1EP_7x7x0.9mm_P0.5mm_EP3.5x3.5mm")
+    )
+    (path "/03c99aa2-3a70-4e62-834d-8bf1b61d2c0d/f40a1270-ecf4-4442-abdc-af92e672eb72"
+      (reference "U?") (unit 1) (value "MT53D512M32D2_WFBGA") (footprint "antmicro-footprints:BGA-200_10.0x14.5mm_Layout12x22_P0.80x0.65mm")
+    )
+    (path "/03c99aa2-3a70-4e62-834d-8bf1b61d2c0d/0861c16c-4e53-4ec4-9218-e0d59d09c43e"
+      (reference "U?") (unit 2) (value "MT53D512M32D2_WFBGA") (footprint "antmicro-footprints:BGA-200_10.0x14.5mm_Layout12x22_P0.80x0.65mm")
+    )
+    (path "/99f116ae-bc8e-42a5-8f88-aecc401b3bcc/33525ff0-ccdb-444b-b19d-33f381d75f01"
+      (reference "U?") (unit 2) (value "MPFS250T-FCVG484") (footprint "antmicro-footprints:BGA-484_19x19mm_Layout22x22_P0.8mm_FCVG484")
+    )
+    (path "/d93d65d4-e21e-44e3-82fb-4ad52468a6b3/a36f6da2-98d9-4ec9-ae8a-0cc3f93b6e54"
+      (reference "U?") (unit 3) (value "MPFS250T-FCVG484") (footprint "antmicro-footprints:BGA-484_19x19mm_Layout22x22_P0.8mm_FCVG484")
+    )
+    (path "/99f116ae-bc8e-42a5-8f88-aecc401b3bcc/01a8e936-ac00-46aa-bdec-90f3e2fa7dcd"
+      (reference "U?") (unit 4) (value "MPFS250T-FCVG484") (footprint "antmicro-footprints:BGA-484_19x19mm_Layout22x22_P0.8mm_FCVG484")
+    )
+    (path "/6b5c9386-08fc-46bf-a582-c320c1d104da/4df2db3b-10de-4c55-ac4b-f4970c27fdb0"
+      (reference "U?") (unit 5) (value "MPFS250T-FCVG484") (footprint "antmicro-footprints:BGA-484_19x19mm_Layout22x22_P0.8mm_FCVG484")
+    )
+    (path "/6b5c9386-08fc-46bf-a582-c320c1d104da/cea481a3-fb30-453b-b323-af909851807a"
+      (reference "U?") (unit 6) (value "MPFS250T-FCVG484") (footprint "antmicro-footprints:BGA-484_19x19mm_Layout22x22_P0.8mm_FCVG484")
+    )
+    (path "/03c99aa2-3a70-4e62-834d-8bf1b61d2c0d/ed7fecde-3f9c-495d-9fe5-03c9de60dcbd"
+      (reference "U?") (unit 7) (value "MPFS250T-FCVG484") (footprint "antmicro-footprints:BGA-484_19x19mm_Layout22x22_P0.8mm_FCVG484")
+    )
+    (path "/c9bdf952-cb44-4ee1-a4b1-ef79b2174bdb/d8a6074a-58a3-41a8-8dfe-d1bf155a41bc"
+      (reference "U?") (unit 8) (value "MPFS250T-FCVG484") (footprint "antmicro-footprints:BGA-484_19x19mm_Layout22x22_P0.8mm_FCVG484")
+    )
+    (path "/99f116ae-bc8e-42a5-8f88-aecc401b3bcc/1777c82a-f68b-42ff-9d15-9c98b18f3de1"
+      (reference "U?") (unit 9) (value "MPFS250T-FCVG484") (footprint "antmicro-footprints:BGA-484_19x19mm_Layout22x22_P0.8mm_FCVG484")
+    )
   )
 )
