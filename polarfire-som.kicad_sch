@@ -76,6 +76,18 @@
     )
   )
 
+  (sheet (at 130.81 107.95) (size 26.67 17.78) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid c4778e63-1261-4544-aaba-813aa24c5b7b)
+    (property "Sheet name" "CrossLink" (id 0) (at 130.81 107.2384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "crosslink.kicad_sch" (id 1) (at 130.81 126.3146 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
   (sheet (at 91.44 107.95) (size 26.67 17.78) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
@@ -109,6 +121,7 @@
     (path "/03c99aa2-3a70-4e62-834d-8bf1b61d2c0d" (page "6"))
     (path "/d93d65d4-e21e-44e3-82fb-4ad52468a6b3" (page "7"))
     (path "/c9bdf952-cb44-4ee1-a4b1-ef79b2174bdb" (page "8"))
+    (path "/c4778e63-1261-4544-aaba-813aa24c5b7b" (page "9"))
   )
 
   (symbol_instances
@@ -135,6 +148,9 @@
     )
     (path "/6b5c9386-08fc-46bf-a582-c320c1d104da/5187db4b-d539-45e7-9e51-971745f66849"
       (reference "U?") (unit 1) (value "SDINBDG4-8G") (footprint "antmicro-footprints:BGA-196-153_11.5x13mm_Layout14x14_P0.5x0.5mm")
+    )
+    (path "/c4778e63-1261-4544-aaba-813aa24c5b7b/936d1e6c-dd8a-4d25-9d12-6b0369f305b2"
+      (reference "U?") (unit 1) (value "CrossLink_LIF-MD6000-6JMG80I") (footprint "antmicro-footprints:BGA-80_7x7mm_Layout10x10_P0.65mm")
     )
     (path "/d93d65d4-e21e-44e3-82fb-4ad52468a6b3/b5c33554-f489-40de-90a8-a44de066fed2"
       (reference "U?") (unit 1) (value "USB3300-EZK-TR") (footprint "antmicro-footprints:QFN-32-1EP_5x5mm")
