@@ -137,6 +137,9 @@
     (path "/1a89b4c6-5d95-4c13-8da9-62b42c0a8ed9/c410c1e5-46b2-4389-ae78-de86c508cca9"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/6b5c9386-08fc-46bf-a582-c320c1d104da/79cc70ca-5001-435c-8254-fe1f4df73c82"
+      (reference "J?") (unit 1) (value "PinHeader_2x5_P2.54mm_Drill1.1mm") (footprint "antmicro-footprints:PinHeader_2x5_P2.54mm_Drill1.1mm")
+    )
     (path "/1a89b4c6-5d95-4c13-8da9-62b42c0a8ed9/ab4369a7-e4e8-43db-a719-65d5abf7c44e"
       (reference "J?") (unit 1) (value "CM4_Plug_Module_Hirose_DF40_2x50_DF40C-100DP-0.4V_1") (footprint "antmicro-footprints:CM4_Module_Conn_Plug_Hirose_DF40_2x50_DF40C-100DP-0.4V")
     )
@@ -170,7 +173,7 @@
     (path "/d93d65d4-e21e-44e3-82fb-4ad52468a6b3/a36f6da2-98d9-4ec9-ae8a-0cc3f93b6e54"
       (reference "U?") (unit 3) (value "MPFS250T-FCVG484") (footprint "antmicro-footprints:BGA-484_19x19mm_Layout22x22_P0.8mm_FCVG484")
     )
-    (path "/99f116ae-bc8e-42a5-8f88-aecc401b3bcc/01a8e936-ac00-46aa-bdec-90f3e2fa7dcd"
+    (path "/6b5c9386-08fc-46bf-a582-c320c1d104da/6bced562-033e-436d-b360-600747e9d69b"
       (reference "U?") (unit 4) (value "MPFS250T-FCVG484") (footprint "antmicro-footprints:BGA-484_19x19mm_Layout22x22_P0.8mm_FCVG484")
     )
     (path "/6b5c9386-08fc-46bf-a582-c320c1d104da/4df2db3b-10de-4c55-ac4b-f4970c27fdb0"
