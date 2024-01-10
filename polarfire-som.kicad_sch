@@ -146,11 +146,20 @@
     (path "/1a89b4c6-5d95-4c13-8da9-62b42c0a8ed9/a6694df8-ade9-452b-bc07-4b7bc818e782"
       (reference "J?") (unit 2) (value "CM4_Plug_Module_Hirose_DF40_2x50_DF40C-100DP-0.4V_1") (footprint "antmicro-footprints:CM4_Module_Conn_Plug_Hirose_DF40_2x50_DF40C-100DP-0.4V")
     )
+    (path "/6b5c9386-08fc-46bf-a582-c320c1d104da/0347842b-1d8f-4253-8c9f-669e46cac5cd"
+      (reference "U?") (unit 1) (value "DP83867ISRGZR") (footprint "antmicro-footprints:VQFN-48_7x7mm_P0.5mm_EP4.1x4.1mm")
+    )
     (path "/99f116ae-bc8e-42a5-8f88-aecc401b3bcc/48b961bb-e84f-4162-9b4f-ee3835cef348"
       (reference "U?") (unit 1) (value "MPFS250T-FCVG484") (footprint "antmicro-footprints:BGA-484_19x19mm_Layout22x22_P0.8mm_FCVG484")
     )
     (path "/6b5c9386-08fc-46bf-a582-c320c1d104da/5187db4b-d539-45e7-9e51-971745f66849"
       (reference "U?") (unit 1) (value "SDINBDG4-8G") (footprint "antmicro-footprints:BGA-196-153_11.5x13mm_Layout14x14_P0.5x0.5mm")
+    )
+    (path "/6b5c9386-08fc-46bf-a582-c320c1d104da/635e6e13-3cff-48b8-b87a-31978568fb18"
+      (reference "U?") (unit 1) (value "MT25QL01GBBB8E_SOP2-16") (footprint "antmicro-footprints:SOP2-16_7.5x10.3mm")
+    )
+    (path "/aa0aa716-c477-450b-ad01-6403345c3aae/75062b07-796d-4a87-b778-9ffc6c8fb476"
+      (reference "U?") (unit 1) (value "TPS65296") (footprint "antmicro-footprints:VQFN-HR-18_3.5x3.5x1mm")
     )
     (path "/c4778e63-1261-4544-aaba-813aa24c5b7b/936d1e6c-dd8a-4d25-9d12-6b0369f305b2"
       (reference "U?") (unit 1) (value "CrossLink_LIF-MD6000-6JMG80I") (footprint "antmicro-footprints:BGA-80_7x7mm_Layout10x10_P0.65mm")
@@ -160,9 +169,6 @@
     )
     (path "/d93d65d4-e21e-44e3-82fb-4ad52468a6b3/b5c33554-f489-40de-90a8-a44de066fed2"
       (reference "U?") (unit 1) (value "USB3300-EZK-TR") (footprint "antmicro-footprints:QFN-32-1EP_5x5mm")
-    )
-    (path "/6b5c9386-08fc-46bf-a582-c320c1d104da/c6bf1eab-4fb6-4f61-ae8e-24d235924fe7"
-      (reference "U?") (unit 1) (value "KSZ9031RNXCA") (footprint "antmicro-footprints:QFN-48-1EP_7x7x0.9mm_P0.5mm_EP3.5x3.5mm")
     )
     (path "/03c99aa2-3a70-4e62-834d-8bf1b61d2c0d/f40a1270-ecf4-4442-abdc-af92e672eb72"
       (reference "U?") (unit 1) (value "MT53D512M32D2_WFBGA") (footprint "antmicro-footprints:BGA-200_10.0x14.5mm_Layout12x22_P0.80x0.65mm")
