@@ -155,6 +155,9 @@
     (path "/c4778e63-1261-4544-aaba-813aa24c5b7b/936d1e6c-dd8a-4d25-9d12-6b0369f305b2"
       (reference "U?") (unit 1) (value "CrossLink_LIF-MD6000-6JMG80I") (footprint "antmicro-footprints:BGA-80_7x7mm_Layout10x10_P0.65mm")
     )
+    (path "/aa0aa716-c477-450b-ad01-6403345c3aae/a0ed32fd-4275-4f52-bdf0-40a3044318c0"
+      (reference "U?") (unit 1) (value "PAC1934_QFN") (footprint "antmicro-footprints:QFN-16-1EP_4x4mm_P0.65mm")
+    )
     (path "/d93d65d4-e21e-44e3-82fb-4ad52468a6b3/b5c33554-f489-40de-90a8-a44de066fed2"
       (reference "U?") (unit 1) (value "USB3300-EZK-TR") (footprint "antmicro-footprints:QFN-32-1EP_5x5mm")
     )
