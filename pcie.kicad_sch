@@ -2270,7 +2270,7 @@
   (symbol (lib_id "antmicroMicrocontrollers:MPFS250T-FCVG484") (at 121.92 73.66 0) (unit 8)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d8a6074a-58a3-41a8-8dfe-d1bf155a41bc)
-    (property "Reference" "U?" (id 0) (at 146.685 63.5 0)
+    (property "Reference" "U1" (id 0) (at 146.685 63.5 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (property "Value" "MPFS250T-FCVG484" (id 1) (at 226.06 81.28 0)
