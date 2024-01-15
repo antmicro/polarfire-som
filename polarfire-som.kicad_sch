@@ -326,6 +326,18 @@
     )
   )
 
+  (sheet (at 170.18 107.95) (size 26.67 17.78) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 9d03ca8b-00f4-4bc6-89d1-f3be2c1a83b3)
+    (property "Sheet name" "HDMI" (id 0) (at 170.18 107.2384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "hdmi.kicad_sch" (id 1) (at 170.18 126.3146 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
   (sheet (at 170.18 135.89) (size 26.67 17.78) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
@@ -384,6 +396,7 @@
     (path "/d93d65d4-e21e-44e3-82fb-4ad52468a6b3" (page "7"))
     (path "/c9bdf952-cb44-4ee1-a4b1-ef79b2174bdb" (page "8"))
     (path "/c4778e63-1261-4544-aaba-813aa24c5b7b" (page "9"))
+    (path "/9d03ca8b-00f4-4bc6-89d1-f3be2c1a83b3" (page "10"))
   )
 
   (symbol_instances
@@ -479,6 +492,9 @@
     )
     (path "/c4778e63-1261-4544-aaba-813aa24c5b7b/936d1e6c-dd8a-4d25-9d12-6b0369f305b2"
       (reference "U9") (unit 1) (value "CrossLink_LIF-MD6000-6JMG80I") (footprint "antmicro-footprints:BGA-80_7x7mm_Layout10x10_P0.65mm")
+    )
+    (path "/9d03ca8b-00f4-4bc6-89d1-f3be2c1a83b3/6b7beb5c-67ba-4dca-8603-d8ff078ad5d4"
+      (reference "U?") (unit 1) (value "TPD12S016_QFN") (footprint "antmicro-footprints:UQFN-24_2x4mm_Layout2x10")
     )
   )
 )
