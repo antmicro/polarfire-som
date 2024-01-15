@@ -215,6 +215,11 @@
     (uuid f3e6d9f2-68c6-4530-baaf-a33d01d2f3f7)
   )
 
+  (text "Place as close as possible to HDMI Connector " (at 135.89 132.08 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 91de609a-2440-492a-ba49-72196f5209ed)
+  )
+
   (global_label "HDMI0_CEC_CTRL" (shape input) (at 175.26 95.25 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 267b9de3-0c68-4d41-a926-34369cb5c6a7)

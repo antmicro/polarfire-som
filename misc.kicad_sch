@@ -2939,7 +2939,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 5b92dbcf-272b-4324-af20-23af9317cd81)
   )
-  (text "eMMC\n" (at 60.96 215.9 0)
+  (text "eMMC\n" (at 95.25 215.9 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid eaad06eb-d75a-439a-b850-cbde64c526de)
   )

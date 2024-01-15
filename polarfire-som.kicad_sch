@@ -354,7 +354,7 @@
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
     (uuid c4778e63-1261-4544-aaba-813aa24c5b7b)
-    (property "Sheet name" "CrossLink" (id 0) (at 130.81 107.2384 0)
+    (property "Sheet name" "MIPI CrossLink" (id 0) (at 130.81 107.2384 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
     (property "Sheet file" "crosslink.kicad_sch" (id 1) (at 130.81 126.3146 0)
@@ -439,9 +439,6 @@
     (path "/8206b603-1e7e-4eeb-8094-4d4b0c2e7e41"
       (reference "N2") (unit 1) (value "oshw_logo") (footprint "antmicro-footprints:oshw-logo")
     )
-    (path "/99f116ae-bc8e-42a5-8f88-aecc401b3bcc/48b961bb-e84f-4162-9b4f-ee3835cef348"
-      (reference "U1") (unit 1) (value "MPFS250T-FCVG484") (footprint "antmicro-footprints:BGA-484_19x19mm_Layout22x22_P0.8mm_FCVG484")
-    )
     (path "/99f116ae-bc8e-42a5-8f88-aecc401b3bcc/33525ff0-ccdb-444b-b19d-33f381d75f01"
       (reference "U1") (unit 2) (value "MPFS250T-FCVG484") (footprint "antmicro-footprints:BGA-484_19x19mm_Layout22x22_P0.8mm_FCVG484")
     )
@@ -492,6 +489,9 @@
     )
     (path "/c4778e63-1261-4544-aaba-813aa24c5b7b/936d1e6c-dd8a-4d25-9d12-6b0369f305b2"
       (reference "U9") (unit 1) (value "CrossLink_LIF-MD6000-6JMG80I") (footprint "antmicro-footprints:BGA-80_7x7mm_Layout10x10_P0.65mm")
+    )
+    (path "/99f116ae-bc8e-42a5-8f88-aecc401b3bcc/609f0bcc-8214-47d3-995a-9ea2c0b2ec63"
+      (reference "U?") (unit 1) (value "MPFS250T-FCVG484") (footprint "antmicro-footprints:BGA-484_19x19mm_Layout22x22_P0.8mm_FCVG484")
     )
     (path "/9d03ca8b-00f4-4bc6-89d1-f3be2c1a83b3/6b7beb5c-67ba-4dca-8603-d8ff078ad5d4"
       (reference "U?") (unit 1) (value "TPD12S016_QFN") (footprint "antmicro-footprints:UQFN-24_2x4mm_Layout2x10")
