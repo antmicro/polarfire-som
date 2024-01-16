@@ -463,6 +463,10 @@
     [
       "9d03ca8b-00f4-4bc6-89d1-f3be2c1a83b3",
       "HDMI"
+    ],
+    [
+      "cc98e5ff-41f1-4590-a4db-ab6e1d695161",
+      "Ethernet"
     ]
   ],
   "text_variables": {}
