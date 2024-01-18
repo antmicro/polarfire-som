@@ -30,6 +30,8 @@ fp-info-cache
 
 # Archives
 *.zip
+# Pre-commit
+.pre-commit-config.yaml
 
 
 
