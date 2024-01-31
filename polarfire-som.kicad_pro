@@ -627,6 +627,10 @@
     [
       "cc98e5ff-41f1-4590-a4db-ab6e1d695161",
       "Ethernet"
+    ],
+    [
+      "8b90881e-9aeb-4751-9bcc-bff3e303e2ab",
+      "WiFi"
     ]
   ],
   "text_variables": {}
