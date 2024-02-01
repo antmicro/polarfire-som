@@ -3059,6 +3059,7 @@
     )
   )
 
+
   (junction (at 180.34 208.28) (diameter 0) (color 0 0 0 0)
     (uuid 0181948a-88d0-4ac5-b58b-983d0413ab10)
   )
@@ -6784,7 +6785,7 @@
   )
 
   (symbol (lib_id "antmicroResistorNetworksArrays:R_4x0R_0201_array") (at 138.43 66.04 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 133ee9ba-c8a2-4744-8c18-bb72f240bfa8)
     (property "Reference" "R20" (id 0) (at 143.51 59.69 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -6867,7 +6868,7 @@
   )
 
   (symbol (lib_id "antmicroResistors0402:R_0R_0402") (at 382.27 85.09 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 1c1ff2e3-c149-47a1-b433-f46f4833a127)
     (property "Reference" "R?" (id 0) (at 384.81 86.36 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -7174,7 +7175,7 @@
   )
 
   (symbol (lib_id "antmicroResistors0402:R_0R_0402") (at 140.97 96.52 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 34a01ae6-f048-4a6e-a604-425ebe9d1009)
     (property "Reference" "R22" (id 0) (at 138.43 95.25 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -8176,7 +8177,7 @@
   )
 
   (symbol (lib_id "antmicroResistorNetworksArrays:R_4x0R_0201_array") (at 138.43 77.47 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 6707f97c-6f79-41b1-b9de-92482b621173)
     (property "Reference" "R21" (id 0) (at 143.51 87.63 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -8988,7 +8989,7 @@
   (symbol (lib_id "antmicropower:GND") (at 195.58 190.5 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a94eadfb-8bcd-41ba-a7db-04fed9a392fc)
-    (property "Reference" "#PWR?" (id 0) (at 204.47 193.04 0)
+    (property "Reference" "#PWR0161" (id 0) (at 204.47 193.04 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Value" "GND" (id 1) (at 195.58 195.58 0)
