@@ -414,20 +414,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "SE50_outer",
-        "nets": [
-          "/Connectors/PoCA",
-          "/Connectors/PoCB",
-          "/Connectors/PoCC",
-          "/Connectors/PoCD",
-          "/Deserializer/SIOA_N",
-          "/Deserializer/SIOA_P",
-          "/Deserializer/SIOB_N",
-          "/Deserializer/SIOB_P",
-          "/Deserializer/SIOC_N",
-          "/Deserializer/SIOC_P",
-          "/Deserializer/SIOD_N",
-          "/Deserializer/SIOD_P"
-        ],
+        "nets": [],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.187,
@@ -499,28 +486,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "Z90_outer",
-        "nets": [
-          "/Connectors/CSI0.CLK_N",
-          "/Connectors/CSI0.CLK_P",
-          "/Connectors/CSI0.D0_N",
-          "/Connectors/CSI0.D0_P",
-          "/Connectors/CSI0.D1_N",
-          "/Connectors/CSI0.D1_P",
-          "/Connectors/CSI0.D2_N",
-          "/Connectors/CSI0.D2_P",
-          "/Connectors/CSI0.D3_N",
-          "/Connectors/CSI0.D3_P",
-          "/Connectors/CSI1.CLK_N",
-          "/Connectors/CSI1.CLK_P",
-          "/Connectors/CSI1.D0_N",
-          "/Connectors/CSI1.D0_P",
-          "/Connectors/CSI1.D1_N",
-          "/Connectors/CSI1.D1_P",
-          "/Connectors/CSI1.D2_N",
-          "/Connectors/CSI1.D2_P",
-          "/Connectors/CSI1.D3_N",
-          "/Connectors/CSI1.D3_P"
-        ],
+        "nets": [],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.215,
@@ -630,7 +596,7 @@
     ],
     [
       "8b90881e-9aeb-4751-9bcc-bff3e303e2ab",
-      "WiFi"
+      "WiFi_Bluetooth"
     ]
   ],
   "text_variables": {}
