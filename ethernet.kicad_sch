@@ -6059,7 +6059,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 4e884222-746c-44b9-8511-6b2c3aace883)
   )
-  (text "CL_crystal = 18pF (Cristal specs)\nC_pin = 5pF (DP83867ISRGZR specs)\nC_trace = 2pF (estimated)\nC_cap = 27 pF\n\nC_total = C_pin + C_trace + C_cap = 23pF\nCL = (C_total ^ 2)/(2*C_total) = 17pF\nC_crystal ~= CL\n"
+  (text "CL_crystal = 18pF (Crystal specs)\nC_pin = 5pF (DP83867ISRGZR specs)\nC_trace = 2pF (estimated)\nC_cap = 27 pF\n\nC_total = C_pin + C_trace + C_cap = 34pF\nCL = (C_total ^ 2)/(2*C_total) = 17pF\nC_crystal ~= CL\n"
     (at 297.18 90.17 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 70327543-7978-4184-8210-83cb005b878d)
