@@ -3114,6 +3114,7 @@
     (uuid eddf2a34-d4be-4de4-9473-e8407fc814f9)
   )
 
+  (no_connect (at 246.38 215.9) (uuid 40f41da8-2257-436f-8d9c-c8a4f5798fa1))
   (no_connect (at 87.63 213.36) (uuid 94506774-28d8-4b9f-8495-5960f70f10ac))
 
   (wire (pts (xy 248.92 184.15) (xy 248.92 210.82))
