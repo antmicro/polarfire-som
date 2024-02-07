@@ -3304,6 +3304,11 @@
     (uuid fd1a708c-bd9b-4a6e-b15e-f2301e191817)
   )
 
+  (no_connect (at 278.13 208.28) (uuid 01f83e54-d80e-473f-ad35-7a9d77251d89))
+  (no_connect (at 278.13 218.44) (uuid 1cd06d5c-5811-4306-a729-c0e8775ebca0))
+  (no_connect (at 278.13 215.9) (uuid 6d5dfa21-fa6f-46d8-b188-a660876cf87f))
+  (no_connect (at 278.13 210.82) (uuid e1254ce4-b8ce-47e1-bf0f-494c65f62c7a))
+
   (wire (pts (xy 123.19 213.36) (xy 129.54 213.36))
     (stroke (width 0) (type default))
     (uuid 00826f4b-4a13-459b-846c-c8ec4eb5d04e)
