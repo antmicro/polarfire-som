@@ -6264,7 +6264,7 @@
   (symbol (lib_id "antmicroCapacitors0402:C_1u_0402") (at 133.35 233.68 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 008b79c1-92ae-4894-ae4b-432b7da8b0d6)
-    (property "Reference" "C162" (at 130.81 229.8635 90)
+    (property "Reference" "C266" (at 130.81 229.8635 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
     )
     (property "Value" "C_1u_0402" (at 143.51 213.36 0)
@@ -6302,7 +6302,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "C162") (unit 1)
+          (reference "C266") (unit 1)
         )
       )
     )
@@ -6311,7 +6311,7 @@
   (symbol (lib_id "antmicroResonators:Resonator_25MHz_ABM8G") (at 367.03 74.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 01c217fd-0098-44f5-b089-bca1d83798e5)
-    (property "Reference" "Y2" (at 370.84 67.31 0)
+    (property "Reference" "Y3" (at 370.84 67.31 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (property "Value" "Resonator_25MHz_ABM8G" (at 382.27 87.63 0)
@@ -6345,7 +6345,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "Y2") (unit 1)
+          (reference "Y3") (unit 1)
         )
       )
     )
@@ -6354,7 +6354,7 @@
   (symbol (lib_id "antmicroCapacitorsmisc:C_100n_0201_25V") (at 139.7 214.63 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 043cf0d0-b303-4aae-84b5-6dea4bcf588b)
-    (property "Reference" "C166" (at 142.24 210.8135 90)
+    (property "Reference" "C270" (at 142.24 210.8135 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "C_100n_0201_25V" (at 149.86 194.31 0)
@@ -6392,7 +6392,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "C166") (unit 1)
+          (reference "C270") (unit 1)
         )
       )
     )
@@ -6401,7 +6401,7 @@
   (symbol (lib_id "antmicroCapacitorsmisc:C_100n_0201_25V") (at 170.18 107.95 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 04dab717-08da-46ae-88b5-a076a22bc179)
-    (property "Reference" "C173" (at 163.83 106.68 0)
+    (property "Reference" "C279" (at 163.83 106.68 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
     )
     (property "Value" "C_100n_0201_25V" (at 149.86 97.79 0)
@@ -6439,7 +6439,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "C173") (unit 1)
+          (reference "C279") (unit 1)
         )
       )
     )
@@ -6448,7 +6448,7 @@
   (symbol (lib_id "antmicroCapacitors0402:C_1u_0402") (at 133.35 271.78 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0867fa05-ed53-4edd-82f6-fd3dc9ec53a6)
-    (property "Reference" "C164" (at 130.175 267.9635 90)
+    (property "Reference" "C268" (at 130.175 267.9635 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "C_1u_0402" (at 123.19 251.46 0)
@@ -6486,7 +6486,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "C164") (unit 1)
+          (reference "C268") (unit 1)
         )
       )
     )
@@ -6495,7 +6495,7 @@
   (symbol (lib_id "antmicropower:GND") (at 139.7 234.95 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 096acf27-89ea-45a5-a89f-72d3028b340b)
-    (property "Reference" "#PWR0344" (at 148.59 237.49 0)
+    (property "Reference" "#PWR0258" (at 148.59 237.49 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Value" "GND" (at 139.7 238.76 0)
@@ -6517,7 +6517,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "#PWR0344") (unit 1)
+          (reference "#PWR0258") (unit 1)
         )
       )
     )
@@ -6526,7 +6526,7 @@
   (symbol (lib_id "antmicropower:+1V05") (at 133.35 208.28 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0ebcc791-1eb7-4a2c-bf38-8bc663dd9466)
-    (property "Reference" "#PWR0356" (at 133.35 212.09 0)
+    (property "Reference" "#PWR0252" (at 133.35 212.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+1V05" (at 133.35 204.47 0)
@@ -6542,7 +6542,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "#PWR0356") (unit 1)
+          (reference "#PWR0252") (unit 1)
         )
       )
     )
@@ -6551,7 +6551,7 @@
   (symbol (lib_id "antmicroCapacitors0402:C_10n_0402") (at 107.95 195.58 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 16354c46-12b7-498d-9e46-f75146c37192)
-    (property "Reference" "C185" (at 110.49 191.7635 90)
+    (property "Reference" "C261" (at 110.49 191.7635 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "C_10n_0402" (at 118.11 175.26 0)
@@ -6589,7 +6589,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "C185") (unit 1)
+          (reference "C261") (unit 1)
         )
       )
     )
@@ -6598,7 +6598,7 @@
   (symbol (lib_id "antmicroCapacitorsmisc:C_100n_0201_25V") (at 74.93 233.68 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 192c6c88-108f-44f0-bd24-eb9b76ca1762)
-    (property "Reference" "C180" (at 77.47 229.8635 90)
+    (property "Reference" "C256" (at 77.47 229.8635 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "C_100n_0201_25V" (at 85.09 213.36 0)
@@ -6636,7 +6636,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "C180") (unit 1)
+          (reference "C256") (unit 1)
         )
       )
     )
@@ -6645,7 +6645,7 @@
   (symbol (lib_id "antmicroCapacitors0402:C_1u_0402") (at 68.58 233.68 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 240a2282-c8e8-4230-a58d-b84536fb4dd4)
-    (property "Reference" "C176" (at 66.04 229.8635 90)
+    (property "Reference" "C252" (at 66.04 229.8635 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "C_1u_0402" (at 58.42 213.36 0)
@@ -6683,7 +6683,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "C176") (unit 1)
+          (reference "C252") (unit 1)
         )
       )
     )
@@ -6692,7 +6692,7 @@
   (symbol (lib_id "antmicroInterfaceControllers:DP83867ISRGZR") (at 152.4 54.61 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2632b6fc-0722-4858-a231-7df4b5e37f3d)
-    (property "Reference" "U16" (at 121.92 44.45 0)
+    (property "Reference" "U25" (at 121.92 44.45 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (property "Value" "DP83867ISRGZR" (at 76.2 59.69 0)
@@ -6765,7 +6765,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "U16") (unit 1)
+          (reference "U25") (unit 1)
         )
       )
     )
@@ -6774,7 +6774,7 @@
   (symbol (lib_id "antmicropower:GND") (at 107.95 215.9 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 26586ee6-c18a-4d33-90c5-1b0c0b6f69a3)
-    (property "Reference" "#PWR0359" (at 116.84 218.44 0)
+    (property "Reference" "#PWR0249" (at 116.84 218.44 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Value" "GND" (at 107.95 219.71 0)
@@ -6796,7 +6796,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "#PWR0359") (unit 1)
+          (reference "#PWR0249") (unit 1)
         )
       )
     )
@@ -6805,7 +6805,7 @@
   (symbol (lib_id "antmicroCapacitorsmisc:C_100n_0201_25V") (at 170.18 82.55 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 26f97ec2-61b1-49dd-b581-f183a02accbb)
-    (property "Reference" "C172" (at 163.83 81.28 0)
+    (property "Reference" "C277" (at 163.83 81.28 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
     )
     (property "Value" "C_100n_0201_25V" (at 149.86 72.39 0)
@@ -6843,7 +6843,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "C172") (unit 1)
+          (reference "C277") (unit 1)
         )
       )
     )
@@ -6852,7 +6852,7 @@
   (symbol (lib_id "antmicroCapacitors0402:C_10n_0402") (at 74.93 195.58 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2718789e-d370-4b26-b8f0-977bdfffac58)
-    (property "Reference" "C178" (at 77.47 191.7635 90)
+    (property "Reference" "C254" (at 77.47 191.7635 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "C_10n_0402" (at 85.09 175.26 0)
@@ -6890,7 +6890,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "C178") (unit 1)
+          (reference "C254") (unit 1)
         )
       )
     )
@@ -6899,7 +6899,7 @@
   (symbol (lib_id "antmicropower:GND") (at 74.93 254 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 28fe1c27-7cac-4f01-a358-93565be24c88)
-    (property "Reference" "#PWR0363" (at 83.82 256.54 0)
+    (property "Reference" "#PWR0242" (at 83.82 256.54 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Value" "GND" (at 74.93 257.81 0)
@@ -6921,7 +6921,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "#PWR0363") (unit 1)
+          (reference "#PWR0242") (unit 1)
         )
       )
     )
@@ -6930,7 +6930,7 @@
   (symbol (lib_id "antmicroCapacitorsmisc:C_100n_0201_25V") (at 167.64 105.41 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2f19875b-aa9f-4272-b5fe-9ac23e9c0205)
-    (property "Reference" "C244" (at 163.83 104.14 0)
+    (property "Reference" "C275" (at 163.83 104.14 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
     )
     (property "Value" "C_100n_0201_25V" (at 147.32 115.57 0)
@@ -6968,7 +6968,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "C244") (unit 1)
+          (reference "C275") (unit 1)
         )
       )
     )
@@ -6977,7 +6977,7 @@
   (symbol (lib_id "antmicropower:GND") (at 90.17 143.51 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 30685beb-b343-4ba9-aef7-e5c4f4b1b1b8)
-    (property "Reference" "#PWR0346" (at 99.06 146.05 0)
+    (property "Reference" "#PWR0244" (at 99.06 146.05 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Value" "GND" (at 90.17 147.32 0)
@@ -6999,7 +6999,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "#PWR0346") (unit 1)
+          (reference "#PWR0244") (unit 1)
         )
       )
     )
@@ -7008,7 +7008,7 @@
   (symbol (lib_id "antmicropower:+1V05") (at 133.35 265.43 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 309c124f-2966-4659-a836-804670519b7a)
-    (property "Reference" "#PWR0348" (at 133.35 269.24 0)
+    (property "Reference" "#PWR0255" (at 133.35 269.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+1V05" (at 133.35 261.62 0)
@@ -7024,7 +7024,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "#PWR0348") (unit 1)
+          (reference "#PWR0255") (unit 1)
         )
       )
     )
@@ -7033,7 +7033,7 @@
   (symbol (lib_id "antmicroCapacitors0402:C_10u_0402") (at 101.6 195.58 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 31f5f457-6aaf-436f-9fdb-9a2e232a026c)
-    (property "Reference" "C182" (at 99.06 191.77 90)
+    (property "Reference" "C258" (at 99.06 191.77 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "C_10u_0402" (at 91.44 175.26 0)
@@ -7071,7 +7071,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "C182") (unit 1)
+          (reference "C258") (unit 1)
         )
       )
     )
@@ -7603,7 +7603,7 @@
   (symbol (lib_id "antmicropower:+2V5") (at 101.6 189.23 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 37aaedb1-9455-429f-819a-a4c93a36ce09)
-    (property "Reference" "#PWR0365" (at 101.6 193.04 0)
+    (property "Reference" "#PWR0245" (at 101.6 193.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+2V5" (at 101.6 185.42 0)
@@ -7619,7 +7619,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "#PWR0365") (unit 1)
+          (reference "#PWR0245") (unit 1)
         )
       )
     )
@@ -7628,7 +7628,7 @@
   (symbol (lib_id "antmicroCapacitorsmisc:C_100n_0201_25V") (at 139.7 252.73 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 37e3950f-bf27-46eb-8a27-054de9bb8d52)
-    (property "Reference" "C168" (at 142.24 248.9135 90)
+    (property "Reference" "C272" (at 142.24 248.9135 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "C_100n_0201_25V" (at 149.86 232.41 0)
@@ -7666,7 +7666,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "C168") (unit 1)
+          (reference "C272") (unit 1)
         )
       )
     )
@@ -7675,7 +7675,7 @@
   (symbol (lib_id "antmicropower:GND") (at 139.7 254 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4666e7b4-1d8f-49b4-954c-134bd0438926)
-    (property "Reference" "#PWR0343" (at 148.59 256.54 0)
+    (property "Reference" "#PWR0259" (at 148.59 256.54 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Value" "GND" (at 139.7 257.81 0)
@@ -7697,7 +7697,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "#PWR0343") (unit 1)
+          (reference "#PWR0259") (unit 1)
         )
       )
     )
@@ -7706,7 +7706,7 @@
   (symbol (lib_id "antmicroCapacitors0402:C_27p_0402") (at 379.73 83.82 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 474aa099-b6f7-462e-827f-c8afde8ff3b2)
-    (property "Reference" "C247" (at 382.27 80.01 90)
+    (property "Reference" "C281" (at 382.27 80.01 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "C_27p_0402" (at 389.89 63.5 0)
@@ -7744,7 +7744,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "C247") (unit 1)
+          (reference "C281") (unit 1)
         )
       )
     )
@@ -7753,7 +7753,7 @@
   (symbol (lib_id "antmicroCapacitors0402:C_1u_0402") (at 68.58 252.73 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 48fec0ec-9994-44f2-8f7b-a739de858118)
-    (property "Reference" "C177" (at 66.04 248.9135 90)
+    (property "Reference" "C253" (at 66.04 248.9135 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "C_1u_0402" (at 58.42 232.41 0)
@@ -7791,7 +7791,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "C177") (unit 1)
+          (reference "C253") (unit 1)
         )
       )
     )
@@ -7800,7 +7800,7 @@
   (symbol (lib_id "antmicroCapacitorsmisc:C_100n_0201_25V") (at 139.7 271.78 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4b34f2e8-c3c4-4d12-a700-752519087c36)
-    (property "Reference" "C169" (at 142.24 267.9635 90)
+    (property "Reference" "C273" (at 142.24 267.9635 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "C_100n_0201_25V" (at 149.86 251.46 0)
@@ -7838,7 +7838,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "C169") (unit 1)
+          (reference "C273") (unit 1)
         )
       )
     )
@@ -7847,7 +7847,7 @@
   (symbol (lib_id "antmicroResistors0402:R_11k_0402") (at 86.36 105.41 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4e4d9448-85a2-4ca5-99a1-278b045c97c3)
-    (property "Reference" "R83" (at 79.375 104.14 0)
+    (property "Reference" "R138" (at 79.375 104.14 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (property "Value" "R_11k_0402" (at 66.04 92.71 0)
@@ -7882,7 +7882,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "R83") (unit 1)
+          (reference "R138") (unit 1)
         )
       )
     )
@@ -7891,7 +7891,7 @@
   (symbol (lib_id "antmicroCapacitorsmisc:C_100n_0201_25V") (at 74.93 214.63 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 511f518a-cf6b-4272-8d26-61dad13a7555)
-    (property "Reference" "C179" (at 77.47 210.8135 90)
+    (property "Reference" "C255" (at 77.47 210.8135 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "C_100n_0201_25V" (at 85.09 194.31 0)
@@ -7929,7 +7929,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "C179") (unit 1)
+          (reference "C255") (unit 1)
         )
       )
     )
@@ -7938,7 +7938,7 @@
   (symbol (lib_id "antmicroCapacitorsmisc:C_100n_0201_25V") (at 74.93 252.73 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 52b5df74-4853-4778-bd93-459f2a99f0ce)
-    (property "Reference" "C181" (at 77.47 248.9135 90)
+    (property "Reference" "C257" (at 77.47 248.9135 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "C_100n_0201_25V" (at 85.09 232.41 0)
@@ -7976,7 +7976,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "C181") (unit 1)
+          (reference "C257") (unit 1)
         )
       )
     )
@@ -7985,7 +7985,7 @@
   (symbol (lib_id "antmicroCapacitors0402:C_1u_0402") (at 101.6 214.63 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 54b36998-9c53-480c-afa7-7fc4d444097e)
-    (property "Reference" "C183" (at 99.06 210.8135 90)
+    (property "Reference" "C259" (at 99.06 210.8135 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "C_1u_0402" (at 91.44 194.31 0)
@@ -8023,7 +8023,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "C183") (unit 1)
+          (reference "C259") (unit 1)
         )
       )
     )
@@ -8032,7 +8032,7 @@
   (symbol (lib_id "antmicropower:GND") (at 71.12 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 55936e19-09c2-442e-9d36-98a2a7da57bc)
-    (property "Reference" "#PWR0389" (at 80.01 110.49 0)
+    (property "Reference" "#PWR0238" (at 80.01 110.49 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Value" "GND" (at 71.12 111.76 0)
@@ -8054,7 +8054,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "#PWR0389") (unit 1)
+          (reference "#PWR0238") (unit 1)
         )
       )
     )
@@ -8063,7 +8063,7 @@
   (symbol (lib_id "antmicropower:GND") (at 172.72 92.71 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 580c188a-d21c-46de-83f6-b29c75b30f03)
-    (property "Reference" "#PWR0390" (at 181.61 95.25 0)
+    (property "Reference" "#PWR0262" (at 181.61 95.25 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Value" "GND" (at 172.72 96.52 0)
@@ -8085,7 +8085,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "#PWR0390") (unit 1)
+          (reference "#PWR0262") (unit 1)
         )
       )
     )
@@ -8094,7 +8094,7 @@
   (symbol (lib_id "antmicropower:GND") (at 107.95 234.95 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 59babaae-91ff-406b-bcb0-a3540e695ef9)
-    (property "Reference" "#PWR0361" (at 116.84 237.49 0)
+    (property "Reference" "#PWR0250" (at 116.84 237.49 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Value" "GND" (at 107.95 238.76 0)
@@ -8116,7 +8116,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "#PWR0361") (unit 1)
+          (reference "#PWR0250") (unit 1)
         )
       )
     )
@@ -8125,7 +8125,7 @@
   (symbol (lib_id "antmicropower:+1V05") (at 133.35 227.33 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 75447db3-8581-4c5f-a577-360a1ab82516)
-    (property "Reference" "#PWR0357" (at 133.35 231.14 0)
+    (property "Reference" "#PWR0253" (at 133.35 231.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+1V05" (at 133.35 223.52 0)
@@ -8141,7 +8141,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "#PWR0357") (unit 1)
+          (reference "#PWR0253") (unit 1)
         )
       )
     )
@@ -8150,7 +8150,7 @@
   (symbol (lib_id "antmicroCapacitors0402:C_10n_0402") (at 139.7 195.58 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7ade6324-9522-4dd0-b838-c6ac5190632a)
-    (property "Reference" "C165" (at 142.24 191.7635 90)
+    (property "Reference" "C269" (at 142.24 191.7635 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "C_10n_0402" (at 149.86 175.26 0)
@@ -8188,7 +8188,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "C165") (unit 1)
+          (reference "C269") (unit 1)
         )
       )
     )
@@ -8197,7 +8197,7 @@
   (symbol (lib_id "antmicroResistors0402:R_1k5_0402") (at 62.23 138.43 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7b11545f-f754-410b-8415-91211fe4539f)
-    (property "Reference" "R82" (at 60.96 137.16 0)
+    (property "Reference" "R137" (at 60.96 137.16 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (property "Value" "R_1k5_0402" (at 82.55 151.13 0)
@@ -8232,7 +8232,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "R82") (unit 1)
+          (reference "R137") (unit 1)
         )
       )
     )
@@ -8241,7 +8241,7 @@
   (symbol (lib_id "antmicroResistors0402:R_10k_0402") (at 163.83 90.17 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 86d5980c-2028-4e8f-a5c6-f6bb0046f5d2)
-    (property "Reference" "R84" (at 170.18 88.9 0)
+    (property "Reference" "R139" (at 170.18 88.9 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (property "Value" "R_10k_0402" (at 184.15 102.87 0)
@@ -8276,7 +8276,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "R84") (unit 1)
+          (reference "R139") (unit 1)
         )
       )
     )
@@ -8285,7 +8285,7 @@
   (symbol (lib_id "antmicroCapacitors0402:C_27p_0402") (at 361.95 83.82 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 879df08e-3a56-4862-89dd-ac9aeb8ba65a)
-    (property "Reference" "C246" (at 354.33 80.01 90)
+    (property "Reference" "C280" (at 354.33 80.01 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "C_27p_0402" (at 372.11 63.5 0)
@@ -8323,7 +8323,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "C246") (unit 1)
+          (reference "C280") (unit 1)
         )
       )
     )
@@ -8332,7 +8332,7 @@
   (symbol (lib_id "antmicropower:+1V05") (at 90.17 55.88 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 94a0d84d-7913-45ec-9072-b74be4750645)
-    (property "Reference" "#PWR0370" (at 90.17 59.69 0)
+    (property "Reference" "#PWR0243" (at 90.17 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+1V05" (at 90.17 52.07 0)
@@ -8348,7 +8348,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "#PWR0370") (unit 1)
+          (reference "#PWR0243") (unit 1)
         )
       )
     )
@@ -8357,7 +8357,7 @@
   (symbol (lib_id "antmicroCapacitors0402:C_10u_0402") (at 133.35 195.58 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9c1ea5e2-2b22-47ba-8a42-9a93c1cb5210)
-    (property "Reference" "C160" (at 130.81 191.77 90)
+    (property "Reference" "C264" (at 130.81 191.77 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "C_10u_0402" (at 123.19 175.26 0)
@@ -8395,7 +8395,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "C160") (unit 1)
+          (reference "C264") (unit 1)
         )
       )
     )
@@ -8404,7 +8404,7 @@
   (symbol (lib_id "antmicroCapacitors0402:C_1u_0402") (at 133.35 252.73 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9e469644-9d9c-4625-8158-1269f2c00d99)
-    (property "Reference" "C163" (at 130.175 248.9135 90)
+    (property "Reference" "C267" (at 130.175 248.9135 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "C_1u_0402" (at 123.19 232.41 0)
@@ -8442,7 +8442,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "C163") (unit 1)
+          (reference "C267") (unit 1)
         )
       )
     )
@@ -8451,7 +8451,7 @@
   (symbol (lib_id "antmicropower:GND") (at 370.84 91.44 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9e663797-7bc7-4d07-9dd6-9093171f728c)
-    (property "Reference" "#PWR0391" (at 379.73 93.98 0)
+    (property "Reference" "#PWR0263" (at 379.73 93.98 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Value" "GND" (at 370.84 96.52 0)
@@ -8473,7 +8473,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "#PWR0391") (unit 1)
+          (reference "#PWR0263") (unit 1)
         )
       )
     )
@@ -8482,7 +8482,7 @@
   (symbol (lib_id "antmicropower:GND") (at 139.7 273.05 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a1101d48-7c20-46a5-8010-8b20a4721120)
-    (property "Reference" "#PWR0345" (at 148.59 275.59 0)
+    (property "Reference" "#PWR0260" (at 148.59 275.59 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Value" "GND" (at 139.7 276.86 0)
@@ -8504,7 +8504,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "#PWR0345") (unit 1)
+          (reference "#PWR0260") (unit 1)
         )
       )
     )
@@ -8513,7 +8513,7 @@
   (symbol (lib_id "antmicroCapacitorsmisc:C_100n_0201_25V") (at 167.64 110.49 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a434c5cb-c9ea-4a7c-a78d-d70f7fae0d65)
-    (property "Reference" "C171" (at 163.83 109.22 0)
+    (property "Reference" "C276" (at 163.83 109.22 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
     )
     (property "Value" "C_100n_0201_25V" (at 147.32 120.65 0)
@@ -8551,7 +8551,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "C171") (unit 1)
+          (reference "C276") (unit 1)
         )
       )
     )
@@ -8560,7 +8560,7 @@
   (symbol (lib_id "antmicropower:+1V05") (at 133.35 189.23 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ad98dd84-31d8-4245-9b4e-f126314940dd)
-    (property "Reference" "#PWR0354" (at 133.35 193.04 0)
+    (property "Reference" "#PWR0251" (at 133.35 193.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+1V05" (at 133.35 185.42 0)
@@ -8576,7 +8576,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "#PWR0354") (unit 1)
+          (reference "#PWR0251") (unit 1)
         )
       )
     )
@@ -8585,7 +8585,7 @@
   (symbol (lib_id "antmicropower:GND") (at 74.93 196.85 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid af60e4fe-7c71-474b-a8b8-9053c6b0651d)
-    (property "Reference" "#PWR0364" (at 83.82 199.39 0)
+    (property "Reference" "#PWR0239" (at 83.82 199.39 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Value" "GND" (at 74.93 200.66 0)
@@ -8607,7 +8607,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "#PWR0364") (unit 1)
+          (reference "#PWR0239") (unit 1)
         )
       )
     )
@@ -8616,7 +8616,7 @@
   (symbol (lib_id "antmicropower:+1V05") (at 133.35 246.38 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b53e36e8-93fb-4d62-8333-d8546b4c43bd)
-    (property "Reference" "#PWR0349" (at 133.35 250.19 0)
+    (property "Reference" "#PWR0254" (at 133.35 250.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+1V05" (at 133.35 242.57 0)
@@ -8632,7 +8632,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "#PWR0349") (unit 1)
+          (reference "#PWR0254") (unit 1)
         )
       )
     )
@@ -8641,7 +8641,7 @@
   (symbol (lib_id "antmicroCapacitorsmisc:C_100n_0201_25V") (at 107.95 233.68 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c00253be-1db2-4f49-b604-c9ab09a40673)
-    (property "Reference" "C187" (at 110.49 229.8635 90)
+    (property "Reference" "C263" (at 110.49 229.8635 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "C_100n_0201_25V" (at 118.11 213.36 0)
@@ -8679,7 +8679,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "C187") (unit 1)
+          (reference "C263") (unit 1)
         )
       )
     )
@@ -8688,7 +8688,7 @@
   (symbol (lib_id "antmicroCapacitors0402:C_1u_0402") (at 101.6 233.68 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c1786085-54ca-49e7-b391-3dc49b5476fe)
-    (property "Reference" "C184" (at 99.06 229.8635 90)
+    (property "Reference" "C260" (at 99.06 229.8635 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "C_1u_0402" (at 91.44 213.36 0)
@@ -8726,7 +8726,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "C184") (unit 1)
+          (reference "C260") (unit 1)
         )
       )
     )
@@ -8735,7 +8735,7 @@
   (symbol (lib_id "antmicroCapacitorsmisc:C_100n_0201_25V") (at 167.64 85.09 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cd34b447-6a0d-4a6f-922b-8763eba47788)
-    (property "Reference" "C170" (at 163.83 83.82 0)
+    (property "Reference" "C274" (at 163.83 83.82 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
     )
     (property "Value" "C_100n_0201_25V" (at 147.32 95.25 0)
@@ -8773,7 +8773,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "C170") (unit 1)
+          (reference "C274") (unit 1)
         )
       )
     )
@@ -8782,7 +8782,7 @@
   (symbol (lib_id "antmicroCapacitorsmisc:C_100n_0201_25V") (at 139.7 233.68 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid cda0f4f3-b37d-4cfb-bdfd-dd3bda77be90)
-    (property "Reference" "C167" (at 142.24 229.8635 90)
+    (property "Reference" "C271" (at 142.24 229.8635 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "C_100n_0201_25V" (at 149.86 213.36 0)
@@ -8820,7 +8820,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "C167") (unit 1)
+          (reference "C271") (unit 1)
         )
       )
     )
@@ -8829,7 +8829,7 @@
   (symbol (lib_id "antmicropower:GND") (at 107.95 196.85 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d3af6c20-a862-4aab-964e-e65e12aeb457)
-    (property "Reference" "#PWR0366" (at 116.84 199.39 0)
+    (property "Reference" "#PWR0248" (at 116.84 199.39 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Value" "GND" (at 107.95 200.66 0)
@@ -8851,7 +8851,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "#PWR0366") (unit 1)
+          (reference "#PWR0248") (unit 1)
         )
       )
     )
@@ -8860,7 +8860,7 @@
   (symbol (lib_id "antmicropower:GND") (at 74.93 234.95 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ddc95a7f-680e-4d6c-9f20-33e3e8512763)
-    (property "Reference" "#PWR0362" (at 83.82 237.49 0)
+    (property "Reference" "#PWR0241" (at 83.82 237.49 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Value" "GND" (at 74.93 238.76 0)
@@ -8882,7 +8882,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "#PWR0362") (unit 1)
+          (reference "#PWR0241") (unit 1)
         )
       )
     )
@@ -8891,7 +8891,7 @@
   (symbol (lib_id "antmicropower:GND") (at 74.93 215.9 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e3a331bf-773a-4105-98ef-8eee09a55050)
-    (property "Reference" "#PWR0358" (at 83.82 218.44 0)
+    (property "Reference" "#PWR0240" (at 83.82 218.44 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Value" "GND" (at 74.93 219.71 0)
@@ -8913,7 +8913,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "#PWR0358") (unit 1)
+          (reference "#PWR0240") (unit 1)
         )
       )
     )
@@ -8922,7 +8922,7 @@
   (symbol (lib_id "antmicropower:+2V5") (at 154.94 63.5 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e8d78a94-e010-40e3-855b-b7cd1793e982)
-    (property "Reference" "#PWR0368" (at 154.94 67.31 0)
+    (property "Reference" "#PWR0261" (at 154.94 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+2V5" (at 154.94 59.69 0)
@@ -8938,7 +8938,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "#PWR0368") (unit 1)
+          (reference "#PWR0261") (unit 1)
         )
       )
     )
@@ -8947,7 +8947,7 @@
   (symbol (lib_id "antmicropower:+2V5") (at 101.6 227.33 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ea46f2c4-4baf-4808-bd35-9d6a9e6afdb0)
-    (property "Reference" "#PWR0360" (at 101.6 231.14 0)
+    (property "Reference" "#PWR0247" (at 101.6 231.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+2V5" (at 101.6 223.52 0)
@@ -8963,7 +8963,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "#PWR0360") (unit 1)
+          (reference "#PWR0247") (unit 1)
         )
       )
     )
@@ -8972,7 +8972,7 @@
   (symbol (lib_id "antmicroCapacitorsmisc:C_100n_0201_25V") (at 170.18 102.87 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid eaf17c2f-8795-4705-bafd-b9c86fd83857)
-    (property "Reference" "C245" (at 163.83 101.6 0)
+    (property "Reference" "C278" (at 163.83 101.6 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
     )
     (property "Value" "C_100n_0201_25V" (at 149.86 92.71 0)
@@ -9010,7 +9010,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "C245") (unit 1)
+          (reference "C278") (unit 1)
         )
       )
     )
@@ -9019,7 +9019,7 @@
   (symbol (lib_id "antmicroResistorsmisc:R_0R_0201") (at 163.83 135.89 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid edb5744d-4f99-4458-8e65-135cd53d7b24)
-    (property "Reference" "R85" (at 163.83 138.43 0)
+    (property "Reference" "R140" (at 163.83 138.43 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (property "Value" "R_0R_0201" (at 184.15 123.19 0)
@@ -9054,7 +9054,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "R85") (unit 1)
+          (reference "R140") (unit 1)
         )
       )
     )
@@ -9063,7 +9063,7 @@
   (symbol (lib_id "antmicropower:+2V5") (at 101.6 208.28 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f6ed5c88-57fd-4442-8fc9-73d2de764795)
-    (property "Reference" "#PWR0367" (at 101.6 212.09 0)
+    (property "Reference" "#PWR0246" (at 101.6 212.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+2V5" (at 101.6 204.47 0)
@@ -9079,7 +9079,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "#PWR0367") (unit 1)
+          (reference "#PWR0246") (unit 1)
         )
       )
     )
@@ -9088,7 +9088,7 @@
   (symbol (lib_id "antmicropower:GND") (at 139.7 196.85 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f76e1ad3-e529-4867-aa48-606e243cd56c)
-    (property "Reference" "#PWR0342" (at 148.59 199.39 0)
+    (property "Reference" "#PWR0256" (at 148.59 199.39 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Value" "GND" (at 139.7 200.66 0)
@@ -9110,7 +9110,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "#PWR0342") (unit 1)
+          (reference "#PWR0256") (unit 1)
         )
       )
     )
@@ -9119,7 +9119,7 @@
   (symbol (lib_id "antmicroResistors0402:R_2k2_0402") (at 194.31 120.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fa25dc94-c3a7-47ea-a443-b881687285ed)
-    (property "Reference" "R86" (at 193.04 119.38 0)
+    (property "Reference" "R141" (at 193.04 119.38 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (property "Value" "R_2k2_0402" (at 214.63 133.35 0)
@@ -9154,7 +9154,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "R86") (unit 1)
+          (reference "R141") (unit 1)
         )
       )
     )
@@ -9163,7 +9163,7 @@
   (symbol (lib_id "antmicroCapacitors0402:C_1u_0402") (at 133.35 214.63 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fa83dd42-79a0-4d1f-b768-0dabca47de35)
-    (property "Reference" "C161" (at 130.81 210.8135 90)
+    (property "Reference" "C265" (at 130.81 210.8135 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "C_1u_0402" (at 123.19 194.31 0)
@@ -9201,7 +9201,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "C161") (unit 1)
+          (reference "C265") (unit 1)
         )
       )
     )
@@ -9210,7 +9210,7 @@
   (symbol (lib_id "antmicroCapacitors0402:C_1u_0402") (at 68.58 214.63 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid faf03e5f-37a0-485d-b61c-aeba275f7f4a)
-    (property "Reference" "C175" (at 66.04 210.8135 90)
+    (property "Reference" "C251" (at 66.04 210.8135 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
     )
     (property "Value" "C_1u_0402" (at 78.74 194.31 0)
@@ -9248,7 +9248,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "C175") (unit 1)
+          (reference "C251") (unit 1)
         )
       )
     )
@@ -9257,7 +9257,7 @@
   (symbol (lib_id "antmicroCapacitors0402:C_10u_0402") (at 68.58 195.58 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fb157e00-ece0-4dd8-8519-dffcd86a1bb9)
-    (property "Reference" "C174" (at 66.04 191.77 90)
+    (property "Reference" "C250" (at 66.04 191.77 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "C_10u_0402" (at 58.42 175.26 0)
@@ -9295,7 +9295,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "C174") (unit 1)
+          (reference "C250") (unit 1)
         )
       )
     )
@@ -9304,7 +9304,7 @@
   (symbol (lib_id "antmicropower:GND") (at 139.7 215.9 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fc263ae5-013e-446a-b668-ae4be598111c)
-    (property "Reference" "#PWR0341" (at 148.59 218.44 0)
+    (property "Reference" "#PWR0257" (at 148.59 218.44 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Value" "GND" (at 139.7 219.71 0)
@@ -9326,7 +9326,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "#PWR0341") (unit 1)
+          (reference "#PWR0257") (unit 1)
         )
       )
     )
@@ -9335,7 +9335,7 @@
   (symbol (lib_id "antmicroCapacitorsmisc:C_100n_0201_25V") (at 107.95 214.63 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ff368211-0a14-407a-90a3-69eef6cb6852)
-    (property "Reference" "C186" (at 110.49 210.8135 90)
+    (property "Reference" "C262" (at 110.49 210.8135 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "C_100n_0201_25V" (at 118.11 194.31 0)
@@ -9373,7 +9373,7 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/cc98e5ff-41f1-4590-a4db-ab6e1d695161"
-          (reference "C186") (unit 1)
+          (reference "C262") (unit 1)
         )
       )
     )
