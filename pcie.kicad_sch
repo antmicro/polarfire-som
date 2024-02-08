@@ -2068,6 +2068,11 @@
   )
 
 
+  (no_connect (at 177.8 158.75) (uuid 3932eb2b-11ff-4ff2-970c-7f9ea6c86e61))
+  (no_connect (at 177.8 156.21) (uuid 4c907d64-4918-4bb6-9ca8-e6c3574a7810))
+  (no_connect (at 227.33 148.59) (uuid 6edc6150-79e3-47b1-a04f-61f4ffbf4206))
+  (no_connect (at 227.33 151.13) (uuid 9b8db7bc-22b5-46ff-923b-2f0247ab3d6e))
+
   (wire (pts (xy 227.33 125.73) (xy 232.41 125.73))
     (stroke (width 0) (type default))
     (uuid 01411785-4290-46ae-b0e1-4e355ea2fead)
