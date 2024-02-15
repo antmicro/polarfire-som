@@ -14285,7 +14285,7 @@
   (global_label "PAC1934_SCL" (shape input) (at 64.77 55.88 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid fd82f150-2400-42d4-8960-6bec52700d69)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 49.415 55.8006 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 48.843 55.88 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
