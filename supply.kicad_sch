@@ -13,471 +13,6 @@
   )
 
   (lib_symbols
-    (symbol "CSD86330Q3D_1" (pin_names hide) (in_bom yes) (on_board yes)
-      (property "Reference" "U" (at 30.48 -5.08 0)
-        (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
-      )
-      (property "Value" "CSD86330Q3D_1" (at 30.48 -10.16 0)
-        (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
-      )
-      (property "Footprint" "antmicro-footprints:CSD86330Q3D" (at 30.48 -12.7 0)
-        (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
-      )
-      (property "Datasheet" "https://www.ti.com/lit/ds/symlink/csd86330q3d.pdf?ts=1619602857581&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FCSD86330Q3D" (at 30.48 -15.24 0)
-        (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
-      )
-      (property "Manufacturer" "Texas Instruments" (at 30.48 -17.78 0)
-        (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
-      )
-      (property "MPN" "CSD86330Q3D" (at 30.48 -7.62 0)
-        (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
-      )
-      (property "Author" "Antmicro" (at 30.48 -20.32 0)
-        (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
-      )
-      (property "License" "Apache-2.0" (at 30.48 -22.86 0)
-        (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
-      )
-      (property "ki_keywords" "SMT, TRANSISTOR, IC, MOSFET, ARRAY" (at 0 0 0)
-        (effects (font (size 1.27 1.27)) hide)
-      )
-      (property "ki_description" "Dual MOSFET, N Channel, 25 V, 25 V, 20 A, 20 A, 4.6 ohm" (at 0 0 0)
-        (effects (font (size 1.27 1.27)) hide)
-      )
-      (property "ki_fp_filters" "DQZ8_1P8X2P7" (at 0 0 0)
-        (effects (font (size 1.27 1.27)) hide)
-      )
-      (symbol "CSD86330Q3D_1_1_1"
-        (polyline
-          (pts
-            (xy 2.54 -10.16)
-            (xy 4.572 -10.16)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 2.54 -5.08)
-            (xy 7.62 -5.08)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 2.54 0)
-            (xy 4.572 0)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 4.572 -7.874)
-            (xy 4.572 -12.446)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 4.572 2.286)
-            (xy 4.572 -2.286)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 5.08 -12.446)
-            (xy 5.08 -11.43)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 5.08 -10.668)
-            (xy 5.08 -9.652)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 5.08 -10.16)
-            (xy 6.604 -10.668)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 5.08 -7.874)
-            (xy 5.08 -8.89)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 5.08 -2.286)
-            (xy 5.08 -1.27)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 5.08 -0.508)
-            (xy 5.08 0.508)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 5.08 0)
-            (xy 6.604 -0.508)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 5.08 2.286)
-            (xy 5.08 1.27)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 6.604 -10.668)
-            (xy 6.604 -9.652)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 6.604 -9.652)
-            (xy 5.08 -10.16)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 6.604 -0.508)
-            (xy 6.604 0.508)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 6.604 0.508)
-            (xy 5.08 0)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 7.62 -12.7)
-            (xy 7.62 -15.24)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 7.62 -12.7)
-            (xy 10.16 -12.7)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 7.62 -11.938)
-            (xy 5.08 -11.938)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 7.62 -10.16)
-            (xy 5.08 -10.16)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 7.62 -10.16)
-            (xy 7.62 -12.7)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 7.62 -8.382)
-            (xy 5.08 -8.382)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 7.62 -8.382)
-            (xy 7.62 -7.62)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 7.62 -7.62)
-            (xy 7.62 -2.54)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 7.62 -7.62)
-            (xy 10.16 -7.62)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 7.62 -5.08)
-            (xy 7.62 -5.08)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 7.62 -2.54)
-            (xy 10.16 -2.54)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 7.62 -1.778)
-            (xy 5.08 -1.778)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 7.62 0)
-            (xy 5.08 0)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 7.62 0)
-            (xy 7.62 -2.54)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 7.62 1.778)
-            (xy 5.08 1.778)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 7.62 1.778)
-            (xy 7.62 2.54)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 7.62 2.54)
-            (xy 10.16 2.54)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 7.62 5.08)
-            (xy 7.62 2.54)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 9.398 -10.922)
-            (xy 10.922 -10.922)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 9.398 -9.652)
-            (xy 10.922 -9.652)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 9.398 -0.762)
-            (xy 10.922 -0.762)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 9.398 0.508)
-            (xy 10.922 0.508)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 10.16 -12.7)
-            (xy 10.16 -10.922)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 10.16 -9.652)
-            (xy 9.398 -10.922)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 10.16 -7.62)
-            (xy 10.16 -9.652)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 10.16 -2.54)
-            (xy 10.16 -0.762)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 10.16 0.508)
-            (xy 9.398 -0.762)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 10.16 2.54)
-            (xy 10.16 0.508)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 10.922 -10.922)
-            (xy 10.16 -9.652)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 10.922 -0.762)
-            (xy 10.16 0.508)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (polyline
-          (pts
-            (xy 12.7 -5.08)
-            (xy 7.62 -5.08)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (rectangle (start 2.54 5.08) (end 12.7 -15.24)
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (circle (center 7.62 -5.08) (radius 0.254)
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-        (pin unspecified line (at 7.62 7.62 270) (length 2.54)
-          (name "VIN" (effects (font (size 1.27 1.27))))
-          (number "1" (effects (font (size 1.27 1.27))))
-        )
-        (pin passive line (at 7.62 7.62 270) (length 2.54) hide
-          (name "VIN" (effects (font (size 1.27 1.27))))
-          (number "2" (effects (font (size 1.27 1.27))))
-        )
-        (pin unspecified line (at 0 0 0) (length 2.54)
-          (name "TG" (effects (font (size 1.27 1.27))))
-          (number "3" (effects (font (size 1.27 1.27))))
-        )
-        (pin unspecified line (at 0 -5.08 0) (length 2.54)
-          (name "TGR" (effects (font (size 1.27 1.27))))
-          (number "4" (effects (font (size 1.27 1.27))))
-        )
-        (pin unspecified line (at 0 -10.16 0) (length 2.54)
-          (name "BG" (effects (font (size 1.27 1.27))))
-          (number "5" (effects (font (size 1.27 1.27))))
-        )
-        (pin unspecified line (at 15.24 -5.08 180) (length 2.54)
-          (name "VSW" (effects (font (size 1.27 1.27))))
-          (number "6" (effects (font (size 1.27 1.27))))
-        )
-        (pin passive line (at 15.24 -5.08 180) (length 2.54) hide
-          (name "VSW" (effects (font (size 1.27 1.27))))
-          (number "7" (effects (font (size 1.27 1.27))))
-        )
-        (pin passive line (at 15.24 -5.08 180) (length 2.54) hide
-          (name "VSW" (effects (font (size 1.27 1.27))))
-          (number "8" (effects (font (size 1.27 1.27))))
-        )
-        (pin unspecified line (at 7.62 -17.78 90) (length 2.54)
-          (name "PGND" (effects (font (size 1.27 1.27))))
-          (number "9" (effects (font (size 1.27 1.27))))
-        )
-      )
-    )
     (symbol "antmicroCapacitors0402:C_10u_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -1739,7 +1274,7 @@
       (property "Value" "TPS65086100" (at 63.5 -10.16 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
       )
-      (property "Footprint" "antmicro-footprints:QFN50P900X900X80-65N" (at 63.5 -12.7 0)
+      (property "Footprint" "antmicro-footprints:QFN-64-1EP_9x9mm_P0.5mm_EP7.2x7.2mm" (at 63.5 -12.7 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
       )
       (property "Datasheet" "https://www.ti.com/lit/ds/symlink/tps650861.pdf" (at 63.5 -15.24 0)
@@ -1760,7 +1295,7 @@
       (property "ki_keywords" "SMT, PMIC, IC, MANAGEMENT, BATTERY" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "ki_description" "Battery manager" (at 0 0 0)
+      (property "ki_description" " Programmable Multirail PMU" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (symbol "TPS65086100_1_1"
@@ -3260,7 +2795,7 @@
       (property "Reference" "#PWR" (at 15.24 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
       )
-      (property "Value" "+1V8" (at 15.24 -5.08 0)
+      (property "Value" "+1V8" (at -3.175 2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
       (property "Footprint" "" (at 15.24 -7.62 0)
@@ -3269,10 +2804,10 @@
       (property "Datasheet" "" (at 15.24 -10.16 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
       )
-      (property "Author" "Antmicro" (at 15.24 -7.62 0)
+      (property "Author" "Antmicro" (at 15.24 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
       )
-      (property "License" "Apache-2.0" (at 15.24 -10.16 0)
+      (property "License" "Apache-2.0" (at 15.24 -7.62 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
       )
       (symbol "+1V8_1_1"
@@ -3300,7 +2835,7 @@
           (stroke (width 0) (type default))
           (fill (type background))
         )
-        (pin power_in line (at 0 0 90) (length 0)
+        (pin power_in line (at 0 0 90) (length 0) hide
           (name "+1V8" (effects (font (size 1.27 1.27))))
           (number "1" (effects (font (size 1.27 1.27))))
         )
@@ -3353,10 +2888,10 @@
       )
     )
     (symbol "antmicropower:+3V3" (power) (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
-      (property "Reference" "#PWR" (at 15.24 -2.54 0)
+      (property "Reference" "#PWR" (at 15.24 0 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
       )
-      (property "Value" "+3V3" (at 15.24 -5.08 0)
+      (property "Value" "+3V3" (at -3.175 2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
       (property "Footprint" "" (at 15.24 -7.62 0)
@@ -3365,38 +2900,40 @@
       (property "Datasheet" "" (at 15.24 -10.16 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
       )
-      (property "Author" "Antmicro" (at 15.24 -7.62 0)
+      (property "Author" "Antmicro" (at 15.24 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
       )
-      (property "License" "Apache-2.0" (at 15.24 -10.16 0)
+      (property "License" "Apache-2.0" (at 15.24 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
       )
-      (symbol "+3V3_1_1"
-        (polyline
-          (pts
-            (xy -0.762 1.27)
-            (xy 0 2.54)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
+      (symbol "+3V3_0_1"
         (polyline
           (pts
             (xy 0 0)
             (xy 0 2.54)
           )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 2.54)
+            (xy -0.762 1.27)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
         )
         (polyline
           (pts
             (xy 0 2.54)
             (xy 0.762 1.27)
           )
-          (stroke (width 0.254) (type default))
-          (fill (type background))
+          (stroke (width 0) (type default))
+          (fill (type none))
         )
-        (pin power_in line (at 0 0 90) (length 0)
+      )
+      (symbol "+3V3_1_1"
+        (pin power_in line (at 0 0 90) (length 0) hide
           (name "+3V3" (effects (font (size 1.27 1.27))))
           (number "1" (effects (font (size 1.27 1.27))))
         )
@@ -14981,7 +14518,7 @@
     (property "Value" "TPS65086100" (at 237.49 37.465 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "antmicro-footprints:QFN50P900X900X80-65N" (at 259.08 40.64 0)
+    (property "Footprint" "antmicro-footprints:QFN-64-1EP_9x9mm_P0.5mm_EP7.2x7.2mm" (at 259.08 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.ti.com/lit/ds/symlink/tps650861.pdf" (at 213.36 41.91 0)
@@ -15956,7 +15493,7 @@
   )
 
   (symbol (lib_id "antmicroTestPoints:TP_0.75mm_SMD") (at 210.82 74.93 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 56e85405-2701-40fb-a2ea-e5ebd2e0851b)
     (property "Reference" "TP7" (at 203.835 74.93 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -16293,7 +15830,7 @@
   )
 
   (symbol (lib_id "antmicroTestPoints:TP_0.75mm_SMD") (at 62.23 133.35 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 5cb7d694-7edc-4a9f-9c64-ba4e78ff8bd0)
     (property "Reference" "TP3" (at 55.245 133.35 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -17089,7 +16626,7 @@
   )
 
   (symbol (lib_id "antmicroTestPoints:TP_0.75mm_SMD") (at 62.23 135.89 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 814b835d-3fa9-43d2-95ee-e28a4baaff5b)
     (property "Reference" "TP4" (at 55.245 135.89 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -18418,7 +17955,7 @@
   )
 
   (symbol (lib_id "antmicroTestPoints:TP_0.75mm_SMD") (at 62.23 140.97 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid b559c6ea-54a3-4e3b-ac32-8d2b1c6c49cd)
     (property "Reference" "TP6" (at 55.245 140.97 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -18789,7 +18326,7 @@
   )
 
   (symbol (lib_id "antmicroTestPoints:TP_0.75mm_SMD") (at 62.23 130.81 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid c2d2c113-5ed4-47c6-a0fb-0b0728ba7129)
     (property "Reference" "TP2" (at 55.245 130.81 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -19518,7 +19055,7 @@
   )
 
   (symbol (lib_id "antmicroTestPoints:TP_0.75mm_SMD") (at 62.23 138.43 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid e939efb8-5b2f-4e5a-90b2-0596fe5f81f2)
     (property "Reference" "TP5" (at 55.245 138.43 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -19817,7 +19354,7 @@
     )
   )
 
-  (symbol (lib_name "CSD86330Q3D_1") (lib_id "antmicroTransistorsFETsMOSFETsArrays:CSD86330Q3D") (at 295.91 109.22 0) (unit 1)
+  (symbol (lib_id "antmicroTransistorsFETsMOSFETsArrays:CSD86330Q3D") (at 295.91 109.22 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f24e6c9f-4340-4a87-85f5-1692edb5849a)
     (property "Reference" "U10" (at 309.88 123.19 0)
