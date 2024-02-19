@@ -2,11 +2,11 @@
 
   (uuid 5150bd4d-4e33-4032-8563-ff98d5a56447)
 
-  (paper "A4")
+  (paper "A3")
 
   (title_block
     (title "PolarFire SoM")
-    (date "2024-01-19")
+    (date "2024-02-19")
     (rev "1.0.0")
     (company "Antmicro Ltd")
     (comment 1 "www.antmicro.com")
