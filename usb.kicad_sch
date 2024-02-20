@@ -9270,7 +9270,7 @@
     (property "Value" "MPFS250T-FCVG484" (at 436.88 177.8 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
-    (property "Footprint" "antmicro-footprints:BGA-484_19x19mm_Layout22x22_P0.8mm_MPFS250T-FCVG484" (at 436.88 180.34 0)
+    (property "Footprint" "antmicro-footprints:BGA-484_19x19mm_Layout22x22_P0.8mm-microchip-technology-mpfs250t-fcvg484" (at 436.88 180.34 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Datasheet" "https://www.microsemi.com/document-portal/doc_download/1244583-polarfire-soc-advance-datasheet" (at 436.88 182.88 0)
