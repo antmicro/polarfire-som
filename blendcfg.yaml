@@ -10,7 +10,7 @@ default: &default
     DEPTH_OF_FIELD: True
     STACKUP: False                  # if True, requires stackup.json output 
     SHOW_MECHANICAL: False
-    SHOW_MARKINGS: False            # if True, requires *bom-populated.csv output
+    SHOW_MARKINGS: True            # if True, requires *bom-populated.csv output
     
   SETTINGS:
     USE_INKSCAPE: False             # use when board has overlapping holes footprints, fixes mesh generation 
