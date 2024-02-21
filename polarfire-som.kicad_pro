@@ -46,7 +46,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.09999999999999999
         }
       },
       "diff_pair_dimensions": [
@@ -180,6 +180,7 @@
         0.107,
         0.114,
         0.15,
+        0.174,
         0.177,
         0.182,
         0.198,
@@ -195,7 +196,7 @@
         },
         {
           "diameter": 0.45,
-          "drill": 0.2
+          "drill": 0.1
         }
       ],
       "zones_allow_external_fillets": false,
@@ -443,7 +444,7 @@
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.1,
         "via_diameter": 0.45,
-        "via_drill": 0.2,
+        "via_drill": 0.1,
         "wire_width": 6
       },
       {
@@ -460,7 +461,7 @@
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.1,
         "via_diameter": 0.45,
-        "via_drill": 0.2,
+        "via_drill": 0.1,
         "wire_width": 6
       },
       {
@@ -477,7 +478,7 @@
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.1,
         "via_diameter": 0.45,
-        "via_drill": 0.2,
+        "via_drill": 0.1,
         "wire_width": 6
       },
       {
@@ -494,7 +495,7 @@
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.1,
         "via_diameter": 0.45,
-        "via_drill": 0.2,
+        "via_drill": 0.1,
         "wire_width": 6
       },
       {
@@ -511,7 +512,7 @@
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.1,
         "via_diameter": 0.45,
-        "via_drill": 0.2,
+        "via_drill": 0.1,
         "wire_width": 6
       },
       {
@@ -528,7 +529,7 @@
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.1,
         "via_diameter": 0.45,
-        "via_drill": 0.2,
+        "via_drill": 0.1,
         "wire_width": 6
       },
       {
@@ -545,7 +546,7 @@
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.1,
         "via_diameter": 0.45,
-        "via_drill": 0.2,
+        "via_drill": 0.1,
         "wire_width": 6
       },
       {
@@ -562,7 +563,7 @@
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.1,
         "via_diameter": 0.45,
-        "via_drill": 0.2,
+        "via_drill": 0.1,
         "wire_width": 6
       },
       {
@@ -579,7 +580,7 @@
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.4,
         "via_diameter": 0.45,
-        "via_drill": 0.2,
+        "via_drill": 0.1,
         "wire_width": 6
       }
     ],
@@ -588,7 +589,136 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "100Ohm-diff",
+        "pattern": "ETH_TXRX*"
+      },
+      {
+        "netclass": "50Ohm-se",
+        "pattern": "ETH_M*"
+      },
+      {
+        "netclass": "90Ohm-diff",
+        "pattern": "/USB/USB_DATA*"
+      },
+      {
+        "netclass": "90Ohm-diff",
+        "pattern": "/USB/USB_CLK"
+      },
+      {
+        "netclass": "90Ohm-diff",
+        "pattern": "/USB/USB_BYP*"
+      },
+      {
+        "netclass": "90Ohm-diff",
+        "pattern": "/USB/USB_UP*"
+      },
+      {
+        "netclass": "90Ohm-diff",
+        "pattern": "/USB/USB_DN*"
+      },
+      {
+        "netclass": "90Ohm-diff",
+        "pattern": "CONN_USB*"
+      },
+      {
+        "netclass": "90Ohm-diff",
+        "pattern": "WL_BT_USB*"
+      },
+      {
+        "netclass": "90Ohm-diff",
+        "pattern": "CAM*"
+      },
+      {
+        "netclass": "90Ohm-diff",
+        "pattern": "DSI*"
+      },
+      {
+        "netclass": "85Ohm-diff_PCIe",
+        "pattern": "PCIe_CLK*"
+      },
+      {
+        "netclass": "85Ohm-diff_PCIe",
+        "pattern": "PCIe_TX*"
+      },
+      {
+        "netclass": "85Ohm-diff_PCIe",
+        "pattern": "PCIe_RX*"
+      },
+      {
+        "netclass": "100Ohm-diff",
+        "pattern": "HDMI0_TX*"
+      },
+      {
+        "netclass": "100Ohm-diff",
+        "pattern": "HDMI0_CLK*"
+      },
+      {
+        "netclass": "90Ohm-diff",
+        "pattern": "Crosslink_D*"
+      },
+      {
+        "netclass": "100Ohm-diff",
+        "pattern": "PI3HDX511F_TX*"
+      },
+      {
+        "netclass": "100Ohm-diff",
+        "pattern": "PI3HDX511F_CLK*"
+      },
+      {
+        "netclass": "100Ohm-diff",
+        "pattern": "/Ethernet/SGMII*"
+      },
+      {
+        "netclass": "100Ohm-diff",
+        "pattern": "SGMII*"
+      },
+      {
+        "netclass": "100Ohm-diff",
+        "pattern": "MSS_SGMII*"
+      },
+      {
+        "netclass": "50Ohm-se",
+        "pattern": "SDIO_DATA*"
+      },
+      {
+        "netclass": "50Ohm-se",
+        "pattern": "EMMC_DAT*"
+      },
+      {
+        "netclass": "50Ohm-se",
+        "pattern": "SD_DAT*"
+      },
+      {
+        "netclass": "50Ohm-se",
+        "pattern": "MEM_DAT*"
+      },
+      {
+        "netclass": "100Ohm-diff",
+        "pattern": "/LPDDR4/LPDDR4_DQS*"
+      },
+      {
+        "netclass": "50Ohm-se",
+        "pattern": "/LPDDR4/LPDDR4_C*"
+      },
+      {
+        "netclass": "50Ohm-se",
+        "pattern": "/LPDDR4/LPDDR4_???"
+      },
+      {
+        "netclass": "50Ohm-se",
+        "pattern": "/LPDDR4/LPDDR4_????"
+      },
+      {
+        "netclass": "50Ohm-se",
+        "pattern": "/LPDDR4/LPDDR4_RESET_n"
+      },
+      {
+        "netclass": "40Ohm-se_DQ",
+        "pattern": "/LPDDR4/LPDDR4_ODT_CA_A"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
