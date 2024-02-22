@@ -32,4 +32,5 @@ fp-info-cache
 *.zip
 # Pre-commit
 .pre-commit-config.yaml
-
+#Lock files
+*lck
