@@ -721,6 +721,10 @@
       {
         "netclass": "100Ohm-diff",
         "pattern": "/HDMI/PI3HDX*"
+      },
+      {
+        "netclass": "90Ohm-diff",
+        "pattern": "/USB/USB_?"
       }
     ]
   },
