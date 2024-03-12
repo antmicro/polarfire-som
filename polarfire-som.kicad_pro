@@ -715,7 +715,7 @@
         "pattern": "/LPDDR4/LPDDR4_RESET_n"
       },
       {
-        "netclass": "40Ohm-se_DQ",
+        "netclass": "50Ohm-se",
         "pattern": "/LPDDR4/LPDDR4_ODT_CA_A"
       },
       {
