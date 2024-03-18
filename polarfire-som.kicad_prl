@@ -38,6 +38,8 @@
       8,
       9,
       10,
+      11,
+      12,
       13,
       14,
       15,
@@ -63,7 +65,7 @@
       36
     ],
     "visible_layers": "ffcffff_ffffffff",
-    "zone_display_mode": 0
+    "zone_display_mode": 1
   },
   "meta": {
     "filename": "polarfire-som.kicad_prl",
