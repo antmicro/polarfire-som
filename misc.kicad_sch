@@ -8491,7 +8491,7 @@
   )
 
   (symbol (lib_id "antmicroTestPoints:Tag-Connect_TC2030-IDC-NL_2x3_P1.27mm") (at 257.81 77.47 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1e314973-f77d-4ae5-a2c9-2ce37b19f89b)
     (property "Reference" "J2" (at 264.16 69.85 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
