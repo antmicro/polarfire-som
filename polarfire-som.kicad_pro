@@ -677,7 +677,7 @@
       },
       {
         "netclass": "50Ohm-se",
-        "pattern": "SDIO_DATA*"
+        "pattern": "SDIO*"
       },
       {
         "netclass": "50Ohm-se",
