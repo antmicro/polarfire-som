@@ -442,7 +442,7 @@
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.1,
+        "track_width": 0.09,
         "via_diameter": 0.45,
         "via_drill": 0.1,
         "wire_width": 6
@@ -684,7 +684,7 @@
       },
       {
         "netclass": "50Ohm-se",
-        "pattern": "EMMC_DAT*"
+        "pattern": "EMMC_*"
       },
       {
         "netclass": "50Ohm-se",
@@ -692,7 +692,7 @@
       },
       {
         "netclass": "50Ohm-se",
-        "pattern": "MEM_DAT*"
+        "pattern": "MEM_*"
       },
       {
         "netclass": "100Ohm-diff",
@@ -729,6 +729,14 @@
       {
         "netclass": "85Ohm-diff_PCIe",
         "pattern": "/PCIe/XCVR*"
+      },
+      {
+        "netclass": "50Ohm-se",
+        "pattern": "SD_CMD"
+      },
+      {
+        "netclass": "50Ohm-se",
+        "pattern": "SD_CLK"
       }
     ]
   },
