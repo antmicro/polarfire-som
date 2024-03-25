@@ -636,7 +636,7 @@
       },
       {
         "netclass": "85Ohm-diff_PCIe",
-        "pattern": "PCIe_CLK*"
+        "pattern": "*PCIe_CLK*"
       },
       {
         "netclass": "85Ohm-diff_PCIe",
