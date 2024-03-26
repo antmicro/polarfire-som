@@ -737,6 +737,10 @@
       {
         "netclass": "50Ohm-se",
         "pattern": "SD_CLK"
+      },
+      {
+        "netclass": "100Ohm-diff",
+        "pattern": "/SoC/MSS_CLK*"
       }
     ]
   },
