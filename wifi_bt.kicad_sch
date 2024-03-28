@@ -296,11 +296,11 @@
         )
       )
     )
-    (symbol "antmicroFixedInductors:L_2u2_1.2A_0603_Abracon-AOTA" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
+    (symbol "antmicroFixedInductors:L_2u2_1.2A_0603" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "L" (at 13.97 0 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
-      (property "Value" "L_2u2_1.2A_0603_ABRACON-AOTA" (at 13.97 -2.54 0)
+      (property "Value" "L_2u2_1.2A_0603" (at 13.97 -2.54 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
       )
       (property "Footprint" "antmicro-footprints:L_0603_1608Metric" (at 13.97 -7.62 0)
@@ -339,7 +339,7 @@
       (property "ki_description" "Wirewound Inductor, 2.2 µH, 240 mOhm, 40 MHz, 1.2 A, 0603 [1608 Metric]" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (symbol "L_2u2_1.2A_0603_Abracon-AOTA_0_1"
+      (symbol "L_2u2_1.2A_0603_0_1"
         (arc (start 1.524 0) (mid 1.016 0.5058) (end 0.508 0)
           (stroke (width 0) (type default))
           (fill (type none))
@@ -357,7 +357,7 @@
           (fill (type none))
         )
       )
-      (symbol "L_2u2_1.2A_0603_Abracon-AOTA_1_1"
+      (symbol "L_2u2_1.2A_0603_1_1"
         (pin passive line (at 0 0 0) (length 0.508)
           (name "~" (effects (font (size 1.27 1.27))))
           (number "1" (effects (font (size 1.27 1.27))))
@@ -6005,13 +6005,13 @@
     )
   )
 
-  (symbol (lib_id "antmicroFixedInductors:L_2u2_1.2A_0603_Abracon-AOTA") (at 250.19 104.14 0) (unit 1)
+  (symbol (lib_id "antmicroFixedInductors:L_2u2_1.2A_0603") (at 250.19 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f7f7ddde-1739-4c52-9e4f-6b559225180c)
     (property "Reference" "L6" (at 252.73 99.06 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
-    (property "Value" "L_2u2_1.2A_0603_ABRACON-AOTA" (at 264.16 106.68 0)
+    (property "Value" "L_2u2_1.2A_0603" (at 264.16 106.68 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Footprint" "antmicro-footprints:L_0603_1608Metric" (at 264.16 111.76 0)
