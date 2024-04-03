@@ -56,10 +56,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "courtyards_overlap|197837487|117217336|5e5efc46-67e1-4514-8c9b-e49206bf8e0f|7d428921-e6fe-4c0a-b68d-cfb5f6338b86",
-        "courtyards_overlap|213260001|138730001|78fc63c9-ccf2-40aa-8ed9-c16d754588b7|aca875cd-0c4b-4f15-a584-22d3457e3b2a"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -410,7 +407,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "simulation_model_issue": "ignore",
@@ -764,9 +761,9 @@
       "default_text_size": 50.0,
       "field_names": [],
       "intersheets_ref_own_page": false,
-      "intersheets_ref_prefix": "",
+      "intersheets_ref_prefix": "Pg. ",
       "intersheets_ref_short": false,
-      "intersheets_ref_show": false,
+      "intersheets_ref_show": true,
       "intersheets_ref_suffix": "",
       "junction_size_choice": 3,
       "label_size_ratio": 0.375,
@@ -810,7 +807,7 @@
     ],
     [
       "99f116ae-bc8e-42a5-8f88-aecc401b3bcc",
-      "SoC"
+      "FPGA Supply"
     ],
     [
       "6b5c9386-08fc-46bf-a582-c320c1d104da",
@@ -845,8 +842,32 @@
       "Ethernet"
     ],
     [
+      "d540798e-a90a-44e1-a80e-8e0c2b3fef06",
+      "Bottom Connector"
+    ],
+    [
+      "debae449-a92d-4184-817e-09f6daf3da7c",
+      "Top Connector"
+    ],
+    [
       "8b90881e-9aeb-4751-9bcc-bff3e303e2ab",
       "WiFi_Bluetooth"
+    ],
+    [
+      "a05faf31-33c0-48d8-b323-f69d341000a9",
+      "FPGA MSS"
+    ],
+    [
+      "e829849d-6a04-425f-a98f-5eba29b9a414",
+      "FPGA MSSIO"
+    ],
+    [
+      "1b347951-07ed-42cc-8eff-a3e7d5405232",
+      "FPGA GPIO"
+    ],
+    [
+      "c113429a-1b2f-4182-ae92-3e0f790c2999",
+      "FPGA HSIO"
     ]
   ],
   "text_variables": {}
