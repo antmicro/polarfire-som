@@ -7750,7 +7750,7 @@
   )
 
   (symbol (lib_id "antmicroResistors0402:R_10k_0402") (at 266.7 121.92 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp yes)
     (uuid 272aebca-ebf8-449f-9a3f-9e52321cf981)
     (property "Reference" "R58" (at 268.605 118.1099 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
@@ -7783,7 +7783,7 @@
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "DNP" "DNP" (at 266.7 119.38 0)
-      (effects (font (size 1.27 1.27)))
+      (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 5c59d1d0-0656-4b87-9839-1a0dca92527a))
     (pin "2" (uuid f9cfd55f-ac08-42df-b2cb-79f728e856e9))
