@@ -9138,7 +9138,7 @@
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "Color" "Green" (at 363.22 154.94 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
+      (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (pin "2" (uuid f4aa09c4-8169-4278-ad5a-0004c8a98f88))
     (pin "1" (uuid 1af73853-0328-4b6e-975a-ccb9de47b457))
