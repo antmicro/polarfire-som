@@ -589,143 +589,127 @@
     "netclass_patterns": [
       {
         "netclass": "100Ohm-diff",
-        "pattern": "ETH_TXRX*"
+        "pattern": "*ETH.TXRX*"
       },
       {
         "netclass": "50Ohm-se",
-        "pattern": "ETH_M*"
+        "pattern": "*ETH_M*"
+      },
+      {
+        "netclass": "50Ohm-se",
+        "pattern": "*ULPI.DATA*"
       },
       {
         "netclass": "90Ohm-diff",
-        "pattern": "/USB/USB_DATA*"
+        "pattern": "*USB_CLK"
       },
       {
         "netclass": "90Ohm-diff",
-        "pattern": "/USB/USB_CLK"
+        "pattern": "*USB_BYP*"
       },
       {
         "netclass": "90Ohm-diff",
-        "pattern": "/USB/USB_BYP*"
+        "pattern": "*USB_UP*"
       },
       {
         "netclass": "90Ohm-diff",
-        "pattern": "/USB/USB_UP*"
+        "pattern": "*USB_DN*"
       },
       {
         "netclass": "90Ohm-diff",
-        "pattern": "/USB/USB_DN*"
+        "pattern": "*CAM*"
       },
       {
         "netclass": "90Ohm-diff",
-        "pattern": "CONN_USB*"
-      },
-      {
-        "netclass": "90Ohm-diff",
-        "pattern": "WL_BT_USB*"
-      },
-      {
-        "netclass": "90Ohm-diff",
-        "pattern": "CAM*"
-      },
-      {
-        "netclass": "90Ohm-diff",
-        "pattern": "DSI*"
+        "pattern": "*DSI*"
       },
       {
         "netclass": "85Ohm-diff_PCIe",
-        "pattern": "*PCIe_CLK*"
+        "pattern": "*PF_PCIe_CLK*"
       },
       {
         "netclass": "85Ohm-diff_PCIe",
-        "pattern": "PCIe_TX*"
+        "pattern": "*PCIE.TX*"
       },
       {
         "netclass": "85Ohm-diff_PCIe",
-        "pattern": "PCIe_RX*"
+        "pattern": "*PCIE.RX*"
       },
       {
         "netclass": "100Ohm-diff",
-        "pattern": "HDMI0_TX*"
+        "pattern": "*HDMI0.TX*"
       },
       {
         "netclass": "100Ohm-diff",
-        "pattern": "HDMI0_CLK*"
+        "pattern": "*HDMI0.CLK*"
+      },
+      {
+        "netclass": "50Ohm-se",
+        "pattern": "*Crosslink_D*"
+      },
+      {
+        "netclass": "100Ohm-diff",
+        "pattern": "*PI3HDX511F_TX*"
+      },
+      {
+        "netclass": "100Ohm-diff",
+        "pattern": "*PI3HDX511F_CLK*"
+      },
+      {
+        "netclass": "100Ohm-diff",
+        "pattern": "*/SGMII*"
+      },
+      {
+        "netclass": "50Ohm-se",
+        "pattern": "*SDIO*"
+      },
+      {
+        "netclass": "50Ohm-se",
+        "pattern": "*EMMC.*"
+      },
+      {
+        "netclass": "50Ohm-se",
+        "pattern": "*SD.DAT*"
+      },
+      {
+        "netclass": "50Ohm-se",
+        "pattern": "*MEM.*"
+      },
+      {
+        "netclass": "100Ohm-diff",
+        "pattern": "*LPDDR4.DQS*"
+      },
+      {
+        "netclass": "50Ohm-se",
+        "pattern": "*LPDDR4.C*"
+      },
+      {
+        "netclass": "50Ohm-se",
+        "pattern": "*LPDDR4.???"
+      },
+      {
+        "netclass": "50Ohm-se",
+        "pattern": "*LPDDR4.????"
+      },
+      {
+        "netclass": "50Ohm-se",
+        "pattern": "*LPDDR4.RESET_n"
+      },
+      {
+        "netclass": "50Ohm-se",
+        "pattern": "*LPDDR4.ODT_CA_A"
+      },
+      {
+        "netclass": "100Ohm-diff",
+        "pattern": "*/PI3HDX*"
       },
       {
         "netclass": "90Ohm-diff",
-        "pattern": "Crosslink_D*"
-      },
-      {
-        "netclass": "100Ohm-diff",
-        "pattern": "PI3HDX511F_TX*"
-      },
-      {
-        "netclass": "100Ohm-diff",
-        "pattern": "PI3HDX511F_CLK*"
-      },
-      {
-        "netclass": "100Ohm-diff",
-        "pattern": "/Ethernet/SGMII*"
-      },
-      {
-        "netclass": "100Ohm-diff",
-        "pattern": "SGMII*"
-      },
-      {
-        "netclass": "100Ohm-diff",
-        "pattern": "MSS_SGMII*"
-      },
-      {
-        "netclass": "50Ohm-se",
-        "pattern": "SDIO*"
-      },
-      {
-        "netclass": "50Ohm-se",
-        "pattern": "EMMC_*"
-      },
-      {
-        "netclass": "50Ohm-se",
-        "pattern": "SD_DAT*"
-      },
-      {
-        "netclass": "50Ohm-se",
-        "pattern": "MEM_*"
-      },
-      {
-        "netclass": "100Ohm-diff",
-        "pattern": "/LPDDR4/LPDDR4_DQS*"
-      },
-      {
-        "netclass": "50Ohm-se",
-        "pattern": "/LPDDR4/LPDDR4_C*"
-      },
-      {
-        "netclass": "50Ohm-se",
-        "pattern": "/LPDDR4/LPDDR4_???"
-      },
-      {
-        "netclass": "50Ohm-se",
-        "pattern": "/LPDDR4/LPDDR4_????"
-      },
-      {
-        "netclass": "50Ohm-se",
-        "pattern": "/LPDDR4/LPDDR4_RESET_n"
-      },
-      {
-        "netclass": "50Ohm-se",
-        "pattern": "/LPDDR4/LPDDR4_ODT_CA_A"
-      },
-      {
-        "netclass": "100Ohm-diff",
-        "pattern": "/HDMI/PI3HDX*"
-      },
-      {
-        "netclass": "90Ohm-diff",
-        "pattern": "/USB/USB_?"
+        "pattern": "*USB_?"
       },
       {
         "netclass": "85Ohm-diff_PCIe",
-        "pattern": "/PCIe/XCVR*"
+        "pattern": "*XCVR_TX*"
       },
       {
         "netclass": "50Ohm-se",
@@ -737,7 +721,7 @@
       },
       {
         "netclass": "100Ohm-diff",
-        "pattern": "/SoC/MSS_CLK*"
+        "pattern": "*MSS_CLK*"
       }
     ]
   },
