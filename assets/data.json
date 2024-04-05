@@ -1,18 +1,18 @@
 {
     "id": "polarfire-som",
     "componentIds": [
-        "murata-grm033r71h102ka12d",
-        "tdk-c0603x5r1e104k030bb",
-        "murata-grm033r71e332ka12d",
-        "murata-grm033r71e472ke14d",
-        "yageo-cc0402mrx5r5bb106",
-        "murata-grm033r61e103ka12d",
-        "murata-krm55wr71h476mh13l",
-        "murata-grm033r71e222ka12d",
-        "murata-grm033r61a473ke84d",
-        "murata-grm033r61c105me15d",
-        "kemet-t520b337m006ate040",
+        "murata-grm1555c1h102ja01d",
         "murata-grm155r61h104ke14d",
+        "kemet-c0402c332k5rac",
+        "tdk-cga2b3x7s2a472k050bb",
+        "yageo-cc0402mrx5r5bb106",
+        "murata-grm155r71h103ka88d",
+        "murata-grm188r60j476me15d",
+        "kemet-c0402c222j5ractu",
+        "murata-grm155r61h474ke11d",
+        "tdk-c1005x6s1a105k050bc",
+        "kemet-t520b337m006ate040",
+        "kyocera-avx-w2a4yc104mat2a",
         "murata-grm158r60j226me01d",
         "tdk-c1005x5r1e474m050bb",
         "murata-cl05a104ka5nnnc",
@@ -21,9 +21,6 @@
         "tdk-c1005x5r1a225k050bc",
         "yageo-cc0402jrnpo9bn220",
         "murata-grm155r61a475meaad",
-        "tdk-c1005x6s1a105k050bc",
-        "yageo-cc0201krx6s5bb104",
-        "murata-grm155r71h103ka88d",
         "littelfuse-axgd10402kr",
         "lite-on-ltst-c190gkt",
         "lite-on-ltst-s310f2kt",
@@ -34,9 +31,10 @@
         "coilcraft-xel4020-152mec",
         "abracon-aota-b201208s1r0mt",
         "abracon-aota-b201610s1r5mt",
-        "tdk-tfm252012alma2r2mtaa",
+        "abracon-aota-b160808s2r2mt",
         "panjit-pje138k-r1-00001",
         "diodes-incorporated-dzdh0401dw",
+        "aosmd-ao3401a",
         "bourns-cr0402-fx-1003glf",
         "bourns-cr0402-fx-3092glf",
         "bourns-cr0402-fx-2002glf",
@@ -49,9 +47,9 @@
         "rohm-semiconductor-pmr03ezpj000",
         "bourns-cfn0603afz-r010elf",
         "panasonic-exb-18vr000x",
+        "panasonic-erj2ge0r00x",
         "bourns-cr0402-fx-4701glf",
         "bourns-cr0402-fx-1001glf",
-        "bourns-cr0603-fx-1002elf",
         "bourns-cr0402-fx-1004glf",
         "bourns-cr0402-fx-9312glf",
         "bourns-cr0402-fx-0r27glf",
@@ -59,8 +57,9 @@
         "bourns-cr0402-fx-1102glf",
         "bourns-cr0402-fx-5900glf",
         "bourns-cr0402-fx-4700glf",
-        "bourns-cr0402-fx-2400glf",
         "bourns-cr0402-fx-2201glf",
+        "bourns-cr0402-fx-2400glf",
+        "bourns-cr0402-fx-50r0glf",
         "bourns-cr0402-fx-1501glf",
         "panasonic-erj-h2rd4751x",
         "bourns-cr0402-fx-1202glf",
@@ -68,23 +67,25 @@
         "sandisk-sdinbdg4-8g",
         "micron-technology-mt25ql01gbbb1ew9-0sit",
         "texas-instruments-tps2117drlr",
-        "microchip-technology-pac1934t-i-jq",
+        "microchip-technology-pac1934t-i-j6cx",
         "monolithic-power-systems-mp5424grm-0000-z",
         "monolithic-power-systems-mp8869sgl-p",
         "texas-instruments-dp83867isrgzr",
         "micron-technology-mt53d512m32d2ds-053-wt-d-tr",
         "microchip-technology-usb3315-cp-tr",
         "nxp-nts0102gt",
-        "texas-instruments-sn74lvc1g04dbvr",
+        "diodes-incorporated-pi3hdx511dzle",
         "lattice-semiconductor-lif-md6000-6jmg80i",
+        "microchip-technology-dsc557-0343fi1",
         "nexperia-74lvc1t45gm-q100x",
-        "diodes-incorporated-pi3hdx511fzlcex",
         "diodes-incorporated-pi3usb102gzlex",
         "murata-lbee5pk2ae",
         "microchip-technology-usb2422-i-mj",
         "ecs-inc-international-ecs-2016mv-240-cn-tr",
         "ecs-inc-international-ecs-2016mv-250-cn-tr",
-        "ecs-inc-international-ecs-327mvatx-2-cn-tr3"
+        "microchip-technology-dsc1103di2-125-0000",
+        "ecs-inc-international-ecs-327mvatx-2-cn-tr3",
+        "ecs-inc-international-ecs-1612mv-500-cn-tr"
     ],
     "stackup": {
         "layers": [
@@ -120,6 +121,18 @@
             },
             {
                 "fileName": "layer10.webp"
+            },
+            {
+                "fileName": "layer11.webp"
+            },
+            {
+                "fileName": "layer12.webp"
+            },
+            {
+                "fileName": "layer13.webp"
+            },
+            {
+                "fileName": "layer14.webp"
             }
         ]
     },
