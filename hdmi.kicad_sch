@@ -3728,7 +3728,7 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid f5ba9b14-7a10-4d66-964d-000f30543bf9)
   )
-  (label "PI3HDX511F_SCL" (at 229.235 146.05 0) (fields_autoplaced)
+  (label "PI3HDX511F.SCL" (at 229.235 146.05 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid fbd392da-61a7-4ac8-a741-178a85046bbe)
   )

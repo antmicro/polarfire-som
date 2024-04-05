@@ -2565,14 +2565,14 @@
     )
   )
 
-  (sheet (at 172.847 116.967) (size 26.67 17.78) (fields_autoplaced)
+  (sheet (at 172.847 115.697) (size 26.67 17.78) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 99f116ae-bc8e-42a5-8f88-aecc401b3bcc)
-    (property "Sheetname" "FPGA Supply" (at 172.847 116.2554 0)
+    (property "Sheetname" "FPGA Supply" (at 172.847 114.9854 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "fpga-supply.kicad_sch" (at 172.847 135.3316 0)
+    (property "Sheetfile" "fpga-supply.kicad_sch" (at 172.847 134.0616 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
