@@ -6964,9 +6964,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C52") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C52") (unit 1)
-        )
       )
     )
   )
@@ -6989,9 +6986,6 @@
     (pin "1" (uuid eb310278-a885-464d-8d28-90c3b6792450))
     (instances
       (project "polarfire-som"
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "#PWR0327") (unit 1)
-        )
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "#PWR0327") (unit 1)
         )
@@ -7018,9 +7012,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "#PWR039") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "#PWR039") (unit 1)
         )
       )
@@ -7073,9 +7064,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C54") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C54") (unit 1)
-        )
       )
     )
   )
@@ -7107,9 +7095,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "#PWR016") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "#PWR016") (unit 1)
-        )
       )
     )
   )
@@ -7139,9 +7124,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "#PWR028") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "#PWR028") (unit 1)
         )
       )
@@ -7189,9 +7171,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "C31") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "C31") (unit 1)
         )
       )
@@ -7717,9 +7696,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "U1") (unit 9)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "U1") (unit 9)
-        )
       )
     )
   )
@@ -7765,9 +7741,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "C7") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "C7") (unit 1)
         )
       )
@@ -7817,9 +7790,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C20") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C20") (unit 1)
-        )
       )
     )
   )
@@ -7865,9 +7835,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "C33") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "C33") (unit 1)
         )
       )
@@ -7917,9 +7884,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C40") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C40") (unit 1)
-        )
       )
     )
   )
@@ -7943,9 +7907,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "#PWR0330") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "#PWR0330") (unit 1)
         )
       )
@@ -7995,9 +7956,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C61") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C61") (unit 1)
-        )
       )
     )
   )
@@ -8045,9 +8003,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C56") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C56") (unit 1)
-        )
       )
     )
   )
@@ -8071,9 +8026,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "#PWR019") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "#PWR019") (unit 1)
         )
       )
@@ -8107,9 +8059,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "#PWR018") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "#PWR018") (unit 1)
-        )
       )
     )
   )
@@ -8133,9 +8082,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "#PWR043") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "#PWR043") (unit 1)
         )
       )
@@ -8183,9 +8129,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "C8") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "C8") (unit 1)
         )
       )
@@ -8238,9 +8181,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C49") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C49") (unit 1)
-        )
       )
     )
   )
@@ -8270,9 +8210,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "#PWR010") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "#PWR010") (unit 1)
         )
       )
@@ -8325,9 +8262,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C43") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C43") (unit 1)
-        )
       )
     )
   )
@@ -8373,9 +8307,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "C14") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "C14") (unit 1)
         )
       )
@@ -8428,9 +8359,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C60") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C60") (unit 1)
-        )
       )
     )
   )
@@ -8481,9 +8409,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C21") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C21") (unit 1)
-        )
       )
     )
   )
@@ -8529,9 +8454,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "C15") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "C15") (unit 1)
         )
       )
@@ -8581,9 +8503,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C39") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C39") (unit 1)
-        )
       )
     )
   )
@@ -8631,9 +8550,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C9") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C9") (unit 1)
-        )
       )
     )
   )
@@ -8665,9 +8581,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "#PWR012") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "#PWR012") (unit 1)
-        )
       )
     )
   )
@@ -8691,9 +8604,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "#PWR038") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "#PWR038") (unit 1)
         )
       )
@@ -8725,9 +8635,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "#PWR031") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "#PWR031") (unit 1)
         )
       )
@@ -8777,9 +8684,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C16") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C16") (unit 1)
-        )
       )
     )
   )
@@ -8825,9 +8729,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "C13") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "C13") (unit 1)
         )
       )
@@ -8880,9 +8781,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C66") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C66") (unit 1)
-        )
       )
     )
   )
@@ -8930,9 +8828,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C58") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C58") (unit 1)
-        )
       )
     )
   )
@@ -8956,9 +8851,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "#PWR0332") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "#PWR0332") (unit 1)
         )
       )
@@ -9008,9 +8900,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C17") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C17") (unit 1)
-        )
       )
     )
   )
@@ -9034,9 +8923,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "#PWR0233") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "#PWR0233") (unit 1)
         )
       )
@@ -9068,9 +8954,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "#PWR026") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "#PWR026") (unit 1)
         )
       )
@@ -9120,9 +9003,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C63") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C63") (unit 1)
-        )
       )
     )
   )
@@ -9170,9 +9050,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C34") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C34") (unit 1)
-        )
       )
     )
   )
@@ -9204,9 +9081,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "#PWR027") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "#PWR027") (unit 1)
-        )
       )
     )
   )
@@ -9236,9 +9110,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "#PWR032") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "#PWR032") (unit 1)
         )
       )
@@ -9288,9 +9159,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C44") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C44") (unit 1)
-        )
       )
     )
   )
@@ -9338,9 +9206,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C26") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C26") (unit 1)
-        )
       )
     )
   )
@@ -9364,9 +9229,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "#PWR037") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "#PWR037") (unit 1)
         )
       )
@@ -9416,9 +9278,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C28") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C28") (unit 1)
-        )
       )
     )
   )
@@ -9464,9 +9323,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "C51") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "C51") (unit 1)
         )
       )
@@ -9516,9 +9372,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C46") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C46") (unit 1)
-        )
       )
     )
   )
@@ -9550,9 +9403,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "#PWR042") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "#PWR042") (unit 1)
-        )
       )
     )
   )
@@ -9576,9 +9426,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "#PWR022") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "#PWR022") (unit 1)
         )
       )
@@ -9628,9 +9475,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C25") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C25") (unit 1)
-        )
       )
     )
   )
@@ -9678,9 +9522,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C24") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C24") (unit 1)
-        )
       )
     )
   )
@@ -9710,9 +9551,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "#PWR015") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "#PWR015") (unit 1)
         )
       )
@@ -9746,9 +9584,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "#PWR041") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "#PWR041") (unit 1)
-        )
       )
     )
   )
@@ -9772,9 +9607,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "#PWR020") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "#PWR020") (unit 1)
         )
       )
@@ -9824,9 +9656,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C234") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C234") (unit 1)
-        )
       )
     )
   )
@@ -9850,9 +9679,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "#FLG017") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "#FLG017") (unit 1)
         )
       )
@@ -9902,9 +9728,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C11") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C11") (unit 1)
-        )
       )
     )
   )
@@ -9928,9 +9751,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "#PWR029") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "#PWR029") (unit 1)
         )
       )
@@ -9983,9 +9803,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C233") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C233") (unit 1)
-        )
       )
     )
   )
@@ -10015,9 +9832,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "#PWR024") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "#PWR024") (unit 1)
         )
       )
@@ -10067,9 +9881,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C48") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C48") (unit 1)
-        )
       )
     )
   )
@@ -10117,9 +9928,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C35") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C35") (unit 1)
-        )
       )
     )
   )
@@ -10151,9 +9959,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "#PWR017") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "#PWR017") (unit 1)
-        )
       )
     )
   )
@@ -10179,9 +9984,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "#PWR035") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "#PWR035") (unit 1)
-        )
       )
     )
   )
@@ -10205,9 +10007,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "#PWR0328") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "#PWR0328") (unit 1)
         )
       )
@@ -10255,9 +10054,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "C5") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "C5") (unit 1)
         )
       )
@@ -10310,9 +10106,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C29") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C29") (unit 1)
-        )
       )
     )
   )
@@ -10344,9 +10137,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "#PWR013") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "#PWR013") (unit 1)
-        )
       )
     )
   )
@@ -10376,9 +10166,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "#PWR036") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "#PWR036") (unit 1)
         )
       )
@@ -10428,9 +10215,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C59") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C59") (unit 1)
-        )
       )
     )
   )
@@ -10460,9 +10244,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "#PWR034") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "#PWR034") (unit 1)
         )
       )
@@ -10512,9 +10293,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C50") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C50") (unit 1)
-        )
       )
     )
   )
@@ -10562,9 +10340,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C232") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C232") (unit 1)
-        )
       )
     )
   )
@@ -10596,9 +10371,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "#PWR044") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "#PWR044") (unit 1)
-        )
       )
     )
   )
@@ -10621,9 +10393,6 @@
     (pin "1" (uuid 8ad63cd5-2335-45a1-bb99-b7cc8eda0116))
     (instances
       (project "polarfire-som"
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "#PWR0331") (unit 1)
-        )
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "#PWR0331") (unit 1)
         )
@@ -10652,9 +10421,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "#FLG014") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "#FLG014") (unit 1)
-        )
       )
     )
   )
@@ -10678,9 +10444,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "#PWR0325") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "#PWR0325") (unit 1)
         )
       )
@@ -10730,9 +10493,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C37") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C37") (unit 1)
-        )
       )
     )
   )
@@ -10778,9 +10538,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "C22") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "C22") (unit 1)
         )
       )
@@ -10833,9 +10590,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C262") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C262") (unit 1)
-        )
       )
     )
   )
@@ -10881,9 +10635,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "C55") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "C55") (unit 1)
         )
       )
@@ -10933,9 +10684,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C1") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C1") (unit 1)
-        )
       )
     )
   )
@@ -10965,9 +10713,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "#PWR030") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "#PWR030") (unit 1)
         )
       )
@@ -11001,9 +10746,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "#PWR033") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "#PWR033") (unit 1)
-        )
       )
     )
   )
@@ -11029,9 +10771,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "#FLG015") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "#FLG015") (unit 1)
-        )
       )
     )
   )
@@ -11055,9 +10794,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "#PWR0326") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "#PWR0326") (unit 1)
         )
       )
@@ -11091,9 +10827,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "#PWR011") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "#PWR011") (unit 1)
-        )
       )
     )
   )
@@ -11123,9 +10856,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "#PWR025") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "#PWR025") (unit 1)
         )
       )
@@ -11175,9 +10905,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C62") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C62") (unit 1)
-        )
       )
     )
   )
@@ -11225,9 +10952,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C10") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C10") (unit 1)
-        )
       )
     )
   )
@@ -11251,9 +10975,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "#PWR0329") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "#PWR0329") (unit 1)
         )
       )
@@ -11303,9 +11024,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C57") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C57") (unit 1)
-        )
       )
     )
   )
@@ -11335,9 +11053,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "#PWR023") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "#PWR023") (unit 1)
         )
       )
@@ -11387,9 +11102,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C42") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C42") (unit 1)
-        )
       )
     )
   )
@@ -11434,9 +11146,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "R14") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "R14") (unit 1)
-        )
       )
     )
   )
@@ -11460,9 +11169,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "#PWR021") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "#PWR021") (unit 1)
         )
       )
@@ -11512,9 +11218,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C27") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C27") (unit 1)
-        )
       )
     )
   )
@@ -11562,9 +11265,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C30") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C30") (unit 1)
-        )
       )
     )
   )
@@ -11588,9 +11288,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "#PWR014") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "#PWR014") (unit 1)
         )
       )
@@ -11638,9 +11335,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "C32") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "C32") (unit 1)
         )
       )
@@ -11693,9 +11387,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C65") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C65") (unit 1)
-        )
       )
     )
   )
@@ -11743,9 +11434,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C6") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C6") (unit 1)
-        )
       )
     )
   )
@@ -11791,9 +11479,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "C41") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "C41") (unit 1)
         )
       )
@@ -11846,9 +11531,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C64") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C64") (unit 1)
-        )
       )
     )
   )
@@ -11880,9 +11562,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "#PWR040") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "#PWR040") (unit 1)
-        )
       )
     )
   )
@@ -11906,9 +11585,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "#PWR0232") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "#PWR0232") (unit 1)
         )
       )
@@ -11940,9 +11616,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "#PWR0281") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "#PWR0281") (unit 1)
         )
       )
@@ -11990,9 +11663,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "C38") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "C38") (unit 1)
         )
       )
@@ -12045,9 +11715,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C47") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C47") (unit 1)
-        )
       )
     )
   )
@@ -12098,9 +11765,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C67") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C67") (unit 1)
-        )
       )
     )
   )
@@ -12148,9 +11812,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "C23") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "C23") (unit 1)
-        )
       )
     )
   )
@@ -12182,9 +11843,6 @@
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
           (reference "#PWR0172") (unit 1)
         )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
-          (reference "#PWR0172") (unit 1)
-        )
       )
     )
   )
@@ -12214,9 +11872,6 @@
     (instances
       (project "polarfire-som"
         (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
-          (reference "#PWR0227") (unit 1)
-        )
-        (path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
           (reference "#PWR0227") (unit 1)
         )
       )

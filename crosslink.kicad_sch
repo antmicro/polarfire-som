@@ -4459,7 +4459,7 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 62fb5419-2065-465f-8edd-0d4ee979240d)
   )
-  (label "Crosslink_B1.D0" (at 45.085 123.825 0)
+  (label "Crosslink_B1.D0" (at 45.085 123.825 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 6ac62d67-fef6-4f4e-9567-ef4c566232a3)
   )
