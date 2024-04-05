@@ -4748,7 +4748,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 475319c4-13f2-4d2f-8d65-d5a134eba9ab)
   )
-  (label "CONN.D_P" (at 112.395 217.17 0)
+  (label "CONN.D_P" (at 112.395 217.17 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 48d0736c-536e-4c4a-a7b7-8c8a8720cdcb)
   )
