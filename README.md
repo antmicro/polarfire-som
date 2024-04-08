@@ -10,7 +10,6 @@ This project contains open hardware design files for the Antmicro PolarFire Syst
 The SoM exposes two 100-pin high density connectors with signal assignment that is electrically compatible with [Raspberry Pi Compute Module 4](https://datasheets.raspberrypi.com/cm4/cm4-datasheet.pdf).
 
 The PCB design files were prepared in KiCad 7.
-The PCB layout design is currently a Work in Progress (WiP).
 
 ## Key features
 
