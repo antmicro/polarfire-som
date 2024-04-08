@@ -6,7 +6,7 @@
 
   (title_block
     (title "PolarFire SoM")
-    (date "2024-04-03")
+    (date "2024-04-08")
     (rev "1.0.0")
     (company "Antmicro Ltd")
     (comment 1 "www.antmicro.com")
@@ -5259,7 +5259,7 @@
     )
   )
 
-  (text "PolarFire Transceivers" (at 168.91 97.79 0)
+  (text "PolarFire XCVR" (at 15.24 21.59 0)
     (effects (font (size 4 4) (thickness 0.8) bold) (justify left bottom))
     (uuid 9d67500d-6c82-45c9-81f6-2d3af344ccb6)
   )

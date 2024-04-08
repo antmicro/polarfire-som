@@ -6,7 +6,7 @@
 
   (title_block
     (title "PolarFire SoM")
-    (date "2024-04-03")
+    (date "2024-04-08")
     (rev "1.0.0")
     (company "Antmicro Ltd")
     (comment 1 "www.antmicro.com")
@@ -43,7 +43,7 @@
   )
 
   (polyline (pts (xy 266.7 163.83) (xy 167.64 163.83))
-    (stroke (width 0) (type default))
+    (stroke (width 0) (type dash))
     (uuid 14e612c3-243d-4f00-bfea-27cdd44c3c14)
   )
 
@@ -85,7 +85,7 @@
   )
 
   (polyline (pts (xy 266.7 84.455) (xy 266.7 163.83))
-    (stroke (width 0) (type default))
+    (stroke (width 0) (type dash))
     (uuid 320b6690-2183-42cb-b269-5efae332ee06)
   )
 
@@ -103,7 +103,7 @@
   )
 
   (polyline (pts (xy 167.64 84.455) (xy 266.7 84.455))
-    (stroke (width 0) (type default))
+    (stroke (width 0) (type dash))
     (uuid 3f366954-5708-4763-b5d3-67161fe050fa)
   )
 
@@ -117,7 +117,7 @@
   )
 
   (polyline (pts (xy 167.64 163.83) (xy 167.64 84.455))
-    (stroke (width 0) (type default))
+    (stroke (width 0) (type dash))
     (uuid 4ac8481b-d431-4126-af99-f57076243965)
   )
 

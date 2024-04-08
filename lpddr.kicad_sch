@@ -6,7 +6,7 @@
 
   (title_block
     (title "PolarFire SoM")
-    (date "2024-04-03")
+    (date "2024-04-08")
     (rev "1.0.0")
     (company "Antmicro Ltd")
     (comment 1 "www.antmicro.com")
@@ -4861,7 +4861,7 @@
     (effects (font (size 2 2) (thickness 0.8) bold) (justify left bottom))
     (uuid a607c0e5-d01d-4b80-be78-4c1c6190c55d)
   )
-  (text "LPDDR4" (at 177.165 45.085 0)
+  (text "LPDDR4" (at 14.605 22.225 0)
     (effects (font (size 4 4) (thickness 0.8) bold) (justify left bottom))
     (uuid ce8ecd5f-b987-4a61-9182-db670e631470)
   )
