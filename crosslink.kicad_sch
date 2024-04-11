@@ -1041,8 +1041,8 @@
     )
   )
 
+  (bus_alias "CPI" (members "D[0..9]" "HSYNC" "VSYNC" "PCLK"))
   (bus_alias "SPI" (members "MISO" "MOSI" "CLK" "CS"))
-  (bus_alias "subLVDS" (members "D[0..9]" "HSYNC" "VSYNC" "PCLK"))
   (junction (at 148.59 192.405) (diameter 0) (color 0 0 0 0)
     (uuid 014b09b7-0fc7-4fcd-a57d-b17736cc7484)
   )
@@ -4740,7 +4740,7 @@
     )
   )
 
-  (hierarchical_label "Crosslink_B1{subLVDS}" (shape input) (at 55.245 106.68 180) (fields_autoplaced)
+  (hierarchical_label "Crosslink_B1{CPI}" (shape input) (at 55.245 106.68 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 1ee37659-ba59-49bf-8a43-45bfcfbb33b9)
   )
@@ -4752,7 +4752,7 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 8fccc907-efaf-41b8-a8d9-d241f69ca92a)
   )
-  (hierarchical_label "Crosslink_B2{subLVDS}" (shape input) (at 55.245 149.86 180) (fields_autoplaced)
+  (hierarchical_label "Crosslink_B2{CPI}" (shape input) (at 55.245 149.86 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid ce05f8a3-a23e-449a-a817-fbb61ffc4f4e)
   )

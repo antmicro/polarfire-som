@@ -2866,11 +2866,11 @@
     (uuid f23bb9ef-44b4-4e68-855b-4d3c6c27f9e6)
   )
 
-  (hierarchical_label "Crosslink_B1{subLVDS}" (shape input) (at 149.225 71.755 180) (fields_autoplaced)
+  (hierarchical_label "Crosslink_B1{CPI}" (shape input) (at 149.225 71.755 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 34271f83-e69d-4c1b-b68c-48336eb63def)
   )
-  (hierarchical_label "Crosslink_B2{subLVDS}" (shape input) (at 123.19 79.375 180) (fields_autoplaced)
+  (hierarchical_label "Crosslink_B2{CPI}" (shape input) (at 123.19 79.375 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 7d330762-9afd-41db-9fa5-54a5b3fa6427)
   )
