@@ -1402,7 +1402,7 @@
 
   (bus_alias "I^{2}C" (members "SDA" "SCL"))
   (bus_alias "MDI" (members "TXRX_A_P" "TXRX_A_N" "TXRX_B_P" "TXRX_B_N" "TXRX_C_P" "TXRX_C_N" "TXRX_D_P" "TXRX_D_N" "LED[0..2]" "SYNC_IN" "SYNC_OUT"))
-  (bus_alias "SDIO" (members "DAT[0..7]" "CMD" "CLK" "STRB" "RST_n"))
+  (bus_alias "SDIO" (members "DAT[0..7]" "CMD" "CLK" "STRB" "RST_n" "CD"))
   (junction (at 218.44 128.27) (diameter 0) (color 0 0 0 0)
     (uuid 0d2dd90d-4301-4982-a9fd-d4edec3c1a82)
   )
