@@ -14,7 +14,7 @@ The PCB design files were prepared in KiCad 7.
 ## Key features
 
 * PolarFire SoC MPFS250T
-* 16 GB LPDDR4-1866 SDRAM
+* 2 GB LPDDR4-1866 SDRAM
 * 8 GB eMMC flash memory
 * Gigabit Ethernet PHY (Ti/[DP83867ISRGZR](https://www.ti.com/lit/gpn/DP83867IS))
 * 4-lane PCIe (via MPFS250T built-in XCVR transceivers)
