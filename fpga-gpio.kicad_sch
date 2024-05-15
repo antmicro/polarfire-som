@@ -7366,7 +7366,7 @@
   )
 
   (symbol (lib_id "antmicroTransistorsFETsMOSFETsSingle:DMG1012T-7") (at 87.63 247.015 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 9096d01b-424b-42cc-beef-dbb73e1c5eae)
     (property "Reference" "Q8" (at 97.79 243.205 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
@@ -7567,7 +7567,7 @@
   )
 
   (symbol (lib_id "antmicroTransistorsFETsMOSFETsSingle:DMG1012T-7") (at 59.69 246.38 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid b0d7bd17-681c-432e-ba98-e6268a077ca0)
     (property "Reference" "Q7" (at 69.85 242.57 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
@@ -8261,7 +8261,7 @@
   )
 
   (symbol (lib_id "antmicroTransistorsFETsMOSFETsSingle:DMG1012T-7") (at 30.48 246.38 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid eccdeced-c3e0-4a0c-9bd4-c70be78cbdfa)
     (property "Reference" "Q5" (at 40.64 242.57 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))

@@ -12066,7 +12066,7 @@
   )
 
   (symbol (lib_id "antmicroTransistorsFETsMOSFETsSingle:DMG1012T-7") (at 359.41 144.78 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid dbaeadd9-04c3-4d9b-abd1-1d2bdfd887e8)
     (property "Reference" "Q6" (at 369.57 140.97 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
