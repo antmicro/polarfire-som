@@ -4526,7 +4526,7 @@
   )
 
   (symbol (lib_id "antmicroTestPoints:Tag-Connect_TC2050-IDC-NL_2x5_P1.27mm") (at 200.66 215.9 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid e08075e0-31fb-4a1e-8761-9ece9996c5f1)
     (property "Reference" "J2" (at 205.74 208.28 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -4551,6 +4551,9 @@
     )
     (property "License" "Apache-2.0" (at 220.98 233.68 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+    )
+    (property "DNP" "DNP" (at 200.66 215.9 0)
+      (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 9c721ae5-604d-4d19-a218-5e4f7db24d67))
     (pin "6" (uuid a8c6e63a-756c-4f97-9f54-c872ea590ed9))
