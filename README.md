@@ -2,7 +2,7 @@
 
 Copyright (c) 2023-2024 [Antmicro](https://www.antmicro.com)
 
-![](img/polarfire-som-photo.png)
+![PCB render](./assets/previews/rightT.png)
 
 ## Overview
 
