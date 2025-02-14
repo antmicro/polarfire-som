@@ -18142,7 +18142,6 @@
 	)
 	(label "XCVR_VREF"
 		(at 30.48 240.03 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18153,7 +18152,6 @@
 	)
 	(label "XCVR_VREF"
 		(at 248.92 92.71 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

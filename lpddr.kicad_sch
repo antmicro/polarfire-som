@@ -10771,7 +10771,6 @@
 	)
 	(label "LPDDR4.DQ31"
 		(at 275.59 111.76 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10782,7 +10781,6 @@
 	)
 	(label "LPDDR4.CA3_A"
 		(at 207.01 76.2 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10793,7 +10791,6 @@
 	)
 	(label "LPDDR4.DMI2"
 		(at 275.59 114.3 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10804,7 +10801,6 @@
 	)
 	(label "LPDDR4.ODT_CA_A"
 		(at 101.6 88.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10815,7 +10811,6 @@
 	)
 	(label "LPDDR4.ODT_CA_A"
 		(at 207.01 88.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10826,7 +10821,6 @@
 	)
 	(label "LPDDR4.CA0_A"
 		(at 207.01 83.82 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10837,7 +10831,6 @@
 	)
 	(label "LPDDR4.DMI3"
 		(at 275.59 116.84 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10848,7 +10841,6 @@
 	)
 	(label "LPDDR4.CK_N"
 		(at 101.6 93.98 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10859,7 +10851,6 @@
 	)
 	(label "LPDDR4.DQ30"
 		(at 275.59 109.22 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10870,7 +10861,6 @@
 	)
 	(label "LPDDR4.CKE0_A"
 		(at 101.6 91.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10881,7 +10871,6 @@
 	)
 	(label "LPDDR4.DQ11"
 		(at 171.45 101.6 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10892,7 +10881,6 @@
 	)
 	(label "LPDDR4.DQS0_P"
 		(at 171.45 66.04 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10903,7 +10891,6 @@
 	)
 	(label "LPDDR4.CK_N"
 		(at 207.01 93.98 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10914,7 +10901,6 @@
 	)
 	(label "LPDDR4.RESET_n"
 		(at 101.6 99.06 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10925,7 +10911,6 @@
 	)
 	(label "LPDDR4.CS0_A"
 		(at 207.01 86.36 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10936,7 +10921,6 @@
 	)
 	(label "LPDDR4.DQ9"
 		(at 171.45 96.52 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10947,7 +10931,6 @@
 	)
 	(label "LPDDR4.DQ0"
 		(at 171.45 73.66 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10958,7 +10941,6 @@
 	)
 	(label "LPDDR4.DQ18"
 		(at 275.59 78.74 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10969,7 +10951,6 @@
 	)
 	(label "LPDDR4.CA2_A"
 		(at 101.6 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10980,7 +10961,6 @@
 	)
 	(label "LPDDR4.DQ26"
 		(at 275.59 99.06 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10991,7 +10971,6 @@
 	)
 	(label "LPDDR4.DQ27"
 		(at 275.59 101.6 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11002,7 +10981,6 @@
 	)
 	(label "LPDDR4.DQ28"
 		(at 275.59 104.14 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11013,7 +10991,6 @@
 	)
 	(label "LPDDR4.DQS3_N"
 		(at 275.59 68.58 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11024,7 +11001,6 @@
 	)
 	(label "LPDDR4.CA3_A"
 		(at 101.6 76.2 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11035,7 +11011,6 @@
 	)
 	(label "LPDDR4.DQ19"
 		(at 275.59 81.28 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11046,7 +11021,6 @@
 	)
 	(label "LPDDR4.DQ4"
 		(at 171.45 83.82 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11057,7 +11031,6 @@
 	)
 	(label "LPDDR4.DQS2_N"
 		(at 275.59 63.5 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11068,7 +11041,6 @@
 	)
 	(label "LPDDR4.CA1_A"
 		(at 207.01 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11079,7 +11051,6 @@
 	)
 	(label "LPDDR4.CA4_A"
 		(at 207.01 73.66 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11090,7 +11061,6 @@
 	)
 	(label "LPDDR4.CA1_A"
 		(at 101.6 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11101,7 +11071,6 @@
 	)
 	(label "LPDDR4.CK_P"
 		(at 207.01 96.52 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11112,7 +11081,6 @@
 	)
 	(label "LPDDR4.DQ15"
 		(at 171.45 111.76 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11123,7 +11091,6 @@
 	)
 	(label "LPDDR4.DQ5"
 		(at 171.45 86.36 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11134,7 +11101,6 @@
 	)
 	(label "LPDDR4.DQ10"
 		(at 171.45 99.06 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11145,7 +11111,6 @@
 	)
 	(label "LPDDR4.CK_P"
 		(at 101.6 96.52 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11156,7 +11121,6 @@
 	)
 	(label "LPDDR4.DQ23"
 		(at 275.59 91.44 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11167,7 +11131,6 @@
 	)
 	(label "LPDDR4.DQ12"
 		(at 171.45 104.14 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11178,7 +11141,6 @@
 	)
 	(label "LPDDR4.CS0_A"
 		(at 101.6 86.36 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11189,7 +11151,6 @@
 	)
 	(label "LPDDR4.DQ6"
 		(at 171.45 88.9 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11200,7 +11161,6 @@
 	)
 	(label "LPDDR4.DQ25"
 		(at 275.59 96.52 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11211,7 +11171,6 @@
 	)
 	(label "LPDDR4.DQS0_N"
 		(at 171.45 63.5 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11222,7 +11181,6 @@
 	)
 	(label "LPDDR4.DQ29"
 		(at 275.59 106.68 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11233,7 +11191,6 @@
 	)
 	(label "LPDDR4.CA5_A"
 		(at 101.6 71.12 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11244,7 +11201,6 @@
 	)
 	(label "LPDDR4.DMI0"
 		(at 171.45 114.3 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11255,7 +11211,6 @@
 	)
 	(label "LPDDR4.DQ2"
 		(at 171.45 78.74 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11266,7 +11221,6 @@
 	)
 	(label "LPDDR4.DMI1"
 		(at 171.45 116.84 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11277,7 +11231,6 @@
 	)
 	(label "LPDDR4.DQ14"
 		(at 171.45 109.22 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11288,7 +11241,6 @@
 	)
 	(label "LPDDR4.DQ8"
 		(at 171.45 93.98 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11299,7 +11251,6 @@
 	)
 	(label "LPDDR4.CA2_A"
 		(at 207.01 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11310,7 +11261,6 @@
 	)
 	(label "LPDDR4.DQ3"
 		(at 171.45 81.28 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11321,7 +11271,6 @@
 	)
 	(label "LPDDR4.DQ13"
 		(at 171.45 106.68 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11332,7 +11281,6 @@
 	)
 	(label "LPDDR4.DQ21"
 		(at 275.59 86.36 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11343,7 +11291,6 @@
 	)
 	(label "LPDDR4.CA0_A"
 		(at 101.6 83.82 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11354,7 +11301,6 @@
 	)
 	(label "LPDDR4.DQ20"
 		(at 275.59 83.82 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11365,7 +11311,6 @@
 	)
 	(label "LPDDR4.CKE0_A"
 		(at 207.01 91.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11376,7 +11321,6 @@
 	)
 	(label "LPDDR4.DQ17"
 		(at 275.59 76.2 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11387,7 +11331,6 @@
 	)
 	(label "LPDDR4.CA5_A"
 		(at 207.01 71.12 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11398,7 +11341,6 @@
 	)
 	(label "LPDDR4.DQS2_P"
 		(at 275.59 66.04 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11409,7 +11351,6 @@
 	)
 	(label "LPDDR4.DQ7"
 		(at 171.45 91.44 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11420,7 +11361,6 @@
 	)
 	(label "LPDDR4.DQS1_N"
 		(at 171.45 68.58 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11431,7 +11371,6 @@
 	)
 	(label "LPDDR4.DQS1_P"
 		(at 171.45 71.12 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11442,7 +11381,6 @@
 	)
 	(label "LPDDR4.DQ16"
 		(at 275.59 73.66 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11453,7 +11391,6 @@
 	)
 	(label "LPDDR4.DQ24"
 		(at 275.59 93.98 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11464,7 +11401,6 @@
 	)
 	(label "LPDDR4.CA4_A"
 		(at 101.6 73.66 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11475,7 +11411,6 @@
 	)
 	(label "LPDDR4.DQ22"
 		(at 275.59 88.9 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11486,7 +11421,6 @@
 	)
 	(label "LPDDR4.DQS3_P"
 		(at 275.59 71.12 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11497,7 +11431,6 @@
 	)
 	(label "LPDDR4.DQ1"
 		(at 171.45 76.2 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11509,7 +11442,6 @@
 	(hierarchical_label "LPDDR4{LPDDR4}"
 		(shape input)
 		(at 280.67 58.42 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11521,7 +11453,6 @@
 	(hierarchical_label "LPDDR4{LPDDR4}"
 		(shape input)
 		(at 176.53 58.42 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11533,7 +11464,6 @@
 	(hierarchical_label "LPDDR4{LPDDR4}"
 		(shape input)
 		(at 201.93 66.04 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11545,7 +11475,6 @@
 	(hierarchical_label "LPDDR4{LPDDR4}"
 		(shape input)
 		(at 96.52 63.5 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

@@ -15685,7 +15685,6 @@
 	)
 	(label "SENSE1_N"
 		(at 115.57 52.07 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15696,7 +15695,6 @@
 	)
 	(label "1V05_REG"
 		(at 273.685 219.71 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15707,7 +15705,6 @@
 	)
 	(label "SUPPLY.SCL"
 		(at 212.09 105.41 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15718,7 +15715,6 @@
 	)
 	(label "PG"
 		(at 347.98 144.78 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15729,7 +15725,6 @@
 	)
 	(label "SUPPLY.SCL"
 		(at 176.53 135.89 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15740,7 +15735,6 @@
 	)
 	(label "PG"
 		(at 208.28 101.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15751,7 +15745,6 @@
 	)
 	(label "SUPPLY.SDA"
 		(at 213.995 237.49 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15762,7 +15755,6 @@
 	)
 	(label "PR"
 		(at 57.15 215.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15773,7 +15765,6 @@
 	)
 	(label "SENSE3_N"
 		(at 306.07 67.31 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15784,7 +15775,6 @@
 	)
 	(label "PG"
 		(at 218.44 233.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15795,7 +15785,6 @@
 	)
 	(label "SENSE4_P"
 		(at 278.13 116.84 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15806,7 +15795,6 @@
 	)
 	(label "SENSE4_P"
 		(at 115.57 64.77 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15817,7 +15805,6 @@
 	)
 	(label "SENSE1_N"
 		(at 306.07 52.07 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15828,7 +15815,6 @@
 	)
 	(label "SENSE2_P"
 		(at 278.13 99.06 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15839,7 +15825,6 @@
 	)
 	(label "SENSE1_P"
 		(at 115.57 49.53 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15850,7 +15835,6 @@
 	)
 	(label "1V05_VCC"
 		(at 189.23 227.33 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15861,7 +15845,6 @@
 	)
 	(label "1V05_FB"
 		(at 244.475 234.95 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15872,7 +15855,6 @@
 	)
 	(label "PWRON"
 		(at 213.36 224.79 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15883,7 +15865,6 @@
 	)
 	(label "SENSE3_P"
 		(at 115.57 59.69 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15894,7 +15875,6 @@
 	)
 	(label "SENSE3_P"
 		(at 278.13 67.31 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15905,7 +15885,6 @@
 	)
 	(label "SENSE4_N"
 		(at 306.07 116.84 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15916,7 +15895,6 @@
 	)
 	(label "1V05_REG"
 		(at 252.73 227.33 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15927,7 +15905,6 @@
 	)
 	(label "SENSE3_N"
 		(at 115.57 62.23 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15938,7 +15915,6 @@
 	)
 	(label "PWRON"
 		(at 85.09 135.89 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15949,7 +15925,6 @@
 	)
 	(label "PWRON"
 		(at 204.47 96.52 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15960,7 +15935,6 @@
 	)
 	(label "SENSE4_N"
 		(at 115.57 67.31 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15971,7 +15945,6 @@
 	)
 	(label "SENSE2_N"
 		(at 115.57 57.15 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15982,7 +15955,6 @@
 	)
 	(label "SENSE1_P"
 		(at 278.13 52.07 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15993,7 +15965,6 @@
 	)
 	(label "SUPPLY.SCL"
 		(at 213.995 240.03 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16004,7 +15975,6 @@
 	)
 	(label "SENSE2_P"
 		(at 115.57 54.61 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16015,7 +15985,6 @@
 	)
 	(label "SUPPLY.SDA"
 		(at 176.53 138.43 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16026,7 +15995,6 @@
 	)
 	(label "1V05_SW"
 		(at 243.84 207.01 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16037,7 +16005,6 @@
 	)
 	(label "SUPPLY.SDA"
 		(at 60.325 57.15 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16048,7 +16015,6 @@
 	)
 	(label "SUPPLY.SCL"
 		(at 60.325 54.61 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16059,7 +16025,6 @@
 	)
 	(label "SUPPLY.SDA"
 		(at 212.09 107.95 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16070,7 +16035,6 @@
 	)
 	(label "1V05_SS"
 		(at 244.475 242.57 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16081,7 +16045,6 @@
 	)
 	(label "PR"
 		(at 33.02 229.87 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16092,7 +16055,6 @@
 	)
 	(label "1V05_BS"
 		(at 231.14 207.01 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16103,7 +16065,6 @@
 	)
 	(label "PR"
 		(at 57.15 248.92 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16114,7 +16075,6 @@
 	)
 	(label "SENSE2_N"
 		(at 306.07 99.06 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16252,7 +16212,6 @@
 	(hierarchical_label "SUPPLY{I^{2}C}"
 		(shape input)
 		(at 40.64 40.64 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16264,7 +16223,6 @@
 	(hierarchical_label "SUPPLY{I^{2}C}"
 		(shape input)
 		(at 191.77 120.65 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16276,7 +16234,6 @@
 	(hierarchical_label "SUPPLY{I^{2}C}"
 		(shape input)
 		(at 194.31 254 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

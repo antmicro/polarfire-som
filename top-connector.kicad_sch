@@ -6351,7 +6351,6 @@
 	)
 	(label "SD.DAT7"
 		(at 275.717 163.83 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6362,7 +6361,6 @@
 	)
 	(label "SD.DAT6"
 		(at 275.717 166.37 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6373,7 +6371,6 @@
 	)
 	(label "ETH.SYNC_IN"
 		(at 233.68 95.25 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6384,7 +6381,6 @@
 	)
 	(label "I^{2}C0.SCL"
 		(at 276.225 176.53 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6395,7 +6391,6 @@
 	)
 	(label "ETH.TXRX_B_N"
 		(at 233.68 82.55 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6406,7 +6401,6 @@
 	)
 	(label "ETH.TXRX_C_P"
 		(at 181.61 90.17 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6417,7 +6411,6 @@
 	)
 	(label "SD.DAT5"
 		(at 275.717 156.21 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6428,7 +6421,6 @@
 	)
 	(label "ETH.TXRX_C_N"
 		(at 181.61 87.63 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6439,7 +6431,6 @@
 	)
 	(label "ETH.SYNC_OUT"
 		(at 233.68 97.79 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6450,7 +6441,6 @@
 	)
 	(label "ETH.LED2"
 		(at 181.61 95.25 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6461,7 +6451,6 @@
 	)
 	(label "SD.CLK"
 		(at 133.35 148.59 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6472,7 +6461,6 @@
 	)
 	(label "SD.DAT0"
 		(at 133.35 156.21 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6483,7 +6471,6 @@
 	)
 	(label "ETH.TXRX_D_N"
 		(at 181.61 82.55 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6494,7 +6481,6 @@
 	)
 	(label "ID.SCL"
 		(at 142.24 120.65 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6505,7 +6491,6 @@
 	)
 	(label "PI_LED_nPWR"
 		(at 162.56 196.85 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6516,7 +6501,6 @@
 	)
 	(label "PI_LED_nPWR"
 		(at 185.42 196.85 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6527,7 +6511,6 @@
 	)
 	(label "SD.DAT2"
 		(at 133.35 163.83 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6538,7 +6521,6 @@
 	)
 	(label "ETH.TXRX_D_P"
 		(at 181.61 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6549,7 +6531,6 @@
 	)
 	(label "SD.DAT1"
 		(at 133.35 161.29 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6560,7 +6541,6 @@
 	)
 	(label "SD.DAT3"
 		(at 133.35 153.67 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6571,7 +6551,6 @@
 	)
 	(label "ID.SDA"
 		(at 283.21 120.65 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6582,7 +6561,6 @@
 	)
 	(label "ETH.TXRX_A_N"
 		(at 233.68 87.63 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6593,7 +6571,6 @@
 	)
 	(label "SD.CMD"
 		(at 275.717 153.67 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6604,7 +6581,6 @@
 	)
 	(label "ETH.LED1"
 		(at 181.61 97.79 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6615,7 +6591,6 @@
 	)
 	(label "SD.DAT4"
 		(at 275.717 161.29 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6626,7 +6601,6 @@
 	)
 	(label "ETH.TXRX_B_P"
 		(at 233.68 80.01 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6637,7 +6611,6 @@
 	)
 	(label "ETH.TXRX_A_P"
 		(at 233.68 90.17 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6648,7 +6621,6 @@
 	)
 	(label "I^{2}C0.SDA"
 		(at 276.225 179.07 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7352,7 +7324,6 @@
 	(hierarchical_label "ID{I^{2}C}"
 		(shape input)
 		(at 137.16 115.57 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7364,7 +7335,6 @@
 	(hierarchical_label "SD{SDIO}"
 		(shape input)
 		(at 281.94 148.59 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7376,7 +7346,6 @@
 	(hierarchical_label "SD{SDIO}"
 		(shape input)
 		(at 127 143.51 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7388,7 +7357,6 @@
 	(hierarchical_label "ID{I^{2}C}"
 		(shape input)
 		(at 288.29 115.57 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7400,7 +7368,6 @@
 	(hierarchical_label "I^{2}C0{I^{2}C}"
 		(shape input)
 		(at 281.94 171.45 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7412,7 +7379,6 @@
 	(hierarchical_label "ETH{MDI}"
 		(shape input)
 		(at 176.53 74.93 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7424,7 +7390,6 @@
 	(hierarchical_label "ETH{MDI}"
 		(shape input)
 		(at 238.76 74.93 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

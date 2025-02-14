@@ -11869,7 +11869,6 @@
 	)
 	(label "Flash.CLK"
 		(at 167.64 166.37 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11880,7 +11879,6 @@
 	)
 	(label "Flash.CS"
 		(at 167.64 168.91 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11891,7 +11889,6 @@
 	)
 	(label "Flash.MISO"
 		(at 170.18 99.06 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11902,7 +11899,6 @@
 	)
 	(label "Flash.CS"
 		(at 170.18 101.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11913,7 +11909,6 @@
 	)
 	(label "Flash.MISO"
 		(at 213.36 166.37 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11924,7 +11919,6 @@
 	)
 	(label "Flash.CLK"
 		(at 170.18 93.98 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11935,7 +11929,6 @@
 	)
 	(label "Flash.MOSI"
 		(at 213.36 163.83 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11946,7 +11939,6 @@
 	)
 	(label "Flash.MOSI"
 		(at 170.18 96.52 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

@@ -7309,7 +7309,6 @@
 	)
 	(label "CAM0.C_P"
 		(at 271.78 128.27 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7320,7 +7319,6 @@
 	)
 	(label "CONN.D_P"
 		(at 196.85 82.55 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7331,7 +7329,6 @@
 	)
 	(label "CAM1.D2_P"
 		(at 186.055 120.65 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7342,7 +7339,6 @@
 	)
 	(label "HDMI0.SCL"
 		(at 272.415 201.93 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7353,7 +7349,6 @@
 	)
 	(label "CAM1.C_N"
 		(at 186.055 110.49 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7364,7 +7359,6 @@
 	)
 	(label "PCIE.RXD1_N"
 		(at 272.415 143.51 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7375,7 +7369,6 @@
 	)
 	(label "PCIE.TXD3_N"
 		(at 186.69 156.21 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7386,7 +7379,6 @@
 	)
 	(label "PCIE.TXD2_N"
 		(at 272.415 151.13 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7397,7 +7389,6 @@
 	)
 	(label "CAM1.C_P"
 		(at 186.055 113.03 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7408,7 +7399,6 @@
 	)
 	(label "CAM0.D0_N"
 		(at 271.78 110.49 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7419,7 +7409,6 @@
 	)
 	(label "HDMI0.SDA"
 		(at 222.25 201.93 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7430,7 +7419,6 @@
 	)
 	(label "DSI1.D0_P"
 		(at 187.96 173.99 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7441,7 +7429,6 @@
 	)
 	(label "PCIE.TXD1_P"
 		(at 272.415 133.35 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7452,7 +7439,6 @@
 	)
 	(label "CAM1.D0_N"
 		(at 186.055 95.25 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7463,7 +7449,6 @@
 	)
 	(label "PCIE.TXD3_P"
 		(at 186.69 158.75 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7474,7 +7459,6 @@
 	)
 	(label "HDMI0.CLK_N"
 		(at 272.415 189.23 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7485,7 +7469,6 @@
 	)
 	(label "DSI1.C_N"
 		(at 187.96 186.69 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7496,7 +7479,6 @@
 	)
 	(label "CAM1.D3_N"
 		(at 186.055 125.73 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7507,7 +7489,6 @@
 	)
 	(label "DSI1.D2_P"
 		(at 187.96 196.85 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7518,7 +7499,6 @@
 	)
 	(label "PCIE.RXD1_P"
 		(at 272.415 140.97 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7529,7 +7509,6 @@
 	)
 	(label "HDMI0.TX2_N"
 		(at 272.415 166.37 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7540,7 +7519,6 @@
 	)
 	(label "CAM1.D0_P"
 		(at 186.055 97.79 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7551,7 +7529,6 @@
 	)
 	(label "DSI1.D1_N"
 		(at 187.96 179.07 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7562,7 +7539,6 @@
 	)
 	(label "CAM0.D1_N"
 		(at 271.78 118.11 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7573,7 +7549,6 @@
 	)
 	(label "DSI1.D2_N"
 		(at 187.96 194.31 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7584,7 +7559,6 @@
 	)
 	(label "PCIE.RXD2_P"
 		(at 186.69 151.13 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7595,7 +7569,6 @@
 	)
 	(label "PCIE.CLK_P"
 		(at 272.415 87.63 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7606,7 +7579,6 @@
 	)
 	(label "HDMI0.CLK_P"
 		(at 272.415 186.69 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7617,7 +7589,6 @@
 	)
 	(label "DSI1.C_P"
 		(at 187.96 189.23 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7628,7 +7599,6 @@
 	)
 	(label "PCIE.TXD0_P"
 		(at 272.415 102.87 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7639,7 +7609,6 @@
 	)
 	(label "DSI1.D3_P"
 		(at 271.145 196.85 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7650,7 +7619,6 @@
 	)
 	(label "CAM1.D3_P"
 		(at 186.055 128.27 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7661,7 +7629,6 @@
 	)
 	(label "HDMI0.TX0_N"
 		(at 272.415 181.61 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7672,7 +7639,6 @@
 	)
 	(label "CAM0.D0_P"
 		(at 271.78 113.03 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7683,7 +7649,6 @@
 	)
 	(label "HDMI0.TX0_P"
 		(at 272.415 179.07 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7694,7 +7659,6 @@
 	)
 	(label "PCIE.RXD3_N"
 		(at 272.415 158.75 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7705,7 +7669,6 @@
 	)
 	(label "PCIE.TXD0_N"
 		(at 272.415 105.41 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7716,7 +7679,6 @@
 	)
 	(label "CAM1.D1_P"
 		(at 186.055 105.41 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7727,7 +7689,6 @@
 	)
 	(label "CAM0.C_N"
 		(at 271.78 125.73 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7738,7 +7699,6 @@
 	)
 	(label "HDMI0.TX2_P"
 		(at 272.415 163.83 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7749,7 +7709,6 @@
 	)
 	(label "HDMI0.TX1_P"
 		(at 272.415 171.45 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7760,7 +7719,6 @@
 	)
 	(label "PCIE.TXD1_N"
 		(at 272.415 135.89 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7771,7 +7729,6 @@
 	)
 	(label "CONN.D_N"
 		(at 196.85 80.01 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7782,7 +7739,6 @@
 	)
 	(label "PCIE.RXD2_N"
 		(at 186.69 148.59 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7793,7 +7749,6 @@
 	)
 	(label "PCIE.TXD2_P"
 		(at 272.415 148.59 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7804,7 +7759,6 @@
 	)
 	(label "PCIE.RXD0_N"
 		(at 272.415 97.79 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7815,7 +7769,6 @@
 	)
 	(label "PCIE.CLK_N"
 		(at 272.415 90.17 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7826,7 +7779,6 @@
 	)
 	(label "HDMI0.TX1_N"
 		(at 272.415 173.99 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7837,7 +7789,6 @@
 	)
 	(label "PCIE.RXD0_P"
 		(at 272.415 95.25 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7848,7 +7799,6 @@
 	)
 	(label "CAM1.D1_N"
 		(at 186.055 102.87 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7859,7 +7809,6 @@
 	)
 	(label "DSI1.D0_N"
 		(at 187.96 171.45 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7870,7 +7819,6 @@
 	)
 	(label "DSI1.D3_N"
 		(at 271.145 194.31 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7881,7 +7829,6 @@
 	)
 	(label "CAM0.D1_P"
 		(at 271.78 120.65 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7892,7 +7839,6 @@
 	)
 	(label "DSI1.D1_P"
 		(at 187.96 181.61 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7903,7 +7849,6 @@
 	)
 	(label "PCIE.RXD3_P"
 		(at 272.415 156.21 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7914,7 +7859,6 @@
 	)
 	(label "CAM1.D2_N"
 		(at 186.055 118.11 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8010,7 +7954,6 @@
 	(hierarchical_label "DSI1{DSI}"
 		(shape bidirectional)
 		(at 278.13 189.23 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8022,7 +7965,6 @@
 	(hierarchical_label "HDMI0{HDMI}"
 		(shape bidirectional)
 		(at 278.13 158.75 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8034,7 +7976,6 @@
 	(hierarchical_label "PCIE{PCIe_x4}"
 		(shape bidirectional)
 		(at 278.13 128.27 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8046,7 +7987,6 @@
 	(hierarchical_label "CAM0{CSI}"
 		(shape bidirectional)
 		(at 278.13 105.41 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8058,7 +7998,6 @@
 	(hierarchical_label "CONN{USB}"
 		(shape input)
 		(at 179.07 74.93 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8070,7 +8009,6 @@
 	(hierarchical_label "HDMI0{I^{2}C}"
 		(shape bidirectional)
 		(at 181.61 196.85 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8082,7 +8020,6 @@
 	(hierarchical_label "DSI1{DSI}"
 		(shape bidirectional)
 		(at 181.61 166.37 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8094,7 +8031,6 @@
 	(hierarchical_label "HDMI0{I^{2}C}"
 		(shape bidirectional)
 		(at 278.13 196.85 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8106,7 +8042,6 @@
 	(hierarchical_label "PCIE{PCIe_x4}"
 		(shape bidirectional)
 		(at 181.61 143.51 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8118,7 +8053,6 @@
 	(hierarchical_label "CAM1{CSI}"
 		(shape bidirectional)
 		(at 179.07 90.17 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8130,7 +8064,6 @@
 	(hierarchical_label "PCIE{PCIe_x4}"
 		(shape bidirectional)
 		(at 278.13 82.55 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

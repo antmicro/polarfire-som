@@ -7867,7 +7867,6 @@
 	)
 	(label "ETH.SYNC_OUT"
 		(at 177.8 110.49 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7878,7 +7877,6 @@
 	)
 	(label "ETH.TXRX_B_N"
 		(at 99.695 68.58 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7889,7 +7887,6 @@
 	)
 	(label "SGMII.TX0_P"
 		(at 220.98 81.28 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7900,7 +7897,6 @@
 	)
 	(label "SGMII.RX0_P"
 		(at 220.98 101.6 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7911,7 +7907,6 @@
 	)
 	(label "ETH.TXRX_C_P"
 		(at 99.695 72.39 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7922,7 +7917,6 @@
 	)
 	(label "SGMII_SO_P"
 		(at 143.51 101.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7933,7 +7927,6 @@
 	)
 	(label "X_I"
 		(at 148.59 121.92 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7944,7 +7937,6 @@
 	)
 	(label "SGMII_CO_P"
 		(at 143.51 96.52 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7955,7 +7947,6 @@
 	)
 	(label "ETH_RXCTRL"
 		(at 152.4 90.17 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7966,7 +7957,6 @@
 	)
 	(label "ETH.TXRX_C_N"
 		(at 99.695 74.93 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7977,7 +7967,6 @@
 	)
 	(label "ETH.TXRX_A_P"
 		(at 99.695 59.69 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7988,7 +7977,6 @@
 	)
 	(label "SGMII_SI_N"
 		(at 144.78 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7999,7 +7987,6 @@
 	)
 	(label "SGMII.RX0_N"
 		(at 220.98 104.14 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8010,7 +7997,6 @@
 	)
 	(label "ETH.TXRX_A_N"
 		(at 99.695 62.23 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8021,7 +8007,6 @@
 	)
 	(label "ETH_RXCTRL"
 		(at 349.25 196.85 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8032,7 +8017,6 @@
 	)
 	(label "ETH.MDIO"
 		(at 78.74 116.84 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8043,7 +8027,6 @@
 	)
 	(label "ETH.TXRX_D_P"
 		(at 86.36 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8054,7 +8037,6 @@
 	)
 	(label "LED0"
 		(at 93.98 104.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8065,7 +8047,6 @@
 	)
 	(label "SGMII_SO_N"
 		(at 143.51 104.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8076,7 +8057,6 @@
 	)
 	(label "ETH.LED1"
 		(at 78.74 106.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8087,7 +8067,6 @@
 	)
 	(label "ETH.TXRX_B_P"
 		(at 99.695 66.04 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8098,7 +8077,6 @@
 	)
 	(label "SGMII_SI_P"
 		(at 144.78 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8109,7 +8087,6 @@
 	)
 	(label "X_I"
 		(at 335.28 76.2 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8120,7 +8097,6 @@
 	)
 	(label "ETH.SYNC_IN"
 		(at 177.8 107.95 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8131,7 +8107,6 @@
 	)
 	(label "SGMII.TX0_N"
 		(at 220.98 78.74 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8142,7 +8117,6 @@
 	)
 	(label "SGMII_CO_N"
 		(at 143.51 99.06 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8153,7 +8127,6 @@
 	)
 	(label "ETH.LED2"
 		(at 78.74 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8164,7 +8137,6 @@
 	)
 	(label "LED0"
 		(at 326.39 196.85 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8175,7 +8147,6 @@
 	)
 	(label "ETH.TXRX_D_N"
 		(at 86.36 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8186,7 +8157,6 @@
 	)
 	(label "ETH.MDC"
 		(at 78.74 114.3 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8366,7 +8336,6 @@
 	(hierarchical_label "ETH{MDI}"
 		(shape input)
 		(at 81.28 54.61 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8378,7 +8347,6 @@
 	(hierarchical_label "ETH{MDI}"
 		(shape input)
 		(at 226.06 102.87 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8390,7 +8358,6 @@
 	(hierarchical_label "SGMII{SGMII}"
 		(shape input)
 		(at 226.06 71.12 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8402,7 +8369,6 @@
 	(hierarchical_label "ETH{MDI}"
 		(shape input)
 		(at 73.66 101.6 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8414,7 +8380,6 @@
 	(hierarchical_label "ETH{SMI}"
 		(shape input)
 		(at 73.66 109.22 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

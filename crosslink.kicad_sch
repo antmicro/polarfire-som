@@ -8648,7 +8648,6 @@
 	)
 	(label "Crosslink_B2.D5"
 		(at 65.405 180.34 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8659,7 +8658,6 @@
 	)
 	(label "Crosslink_B2.D0"
 		(at 65.405 170.18 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8670,7 +8668,6 @@
 	)
 	(label "CAM1.D1_N"
 		(at 165.735 111.76 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8681,7 +8678,6 @@
 	)
 	(label "CL_VCCAUX"
 		(at 163.83 88.9 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8692,7 +8688,6 @@
 	)
 	(label "DSI1.D0_N"
 		(at 165.735 144.78 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8703,7 +8698,6 @@
 	)
 	(label "CAM1.D2_N"
 		(at 165.735 116.84 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8714,7 +8708,6 @@
 	)
 	(label "Crosslink_B2.VSYNC"
 		(at 65.405 162.56 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8725,7 +8718,6 @@
 	)
 	(label "CL_VCCA_DPHY1"
 		(at 168.91 165.1 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8736,7 +8728,6 @@
 	)
 	(label "CL_VCCA_DPHY0"
 		(at 168.91 127 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8747,7 +8738,6 @@
 	)
 	(label "CAM1.D0_N"
 		(at 165.735 106.68 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8758,7 +8748,6 @@
 	)
 	(label "Crosslink.CS"
 		(at 59.69 96.52 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8769,7 +8758,6 @@
 	)
 	(label "Crosslink_B2.D8"
 		(at 65.405 187.96 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8780,7 +8768,6 @@
 	)
 	(label "CL_VCC"
 		(at 303.53 135.89 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8791,7 +8778,6 @@
 	)
 	(label "CL_VCCIO0"
 		(at 71.12 105.41 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8802,7 +8788,6 @@
 	)
 	(label "CL_VCCA_DPHY0"
 		(at 360.68 100.33 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8813,7 +8798,6 @@
 	)
 	(label "Crosslink_B2.PCLK"
 		(at 65.405 167.64 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8824,7 +8808,6 @@
 	)
 	(label "Crosslink_B2.D7"
 		(at 65.405 185.42 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8835,7 +8818,6 @@
 	)
 	(label "CL_VCCIO1"
 		(at 71.12 144.78 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8846,7 +8828,6 @@
 	)
 	(label "Crosslink_B1.D8"
 		(at 65.405 139.7 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8857,7 +8838,6 @@
 	)
 	(label "Crosslink_B1.D6"
 		(at 65.405 134.62 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8868,7 +8848,6 @@
 	)
 	(label "Crosslink_B2.D6"
 		(at 65.405 182.88 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8879,7 +8858,6 @@
 	)
 	(label "CL_VCCIO0"
 		(at 260.35 100.33 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8890,7 +8868,6 @@
 	)
 	(label "Crosslink_B1.D3"
 		(at 65.405 129.54 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8901,7 +8878,6 @@
 	)
 	(label "CL_VCCGPLL"
 		(at 260.35 118.11 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8912,7 +8888,6 @@
 	)
 	(label "CAM1.C_P"
 		(at 165.735 99.06 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8923,7 +8898,6 @@
 	)
 	(label "CL_VCCPLL_DPHY0"
 		(at 168.91 129.54 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8934,7 +8908,6 @@
 	)
 	(label "Crosslink_B1.D0"
 		(at 65.405 121.92 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8945,7 +8918,6 @@
 	)
 	(label "CL_VCCPLL_DPHY1"
 		(at 168.91 167.64 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8956,7 +8928,6 @@
 	)
 	(label "CL_VCCPLL_DPHY0"
 		(at 360.68 135.89 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8967,7 +8938,6 @@
 	)
 	(label "Crosslink.SDA"
 		(at 59.69 91.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8978,7 +8948,6 @@
 	)
 	(label "DSI1.D2_N"
 		(at 165.735 154.94 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8989,7 +8958,6 @@
 	)
 	(label "Crosslink_B2.HSYNC"
 		(at 65.405 165.1 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9000,7 +8968,6 @@
 	)
 	(label "Crosslink_B2.D4"
 		(at 65.405 152.4 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9011,7 +8978,6 @@
 	)
 	(label "Crosslink.MISO"
 		(at 59.69 101.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9022,7 +8988,6 @@
 	)
 	(label "CAM1.C_N"
 		(at 165.735 101.6 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9033,7 +8998,6 @@
 	)
 	(label "Crosslink_B1.D7"
 		(at 65.405 137.16 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9044,7 +9008,6 @@
 	)
 	(label "CL_VCCPLL_DPHY1"
 		(at 360.68 153.67 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9055,7 +9018,6 @@
 	)
 	(label "Crosslink_B2.D2"
 		(at 65.405 175.26 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9066,7 +9028,6 @@
 	)
 	(label "CL_VCC"
 		(at 163.83 83.82 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9077,7 +9038,6 @@
 	)
 	(label "DSI1.D3_N"
 		(at 165.735 160.02 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9088,7 +9048,6 @@
 	)
 	(label "Crosslink_B2.D9"
 		(at 65.405 190.5 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9099,7 +9058,6 @@
 	)
 	(label "DSI1.D1_N"
 		(at 165.735 149.86 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9110,7 +9068,6 @@
 	)
 	(label "Crosslink.SCL"
 		(at 59.69 88.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9121,7 +9078,6 @@
 	)
 	(label "DSI1.C_N"
 		(at 165.735 139.7 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9132,7 +9088,6 @@
 	)
 	(label "Crosslink.MOSI"
 		(at 59.69 93.98 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9143,7 +9098,6 @@
 	)
 	(label "Crosslink_B1.D9"
 		(at 65.405 142.24 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9154,7 +9108,6 @@
 	)
 	(label "DSI1.D1_P"
 		(at 165.735 147.32 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9165,7 +9118,6 @@
 	)
 	(label "DSI1.D2_P"
 		(at 165.735 152.4 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9176,7 +9128,6 @@
 	)
 	(label "CL_VCCA_DPHY1"
 		(at 360.68 118.11 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9187,7 +9138,6 @@
 	)
 	(label "DSI1.D0_P"
 		(at 165.735 142.24 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9198,7 +9148,6 @@
 	)
 	(label "CL_VCCAUX"
 		(at 260.35 135.89 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9209,7 +9158,6 @@
 	)
 	(label "CAM1.D2_P"
 		(at 165.735 114.3 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9220,7 +9168,6 @@
 	)
 	(label "CAM1.D3_N"
 		(at 165.735 121.92 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9231,7 +9178,6 @@
 	)
 	(label "Crosslink_B1.D2"
 		(at 65.405 127 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9242,7 +9188,6 @@
 	)
 	(label "CAM1.D0_P"
 		(at 165.735 104.14 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9253,7 +9198,6 @@
 	)
 	(label "CL_VCCIO2"
 		(at 303.53 100.33 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9264,7 +9208,6 @@
 	)
 	(label "DSI1.D3_P"
 		(at 165.735 157.48 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9275,7 +9218,6 @@
 	)
 	(label "Crosslink_B1.D1"
 		(at 65.405 124.46 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9286,7 +9228,6 @@
 	)
 	(label "CL_VCCIO2"
 		(at 71.12 194.31 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9297,7 +9238,6 @@
 	)
 	(label "Crosslink.CLK"
 		(at 59.69 99.06 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9308,7 +9248,6 @@
 	)
 	(label "Crosslink_B1.D4"
 		(at 65.405 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9319,7 +9258,6 @@
 	)
 	(label "CL_VCCGPLL"
 		(at 163.83 93.98 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9330,7 +9268,6 @@
 	)
 	(label "Crosslink_B1.HSYNC"
 		(at 65.405 116.84 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9341,7 +9278,6 @@
 	)
 	(label "Crosslink_B1.VSYNC"
 		(at 65.405 114.3 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9352,7 +9288,6 @@
 	)
 	(label "Crosslink_B1.D5"
 		(at 65.405 132.08 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9363,7 +9298,6 @@
 	)
 	(label "Crosslink_B2.D1"
 		(at 65.405 172.72 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9374,7 +9308,6 @@
 	)
 	(label "DSI1.C_P"
 		(at 165.735 137.16 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9385,7 +9318,6 @@
 	)
 	(label "Crosslink_B1.PCLK"
 		(at 65.405 119.38 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9396,7 +9328,6 @@
 	)
 	(label "CAM1.D3_P"
 		(at 165.735 119.38 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9407,7 +9338,6 @@
 	)
 	(label "Crosslink_B2.D3"
 		(at 65.405 177.8 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9418,7 +9348,6 @@
 	)
 	(label "CAM1.D1_P"
 		(at 165.735 109.22 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9429,7 +9358,6 @@
 	)
 	(label "CL_VCCIO1"
 		(at 303.53 118.11 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9525,7 +9453,6 @@
 	(hierarchical_label "Crosslink_B1{CPI}"
 		(shape input)
 		(at 59.69 104.14 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9537,7 +9464,6 @@
 	(hierarchical_label "Crosslink{SPI}"
 		(shape bidirectional)
 		(at 54.61 88.9 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9549,7 +9475,6 @@
 	(hierarchical_label "DSI1{DSI}"
 		(shape bidirectional)
 		(at 172.72 132.08 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9561,7 +9486,6 @@
 	(hierarchical_label "Crosslink_B2{CPI}"
 		(shape input)
 		(at 59.69 147.32 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9573,7 +9497,6 @@
 	(hierarchical_label "CAM1{CSI}"
 		(shape bidirectional)
 		(at 172.72 93.98 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9585,7 +9508,6 @@
 	(hierarchical_label "Crosslink{I^{2}C}"
 		(shape bidirectional)
 		(at 54.61 83.82 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

@@ -9811,7 +9811,6 @@
 	)
 	(label "ULPI.DATA4"
 		(at 93.98 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9822,7 +9821,6 @@
 	)
 	(label "USB_P"
 		(at 241.3 151.13 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9833,7 +9831,6 @@
 	)
 	(label "VDD33"
 		(at 161.29 129.54 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9844,7 +9841,6 @@
 	)
 	(label "WL_BT.D_N"
 		(at 310.515 71.12 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9855,7 +9851,6 @@
 	)
 	(label "RESETB"
 		(at 142.24 88.9 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9866,7 +9861,6 @@
 	)
 	(label "VBAT"
 		(at 101.6 134.62 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9877,7 +9871,6 @@
 	)
 	(label "USB_UP_N"
 		(at 262.89 74.93 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9888,7 +9881,6 @@
 	)
 	(label "VDD33"
 		(at 102.87 64.77 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9899,7 +9891,6 @@
 	)
 	(label "USB_DN1_P"
 		(at 322.58 82.55 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9910,7 +9901,6 @@
 	)
 	(label "USB_BYP_P"
 		(at 284.48 154.94 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9921,7 +9911,6 @@
 	)
 	(label "ULPI.CLK"
 		(at 72.39 92.71 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9932,7 +9921,6 @@
 	)
 	(label "USB_N"
 		(at 241.3 153.67 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9943,7 +9931,6 @@
 	)
 	(label "REF_CLK"
 		(at 215.9 264.16 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9954,7 +9941,6 @@
 	)
 	(label "USB_UP_N"
 		(at 285.75 149.86 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9965,7 +9951,6 @@
 	)
 	(label "WL_BT.D_P"
 		(at 310.515 68.58 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9976,7 +9961,6 @@
 	)
 	(label "ULPI.STP"
 		(at 72.39 95.25 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9987,7 +9971,6 @@
 	)
 	(label "CONN.D_P"
 		(at 333.375 151.13 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9998,7 +9981,6 @@
 	)
 	(label "RESETB"
 		(at 167.64 186.69 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10009,7 +9991,6 @@
 	)
 	(label "REF_CLK"
 		(at 266.7 82.55 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10020,7 +10001,6 @@
 	)
 	(label "REF_CLK"
 		(at 142.24 86.36 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10031,7 +10011,6 @@
 	)
 	(label "USB_DN1_N"
 		(at 322.58 85.09 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10042,7 +10021,6 @@
 	)
 	(label "ULPI.RESET"
 		(at 121.92 195.58 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10053,7 +10031,6 @@
 	)
 	(label "USB_DN1_N"
 		(at 290.83 149.86 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10064,7 +10041,6 @@
 	)
 	(label "ULPI.DIR"
 		(at 72.39 100.33 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10075,7 +10051,6 @@
 	)
 	(label "ULPI.NXT"
 		(at 72.39 97.79 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10086,7 +10061,6 @@
 	)
 	(label "USB_N"
 		(at 138.43 73.66 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10097,7 +10071,6 @@
 	)
 	(label "~{HUB_RST}"
 		(at 267.97 64.77 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10108,7 +10081,6 @@
 	)
 	(label "VDDIO"
 		(at 54.61 133.35 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10119,7 +10091,6 @@
 	)
 	(label "USB_BYP_N"
 		(at 284.48 157.48 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10130,7 +10101,6 @@
 	)
 	(label "ULPI.DATA7"
 		(at 93.98 88.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10141,7 +10111,6 @@
 	)
 	(label "USB_DN1_P"
 		(at 290.83 147.32 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10152,7 +10121,6 @@
 	)
 	(label "USB_UP_P"
 		(at 285.75 147.32 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10163,7 +10131,6 @@
 	)
 	(label "ULPI.DATA5"
 		(at 93.98 83.82 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10174,7 +10141,6 @@
 	)
 	(label "ULPI.DATA2"
 		(at 93.98 76.2 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10185,7 +10151,6 @@
 	)
 	(label "USB_UP_P"
 		(at 262.89 72.39 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10196,7 +10161,6 @@
 	)
 	(label "VDD18"
 		(at 118.11 134.62 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10207,7 +10171,6 @@
 	)
 	(label "VDD18"
 		(at 102.87 67.31 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10218,7 +10181,6 @@
 	)
 	(label "VDDIO"
 		(at 138.43 67.31 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10229,7 +10191,6 @@
 	)
 	(label "VDDIO"
 		(at 77.47 83.82 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10240,7 +10201,6 @@
 	)
 	(label "VBAT"
 		(at 138.43 64.77 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10251,7 +10211,6 @@
 	)
 	(label "ULPI.DATA3"
 		(at 93.98 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10262,7 +10221,6 @@
 	)
 	(label "ULPI.DATA1"
 		(at 93.98 73.66 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10273,7 +10231,6 @@
 	)
 	(label "ULPI.DATA6"
 		(at 93.98 86.36 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10284,7 +10241,6 @@
 	)
 	(label "USB_P"
 		(at 138.43 71.12 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10295,7 +10251,6 @@
 	)
 	(label "ULPI.DATA0"
 		(at 93.98 71.12 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10306,7 +10261,6 @@
 	)
 	(label "CONN.D_N"
 		(at 333.375 153.67 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10465,7 +10419,6 @@
 	(hierarchical_label "ULPI{ULPI}"
 		(shape input)
 		(at 116.84 190.5 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10477,7 +10430,6 @@
 	(hierarchical_label "ULPI{ULPI}"
 		(shape input)
 		(at 88.9 66.04 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10489,7 +10441,6 @@
 	(hierarchical_label "ULPI{ULPI}"
 		(shape input)
 		(at 67.31 87.63 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10501,7 +10452,6 @@
 	(hierarchical_label "WL_BT{USB}"
 		(shape input)
 		(at 327.66 62.23 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10513,7 +10463,6 @@
 	(hierarchical_label "CONN{USB}"
 		(shape input)
 		(at 360.68 146.05 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

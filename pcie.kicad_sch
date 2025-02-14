@@ -757,8 +757,8 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Real Time Clock"
-				(at 0 0 0)
+			(property "Description" "Two output PCIe Clock Generator"
+				(at 61.722 -29.464 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -14070,7 +14070,6 @@
 	)
 	(label "PCIE.TXD1_N"
 		(at 144.78 124.46 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14081,7 +14080,6 @@
 	)
 	(label "PCIE.TXD1_P"
 		(at 144.78 121.92 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14092,7 +14090,6 @@
 	)
 	(label "PCIE.TXD3_P"
 		(at 144.78 137.16 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14103,7 +14100,6 @@
 	)
 	(label "PCIE.TXD2_N"
 		(at 144.78 132.08 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14114,7 +14110,6 @@
 	)
 	(label "XCVR_TX0_P"
 		(at 171.45 115.57 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14125,7 +14120,6 @@
 	)
 	(label "PCIE.RXD3_P"
 		(at 252.73 137.16 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14136,7 +14130,6 @@
 	)
 	(label "PCIE.RXD1_N"
 		(at 252.73 124.46 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14147,7 +14140,6 @@
 	)
 	(label "PCIE.TXD0_N"
 		(at 144.78 116.84 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14158,7 +14150,6 @@
 	)
 	(label "PCIE.TXD2_P"
 		(at 144.78 129.54 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14169,7 +14160,6 @@
 	)
 	(label "XCVR_TX2_N"
 		(at 171.45 133.35 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14180,7 +14170,6 @@
 	)
 	(label "PF_PCIe_CLK_N"
 		(at 120.65 224.79 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14191,7 +14180,6 @@
 	)
 	(label "PF_PCIe_CLK_P"
 		(at 168.91 144.78 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14202,7 +14190,6 @@
 	)
 	(label "PCIE.TXD3_N"
 		(at 144.78 139.7 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14213,7 +14200,6 @@
 	)
 	(label "PCIE.RXD2_P"
 		(at 252.73 129.54 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14224,7 +14210,6 @@
 	)
 	(label "PCIE.RXD2_N"
 		(at 252.73 132.08 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14235,7 +14220,6 @@
 	)
 	(label "XCVR_TX1_P"
 		(at 171.45 120.65 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14246,7 +14230,6 @@
 	)
 	(label "PCIE.CLK_P"
 		(at 138.43 229.87 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14257,7 +14240,6 @@
 	)
 	(label "XCVR_TX0_N"
 		(at 171.3962 118.11 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14268,7 +14250,6 @@
 	)
 	(label "PF_PCIe_CLK_P"
 		(at 120.65 222.25 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14279,7 +14260,6 @@
 	)
 	(label "XCVR_TX2_P"
 		(at 171.5038 130.81 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14290,7 +14270,6 @@
 	)
 	(label "XCVR_TX3_N"
 		(at 171.5038 138.43 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14301,7 +14280,6 @@
 	)
 	(label "PCIE.CLK_N"
 		(at 137.795 232.41 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14312,7 +14290,6 @@
 	)
 	(label "PCIE.TXD0_P"
 		(at 144.78 114.3 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14323,7 +14300,6 @@
 	)
 	(label "PF_PCIe_CLK_N"
 		(at 168.91 147.32 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14334,7 +14310,6 @@
 	)
 	(label "XCVR_TX1_N"
 		(at 171.45 123.19 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14345,7 +14320,6 @@
 	)
 	(label "XCVR_TX3_P"
 		(at 171.5038 135.89 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14356,7 +14330,6 @@
 	)
 	(label "PCIE.RXD3_N"
 		(at 252.73 139.7 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14367,7 +14340,6 @@
 	)
 	(label "PCIE.RXD0_P"
 		(at 252.73 114.3 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14378,7 +14350,6 @@
 	)
 	(label "PCIE.RXD0_N"
 		(at 252.73 116.84 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14389,7 +14360,6 @@
 	)
 	(label "PCIE.RXD1_P"
 		(at 252.73 121.92 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14401,7 +14371,6 @@
 	(hierarchical_label "PCIE{PCIe_x4}"
 		(shape bidirectional)
 		(at 257.81 110.49 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14413,7 +14382,6 @@
 	(hierarchical_label "PCIE{PCIe_x4}"
 		(shape bidirectional)
 		(at 143.51 224.79 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14425,7 +14393,6 @@
 	(hierarchical_label "PCIE{PCIe_x4}"
 		(shape bidirectional)
 		(at 139.7 109.22 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -17329,7 +17296,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Real Time Clock"
+		(property "Description" "Two output PCIe Clock Generator"
 			(at 74.93 220.98 0)
 			(effects
 				(font
