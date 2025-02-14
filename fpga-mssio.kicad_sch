@@ -9857,16 +9857,6 @@
 					(hide yes)
 				)
 			)
-			(property "Public" "False"
-				(at 20.32 -30.48 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
 			(property "ki_keywords" "0402, SMT, RESISTOR, PASSIVE"
 				(at 0 0 0)
 				(effects
@@ -10042,16 +10032,6 @@
 			)
 			(property "Tolerance" "1%"
 				(at 20.32 -10.16 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Public" "False"
-				(at 20.32 -30.48 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -12533,6 +12513,7 @@
 	)
 	(label "ULPI.DATA5"
 		(at 274.32 87.63 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12543,6 +12524,7 @@
 	)
 	(label "MEM.CLK"
 		(at 109.22 191.77 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12553,6 +12535,7 @@
 	)
 	(label "I2C_SCL"
 		(at 274.32 196.85 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12563,6 +12546,7 @@
 	)
 	(label "I2C_SDA"
 		(at 274.32 199.39 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12573,6 +12557,7 @@
 	)
 	(label "ULPI.DATA6"
 		(at 274.32 90.17 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12583,6 +12568,7 @@
 	)
 	(label "I2C_SDA"
 		(at 337.82 67.31 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12593,6 +12579,7 @@
 	)
 	(label "MEM.DAT4"
 		(at 109.22 180.34 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12603,6 +12590,7 @@
 	)
 	(label "MEM.DAT2"
 		(at 109.22 175.26 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12613,6 +12601,7 @@
 	)
 	(label "PF_BT.RX"
 		(at 336.55 143.51 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12623,6 +12612,7 @@
 	)
 	(label "MEM.DAT3"
 		(at 74.93 81.28 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12633,6 +12623,7 @@
 	)
 	(label "SD.DAT2"
 		(at 135.89 175.26 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12643,6 +12634,7 @@
 	)
 	(label "MEM.DAT3"
 		(at 109.22 161.29 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12653,6 +12645,7 @@
 	)
 	(label "MEM.DAT4"
 		(at 135.89 71.12 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12663,6 +12656,7 @@
 	)
 	(label "MEM.DAT5"
 		(at 109.22 166.37 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12673,6 +12667,7 @@
 	)
 	(label "EMMC.DAT4"
 		(at 72.39 180.34 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12683,6 +12678,7 @@
 	)
 	(label "EMMC.DAT0"
 		(at 72.39 163.83 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12693,6 +12689,7 @@
 	)
 	(label "EMMC.DAT1"
 		(at 72.39 172.72 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12703,6 +12700,7 @@
 	)
 	(label "ULPI.DATA0"
 		(at 274.32 74.93 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12713,6 +12711,7 @@
 	)
 	(label "ULPI.DIR"
 		(at 274.32 67.31 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12723,6 +12722,7 @@
 	)
 	(label "MEM.CMD"
 		(at 74.93 71.12 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12733,6 +12733,7 @@
 	)
 	(label "ID.SDA"
 		(at 316.865 217.17 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12743,6 +12744,7 @@
 	)
 	(label "BT_UART_TX"
 		(at 279.4 140.97 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12753,6 +12755,7 @@
 	)
 	(label "SUPPLY.SCL"
 		(at 309.245 205.74 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12763,6 +12766,7 @@
 	)
 	(label "EMMC.DAT2"
 		(at 72.39 175.26 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12773,6 +12777,7 @@
 	)
 	(label "ULPI.DATA3"
 		(at 274.32 82.55 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12783,6 +12788,7 @@
 	)
 	(label "SD.DAT1"
 		(at 135.89 172.72 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12793,6 +12799,7 @@
 	)
 	(label "EMMC.DAT6"
 		(at 72.39 177.8 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12803,6 +12810,7 @@
 	)
 	(label "MEM.CLK"
 		(at 74.93 68.58 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12813,6 +12821,7 @@
 	)
 	(label "SD.CLK"
 		(at 135.89 191.77 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12823,6 +12832,7 @@
 	)
 	(label "SD.DAT5"
 		(at 135.89 166.37 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12833,6 +12843,7 @@
 	)
 	(label "SUPPLY.SDA"
 		(at 309.245 208.28 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12843,6 +12854,7 @@
 	)
 	(label "ULPI.DATA7"
 		(at 274.32 92.71 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12853,6 +12865,7 @@
 	)
 	(label "MEM.DAT0"
 		(at 74.93 73.66 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12863,6 +12876,7 @@
 	)
 	(label "MEM.DAT6"
 		(at 109.22 177.8 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12873,6 +12887,7 @@
 	)
 	(label "EMMC.DAT7"
 		(at 72.39 168.91 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12883,6 +12898,7 @@
 	)
 	(label "EMMC.CMD"
 		(at 72.39 194.31 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12893,6 +12909,7 @@
 	)
 	(label "ULPI.NXT"
 		(at 274.32 69.85 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12903,6 +12920,7 @@
 	)
 	(label "MEM.DAT6"
 		(at 135.89 76.2 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12913,6 +12931,7 @@
 	)
 	(label "PF_BT.TX"
 		(at 336.55 140.97 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12923,6 +12942,7 @@
 	)
 	(label "ULPI.DATA2"
 		(at 274.32 80.01 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12933,6 +12953,7 @@
 	)
 	(label "MEM.STRB"
 		(at 74.93 83.82 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12943,6 +12964,7 @@
 	)
 	(label "MEM.DAT7"
 		(at 135.89 78.74 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12953,6 +12975,7 @@
 	)
 	(label "ID.SCL"
 		(at 316.865 214.63 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12963,6 +12986,7 @@
 	)
 	(label "I2C_SCL"
 		(at 337.82 64.77 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12973,6 +12997,7 @@
 	)
 	(label "BT_UART_RX"
 		(at 363.22 90.17 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12983,6 +13008,7 @@
 	)
 	(label "MEM.DAT7"
 		(at 109.22 168.91 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12993,6 +13019,7 @@
 	)
 	(label "MEM.CMD"
 		(at 109.22 194.31 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13003,6 +13030,7 @@
 	)
 	(label "SD.CMD"
 		(at 135.89 194.31 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13013,6 +13041,7 @@
 	)
 	(label "EMMC.STRB"
 		(at 72.39 196.85 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13023,6 +13052,7 @@
 	)
 	(label "EMMC.DAT5"
 		(at 72.39 166.37 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13033,6 +13063,7 @@
 	)
 	(label "MEM.DAT5"
 		(at 135.89 73.66 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13043,6 +13074,7 @@
 	)
 	(label "EMMC.RST_n"
 		(at 135.89 68.58 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13053,6 +13085,7 @@
 	)
 	(label "EMMC.CLK"
 		(at 72.39 191.77 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13063,6 +13096,7 @@
 	)
 	(label "BT_UART_RX"
 		(at 279.4 143.51 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13073,6 +13107,7 @@
 	)
 	(label "BT_UART_TX"
 		(at 363.22 87.63 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13083,6 +13118,7 @@
 	)
 	(label "SD.DAT6"
 		(at 135.89 177.8 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13093,6 +13129,7 @@
 	)
 	(label "SD.DAT3"
 		(at 135.89 161.29 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13103,6 +13140,7 @@
 	)
 	(label "MEM.DAT1"
 		(at 74.93 76.2 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13113,6 +13151,7 @@
 	)
 	(label "SD.DAT7"
 		(at 135.89 168.91 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13123,6 +13162,7 @@
 	)
 	(label "ULPI.DATA4"
 		(at 274.32 85.09 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13133,6 +13173,7 @@
 	)
 	(label "ULPI.DATA1"
 		(at 274.32 77.47 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13143,6 +13184,7 @@
 	)
 	(label "MEM.STRB"
 		(at 109.22 196.85 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13153,6 +13195,7 @@
 	)
 	(label "ULPI.CLK"
 		(at 274.32 64.77 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13163,6 +13206,7 @@
 	)
 	(label "ULPI.STP"
 		(at 274.32 72.39 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13173,6 +13217,7 @@
 	)
 	(label "MEM.DAT1"
 		(at 109.22 172.72 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13183,6 +13228,7 @@
 	)
 	(label "MEM.DAT0"
 		(at 109.22 163.83 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13193,6 +13239,7 @@
 	)
 	(label "EMMC.DAT3"
 		(at 72.39 161.29 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13203,6 +13250,7 @@
 	)
 	(label "SD.DAT4"
 		(at 135.89 180.34 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13213,6 +13261,7 @@
 	)
 	(label "MEM.DAT2"
 		(at 74.93 78.74 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13223,6 +13272,7 @@
 	)
 	(label "SD.DAT0"
 		(at 135.89 163.83 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13276,6 +13326,7 @@
 	(hierarchical_label "ID{I^{2}C}"
 		(shape input)
 		(at 336.55 209.55 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13287,6 +13338,7 @@
 	(hierarchical_label "EMMC{SDIO}"
 		(shape input)
 		(at 67.31 156.21 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13298,6 +13350,7 @@
 	(hierarchical_label "ULPI{ULPI}"
 		(shape input)
 		(at 269.24 59.69 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13309,6 +13362,7 @@
 	(hierarchical_label "PF_BT{UART}"
 		(shape input)
 		(at 341.63 135.89 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13320,6 +13374,7 @@
 	(hierarchical_label "SUPPLY{I^{2}C}"
 		(shape input)
 		(at 328.93 200.66 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13331,6 +13386,7 @@
 	(hierarchical_label "SD{SDIO}"
 		(shape input)
 		(at 140.97 156.21 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13342,6 +13398,7 @@
 	(hierarchical_label "EMMC{SDIO}"
 		(shape input)
 		(at 140.97 63.5 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13401,7 +13458,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Zero Ohm Network Resistor, Jumper, 0201 [0603 Metric], Thick Film, Isolated, Flat, 4 Resistors"
 			(at 85.09 191.77 0)
 			(effects
 				(font
@@ -13644,7 +13701,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RISC-V System On Chip (SOC) IC PolarFire® FPGA - 254K Logic Modules 484-FCBGA (19x19)"
 			(at 290.83 64.77 0)
 			(effects
 				(font
@@ -15286,7 +15343,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Zero Ohm Network Resistor, Jumper, 0201 [0603 Metric], Thick Film, Isolated, Flat, 4 Resistors"
 			(at 123.19 172.72 0)
 			(effects
 				(font
@@ -15509,7 +15566,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Transceiver, 1.65 V to 3.6 V, XSON-8"
 			(at 297.18 138.43 0)
 			(effects
 				(font
@@ -15645,7 +15702,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Zero Ohm Network Resistor, Jumper, 0201 [0603 Metric], Thick Film, Isolated, Flat, 4 Resistors"
 			(at 85.09 161.29 0)
 			(effects
 				(font
@@ -15791,7 +15848,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Chip Resistor, Jumper, 0 ohm, 100 mW, 0402 [1005 Metric], Thick Film, General Purpose"
 			(at 309.88 214.63 0)
 			(effects
 				(font
@@ -15951,7 +16008,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Chip Resistor, Jumper, 0 ohm, 100 mW, 0402 [1005 Metric], Thick Film, General Purpose"
 			(at 335.28 90.17 0)
 			(effects
 				(font
@@ -16111,7 +16168,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Zero Ohm Network Resistor, Jumper, 0201 [0603 Metric], Thick Film, Isolated, Flat, 4 Resistors"
 			(at 123.19 189.23 0)
 			(effects
 				(font
@@ -16269,7 +16326,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Chip Resistor, 4.7 kohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose"
 			(at 284.48 193.04 0)
 			(effects
 				(font
@@ -16418,7 +16475,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Chip Resistor, Jumper, 0 ohm, 100 mW, 0402 [1005 Metric], Thick Film, General Purpose"
 			(at 335.28 87.63 0)
 			(effects
 				(font
@@ -16578,7 +16635,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Zero Ohm Network Resistor, Jumper, 0201 [0603 Metric], Thick Film, Isolated, Flat, 4 Resistors"
 			(at 123.19 161.29 0)
 			(effects
 				(font
@@ -16735,7 +16792,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Chip Resistor, Jumper, 0 ohm, 100 mW, 0402 [1005 Metric], Thick Film, General Purpose"
 			(at 309.88 217.17 0)
 			(effects
 				(font
@@ -16992,7 +17049,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Chip Resistor, 4.7 kohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose"
 			(at 293.37 193.04 0)
 			(effects
 				(font
@@ -17141,7 +17198,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Zero Ohm Network Resistor, Jumper, 0201 [0603 Metric], Thick Film, Isolated, Flat, 4 Resistors"
 			(at 85.09 172.72 0)
 			(effects
 				(font
@@ -17288,7 +17345,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RISC-V System On Chip (SOC) IC PolarFire® FPGA - 254K Logic Modules 484-FCBGA (19x19)"
 			(at 86.36 68.58 0)
 			(effects
 				(font

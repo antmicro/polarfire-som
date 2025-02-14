@@ -144,16 +144,6 @@
 					(hide yes)
 				)
 			)
-			(property "Public" "False"
-				(at 20.32 -33.02 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
 			(property "ki_keywords" "0402, SMT, CAPACITOR, PASSIVE, CERAMIC, MLCC"
 				(at 0 0 0)
 				(effects
@@ -9363,16 +9353,6 @@
 					(hide yes)
 				)
 			)
-			(property "Public" "False"
-				(at 31.75 -24.13 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
 			(property "ki_keywords" "OSCILLATOR"
 				(at 0 0 0)
 				(effects
@@ -10849,6 +10829,7 @@
 	)
 	(label "Crosslink_B1.D0"
 		(at 153.67 118.11 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10859,6 +10840,7 @@
 	)
 	(label "PF_CLK"
 		(at 91.44 242.57 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10869,6 +10851,7 @@
 	)
 	(label "Crosslink_B1.HSYNC"
 		(at 153.035 80.01 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10879,6 +10862,7 @@
 	)
 	(label "Crosslink_B2.D2"
 		(at 127 105.41 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10889,6 +10873,7 @@
 	)
 	(label "Crosslink_B1.D6"
 		(at 153.67 110.49 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10899,6 +10884,7 @@
 	)
 	(label "Crosslink_B2.VSYNC"
 		(at 128.27 85.09 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10909,6 +10895,7 @@
 	)
 	(label "Crosslink_B2.HSYNC"
 		(at 128.27 87.63 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10919,6 +10906,7 @@
 	)
 	(label "Crosslink_B2.D1"
 		(at 127 107.95 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10929,6 +10917,7 @@
 	)
 	(label "Crosslink_B1.D5"
 		(at 153.67 143.51 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10939,6 +10928,7 @@
 	)
 	(label "Crosslink_B2.D7"
 		(at 127 130.81 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10949,6 +10939,7 @@
 	)
 	(label "Crosslink_B2.D6"
 		(at 127 140.97 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10959,6 +10950,7 @@
 	)
 	(label "Crosslink_B2.PCLK"
 		(at 128.27 90.17 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10969,6 +10961,7 @@
 	)
 	(label "Crosslink_B1.D3"
 		(at 153.67 115.57 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10979,6 +10972,7 @@
 	)
 	(label "Crosslink_B1.D7"
 		(at 153.67 125.73 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10989,6 +10983,7 @@
 	)
 	(label "Crosslink_B2.D0"
 		(at 127 102.87 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10999,6 +10994,7 @@
 	)
 	(label "Crosslink_B1.PCLK"
 		(at 153.035 82.55 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11009,6 +11005,7 @@
 	)
 	(label "Crosslink_B1.D9"
 		(at 153.67 135.89 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11019,6 +11016,7 @@
 	)
 	(label "Crosslink_B1.D2"
 		(at 153.67 113.03 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11029,6 +11027,7 @@
 	)
 	(label "Crosslink_B1.D4"
 		(at 153.67 128.27 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11039,6 +11038,7 @@
 	)
 	(label "Crosslink_B2.D5"
 		(at 127 95.25 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11049,6 +11049,7 @@
 	)
 	(label "Crosslink_B2.D9"
 		(at 127.635 138.43 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11059,6 +11060,7 @@
 	)
 	(label "Crosslink_B2.D4"
 		(at 127 97.79 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11069,6 +11071,7 @@
 	)
 	(label "Crosslink_B2.D3"
 		(at 127 100.33 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11079,6 +11082,7 @@
 	)
 	(label "Crosslink_B2.D8"
 		(at 127 123.19 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11089,6 +11093,7 @@
 	)
 	(label "Crosslink_B1.D1"
 		(at 153.67 120.65 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11099,6 +11104,7 @@
 	)
 	(label "Crosslink_B1.VSYNC"
 		(at 153.035 77.47 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11109,6 +11115,7 @@
 	)
 	(label "PF_CLK"
 		(at 279.4 133.35 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11119,6 +11126,7 @@
 	)
 	(label "Crosslink_B1.D8"
 		(at 153.67 133.35 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11130,6 +11138,7 @@
 	(hierarchical_label "Crosslink_B1{CPI}"
 		(shape input)
 		(at 147.32 72.39 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11141,6 +11150,7 @@
 	(hierarchical_label "Crosslink_B2{CPI}"
 		(shape input)
 		(at 121.92 80.01 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11201,7 +11211,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RISC-V System On Chip (SOC) IC PolarFire® FPGA - 254K Logic Modules 484-FCBGA (19x19)"
 			(at 177.8 77.47 0)
 			(effects
 				(font
@@ -12870,7 +12880,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 49.53 247.65 0)
 			(effects
 				(font
@@ -13030,7 +13040,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50 MHz XO (Standard) CMOS Oscillator 1.6V ~ 3.63V Standby 4-SMD, No Lead"
 			(at 59.69 242.57 0)
 			(effects
 				(font

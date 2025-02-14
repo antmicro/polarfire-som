@@ -144,16 +144,6 @@
 					(hide yes)
 				)
 			)
-			(property "Public" "False"
-				(at 20.32 -33.02 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
 			(property "ki_keywords" "0402, SMT, CAPACITOR, PASSIVE, CERAMIC, MLCC"
 				(at 0 0 0)
 				(effects
@@ -9653,16 +9643,6 @@
 					(hide yes)
 				)
 			)
-			(property "Public" "False"
-				(at 20.32 -30.48 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
 			(property "ki_keywords" "0402, SMT, RESISTOR, PASSIVE"
 				(at 0 0 0)
 				(effects
@@ -9838,16 +9818,6 @@
 			)
 			(property "Tolerance" "1%"
 				(at 20.32 -10.16 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Public" "False"
-				(at 20.32 -30.48 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -10039,16 +10009,6 @@
 					(hide yes)
 				)
 			)
-			(property "Public" "False"
-				(at 20.32 -30.48 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
 			(property "ki_keywords" "0402, SMT, RESISTOR, PASSIVE"
 				(at 0 0 0)
 				(effects
@@ -10232,16 +10192,6 @@
 					(hide yes)
 				)
 			)
-			(property "Public" "False"
-				(at 20.32 -30.48 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
 			(property "ki_keywords" "0402, SMT, RESISTOR, PASSIVE"
 				(at 0 0 0)
 				(effects
@@ -10404,16 +10354,6 @@
 					(hide yes)
 				)
 			)
-			(property "Public" "False"
-				(at 10.16 -13.97 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
 			(property "ki_keywords" "TESTPOINT"
 				(at 0 0 0)
 				(effects
@@ -10456,12 +10396,11 @@
 			)
 		)
 		(symbol "antmicroTestPoints:Tag-Connect_TC2050-IDC-NL_2x5_P1.27mm"
-			(pin_names hide)
 			(exclude_from_sim no)
 			(in_bom no)
 			(on_board yes)
 			(property "Reference" "J"
-				(at 20.32 0 0)
+				(at 38.1 -1.27 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -10471,7 +10410,7 @@
 				)
 			)
 			(property "Value" "Tag-Connect_TC2050-IDC-NL_2x5_P1.27mm"
-				(at 20.32 -2.54 0)
+				(at 38.1 -3.81 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -10482,7 +10421,7 @@
 				)
 			)
 			(property "Footprint" "antmicro-footprints:Tag-Connect_TC2050-IDC-NL_2x5_P1.27mm"
-				(at 20.32 -5.08 0)
+				(at 38.1 -6.35 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -10493,7 +10432,7 @@
 				)
 			)
 			(property "Datasheet" "https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2050-IDC-NL_Datasheet_8.pdf"
-				(at 20.32 -7.62 0)
+				(at 38.1 -8.89 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -10513,7 +10452,7 @@
 				)
 			)
 			(property "MPN" "TC2050-IDC-NL"
-				(at 20.32 -10.16 0)
+				(at 38.1 -11.43 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -10523,7 +10462,7 @@
 				)
 			)
 			(property "Manufacturer" "Tag Connect"
-				(at 20.32 -12.7 0)
+				(at 38.1 -13.97 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -10534,7 +10473,7 @@
 				)
 			)
 			(property "Author" "Antmicro"
-				(at 20.32 -15.24 0)
+				(at 38.1 -16.51 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -10545,7 +10484,7 @@
 				)
 			)
 			(property "License" "Apache-2.0"
-				(at 20.32 -17.78 0)
+				(at 38.1 -19.05 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -10565,55 +10504,13 @@
 				)
 			)
 			(symbol "Tag-Connect_TC2050-IDC-NL_2x5_P1.27mm_1_1"
-				(rectangle
-					(start 2.54 -10.033)
-					(end 3.81 -10.287)
+				(polyline
+					(pts
+						(xy 13.97 -8.636) (xy 15.875 -8.636) (xy 16.51 -8.001) (xy 16.51 -2.921) (xy 15.24 -1.016) (xy 13.97 -1.016)
+						(xy 12.7 -2.921) (xy 12.7 -8.001) (xy 13.335 -8.636) (xy 13.97 -8.636)
+					)
 					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 2.54 -7.493)
-					(end 3.81 -7.747)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 2.54 -4.953)
-					(end 3.81 -5.207)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 2.54 -2.413)
-					(end 3.81 -2.667)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 2.54 0.127)
-					(end 3.81 -0.127)
-					(stroke
-						(width 0.1524)
+						(width 0)
 						(type default)
 					)
 					(fill
@@ -10622,68 +10519,172 @@
 				)
 				(rectangle
 					(start 2.54 2.54)
-					(end 7.62 -12.7)
+					(end 26.67 -12.7)
 					(stroke
-						(width 0.254)
+						(width 0)
 						(type default)
 					)
 					(fill
 						(type background)
 					)
 				)
-				(rectangle
-					(start 6.35 -10.033)
-					(end 7.62 -10.287)
+				(circle
+					(center 13.843 -7.5184)
+					(radius 0.4572)
 					(stroke
-						(width 0.1524)
+						(width 0)
 						(type default)
 					)
 					(fill
 						(type none)
 					)
 				)
-				(rectangle
-					(start 6.35 -7.493)
-					(end 7.62 -7.747)
+				(circle
+					(center 14.097 -6.4008)
+					(radius 0.2032)
 					(stroke
-						(width 0.1524)
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 14.097 -5.6388)
+					(radius 0.2032)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 14.097 -4.9276)
+					(radius 0.2032)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 14.097 -4.1656)
+					(radius 0.2032)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 14.097 -3.4544)
+					(radius 0.2032)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 14.605 -2.1336)
+					(radius 0.4572)
+					(stroke
+						(width 0)
 						(type default)
 					)
 					(fill
 						(type none)
 					)
 				)
-				(rectangle
-					(start 6.35 -4.953)
-					(end 7.62 -5.207)
+				(circle
+					(center 15.113 -6.4008)
+					(radius 0.2032)
 					(stroke
-						(width 0.1524)
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 15.113 -5.6388)
+					(radius 0.2032)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 15.113 -4.9276)
+					(radius 0.2032)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 15.113 -4.1656)
+					(radius 0.2032)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 15.113 -3.4544)
+					(radius 0.2032)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 15.4686 -7.5184)
+					(radius 0.4572)
+					(stroke
+						(width 0)
 						(type default)
 					)
 					(fill
 						(type none)
 					)
 				)
-				(rectangle
-					(start 6.35 -2.413)
-					(end 7.62 -2.667)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
+				(text "ALT: 3.3V I2C/JTAG/SPI/SWD/FTDI"
+					(at 14.732 -11.938 0)
+					(effects
+						(font
+							(size 0.7 0.7)
+						)
 					)
 				)
-				(rectangle
-					(start 6.35 0.127)
-					(end 7.62 -0.127)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
+				(text "Tag-Connect"
+					(at 14.605 1.651 0)
+					(effects
+						(font
+							(size 0.7 0.7)
+						)
 					)
 				)
 				(pin passive line
@@ -10703,9 +10704,10 @@
 							)
 						)
 					)
+					(alternate "3V3" passive line)
 				)
 				(pin passive line
-					(at 10.16 0 180)
+					(at 29.21 0 180)
 					(length 2.54)
 					(name "10"
 						(effects
@@ -10721,6 +10723,11 @@
 							)
 						)
 					)
+					(alternate "ADBUS5" passive line)
+					(alternate "I2C_NC" passive line)
+					(alternate "JTAG_~{RESET}" passive line)
+					(alternate "SPI_NC" passive line)
+					(alternate "SWD_NC" passive line)
 				)
 				(pin passive line
 					(at 0 -2.54 0)
@@ -10739,6 +10746,11 @@
 							)
 						)
 					)
+					(alternate "ADBUS3" passive line)
+					(alternate "I2C_NC" passive line)
+					(alternate "JTAG_TMS" passive line)
+					(alternate "SPI_CS" passive line)
+					(alternate "SWD_NC" passive line)
 				)
 				(pin passive line
 					(at 0 -5.08 0)
@@ -10757,6 +10769,7 @@
 							)
 						)
 					)
+					(alternate "GND" passive line)
 				)
 				(pin passive line
 					(at 0 -7.62 0)
@@ -10775,6 +10788,11 @@
 							)
 						)
 					)
+					(alternate "ADBUS0" passive line)
+					(alternate "I2C_SCL" passive line)
+					(alternate "JTAG_TCK" passive line)
+					(alternate "SPI_SCK" passive line)
+					(alternate "SWD_CLK" passive line)
 				)
 				(pin passive line
 					(at 0 -10.16 0)
@@ -10793,9 +10811,10 @@
 							)
 						)
 					)
+					(alternate "GND" passive line)
 				)
 				(pin passive line
-					(at 10.16 -10.16 180)
+					(at 29.21 -10.16 180)
 					(length 2.54)
 					(name "6"
 						(effects
@@ -10811,9 +10830,14 @@
 							)
 						)
 					)
+					(alternate "ADBUS2" passive line)
+					(alternate "I2C_SDA" passive line)
+					(alternate "JTAG_TDO" passive line)
+					(alternate "SPI_MISO" passive line)
+					(alternate "SWD_IO" passive line)
 				)
 				(pin passive line
-					(at 10.16 -7.62 180)
+					(at 29.21 -7.62 180)
 					(length 2.54)
 					(name "7"
 						(effects
@@ -10829,9 +10853,10 @@
 							)
 						)
 					)
+					(alternate "NC" passive line)
 				)
 				(pin passive line
-					(at 10.16 -5.08 180)
+					(at 29.21 -5.08 180)
 					(length 2.54)
 					(name "8"
 						(effects
@@ -10847,9 +10872,14 @@
 							)
 						)
 					)
+					(alternate "ADBUS1" passive line)
+					(alternate "I2C_SDA" passive line)
+					(alternate "JTAG_TDI" passive line)
+					(alternate "SPI_MOSI" passive line)
+					(alternate "SWD_IO" passive line)
 				)
 				(pin passive line
-					(at 10.16 -2.54 180)
+					(at 29.21 -2.54 180)
 					(length 2.54)
 					(name "9"
 						(effects
@@ -10865,6 +10895,7 @@
 							)
 						)
 					)
+					(alternate "GND" passive line)
 				)
 			)
 		)
@@ -11160,11 +11191,11 @@
 		(uuid "e5a374e4-434c-495d-b803-7954e9d653b8")
 	)
 	(no_connect
-		(at 200.66 223.52)
+		(at 191.77 223.52)
 		(uuid "114fe8fb-6fc5-4941-baf0-c29417c432b1")
 	)
 	(no_connect
-		(at 210.82 223.52)
+		(at 220.98 223.52)
 		(uuid "ceb4990b-57e6-4da2-8fa2-73b88ef8ccbc")
 	)
 	(wire
@@ -11179,7 +11210,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 218.44) (xy 210.82 218.44)
+			(xy 223.52 218.44) (xy 220.98 218.44)
 		)
 		(stroke
 			(width 0)
@@ -11249,7 +11280,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 215.9) (xy 200.66 215.9)
+			(xy 189.23 215.9) (xy 191.77 215.9)
 		)
 		(stroke
 			(width 0)
@@ -11259,7 +11290,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 215.9) (xy 212.09 229.87)
+			(xy 222.25 215.9) (xy 222.25 229.87)
 		)
 		(stroke
 			(width 0)
@@ -11379,7 +11410,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 215.9) (xy 210.82 215.9)
+			(xy 222.25 215.9) (xy 220.98 215.9)
 		)
 		(stroke
 			(width 0)
@@ -11409,7 +11440,7 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 220.98) (xy 213.36 220.98)
+			(xy 220.98 220.98) (xy 223.52 220.98)
 		)
 		(stroke
 			(width 0)
@@ -11449,7 +11480,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 229.87) (xy 199.39 218.44)
+			(xy 190.5 229.87) (xy 190.5 218.44)
 		)
 		(stroke
 			(width 0)
@@ -11619,7 +11650,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 226.06) (xy 200.66 226.06)
+			(xy 189.23 226.06) (xy 191.77 226.06)
 		)
 		(stroke
 			(width 0)
@@ -11679,7 +11710,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 218.44) (xy 200.66 218.44)
+			(xy 190.5 218.44) (xy 191.77 218.44)
 		)
 		(stroke
 			(width 0)
@@ -11709,7 +11740,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 220.98) (xy 200.66 220.98)
+			(xy 189.23 220.98) (xy 191.77 220.98)
 		)
 		(stroke
 			(width 0)
@@ -11789,7 +11820,7 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 226.06) (xy 213.36 226.06)
+			(xy 220.98 226.06) (xy 223.52 226.06)
 		)
 		(stroke
 			(width 0)
@@ -11838,6 +11869,7 @@
 	)
 	(label "Flash.CLK"
 		(at 167.64 166.37 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11848,6 +11880,7 @@
 	)
 	(label "Flash.CS"
 		(at 167.64 168.91 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11858,6 +11891,7 @@
 	)
 	(label "Flash.MISO"
 		(at 170.18 99.06 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11868,6 +11902,7 @@
 	)
 	(label "Flash.CS"
 		(at 170.18 101.6 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11878,6 +11913,7 @@
 	)
 	(label "Flash.MISO"
 		(at 213.36 166.37 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11888,6 +11924,7 @@
 	)
 	(label "Flash.CLK"
 		(at 170.18 93.98 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11898,6 +11935,7 @@
 	)
 	(label "Flash.MOSI"
 		(at 213.36 163.83 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11908,6 +11946,7 @@
 	)
 	(label "Flash.MOSI"
 		(at 170.18 96.52 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11939,7 +11978,7 @@
 	)
 	(global_label "JTAG_TDI"
 		(shape output)
-		(at 213.36 218.44 0)
+		(at 223.52 218.44 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11949,7 +11988,7 @@
 		)
 		(uuid "4c504960-71a2-41dd-ba2d-1c29fffee03e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 223.8769 218.3606 0)
+			(at 234.0369 218.3606 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12044,7 +12083,7 @@
 	)
 	(global_label "JTAG_TDO"
 		(shape input)
-		(at 198.12 220.98 180)
+		(at 189.23 220.98 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12054,7 +12093,7 @@
 		)
 		(uuid "b88f8537-a48e-45fe-8a23-830cd8db6141")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 186.3053 220.98 0)
+			(at 177.4153 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12086,7 +12125,7 @@
 	)
 	(global_label "JTAG_TCK"
 		(shape output)
-		(at 198.12 215.9 180)
+		(at 189.23 215.9 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12096,7 +12135,7 @@
 		)
 		(uuid "d1947acd-9847-437a-89ed-32a118f2de7a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 186.9379 215.8206 0)
+			(at 178.0479 215.8206 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12107,7 +12146,7 @@
 	)
 	(global_label "JTAG_TMS"
 		(shape output)
-		(at 198.12 226.06 180)
+		(at 189.23 226.06 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12117,7 +12156,7 @@
 		)
 		(uuid "d7ea0957-1cdb-4f4e-89ce-4914fc0739d2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 186.2449 226.06 0)
+			(at 177.3549 226.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12128,7 +12167,7 @@
 	)
 	(global_label "JTAG_RESET_n"
 		(shape output)
-		(at 213.36 220.98 0)
+		(at 223.52 220.98 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12138,7 +12177,7 @@
 		)
 		(uuid "f639c953-5787-4218-b39a-198ff06977ad")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 229.4683 220.98 0)
+			(at 239.6283 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12200,7 +12239,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Chip Resistor, 10 kohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose"
 			(at 219.71 106.68 0)
 			(effects
 				(font
@@ -12349,7 +12388,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "NOR Flash Serial-SPI 3.3V 1G-bit 1G/512M/256M x 1/2-bit/4-bit 6ns 16-Pin SOP-II T/R"
 			(at 179.07 163.83 0)
 			(effects
 				(font
@@ -12496,7 +12535,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Chip Resistor, 1 kohm, ± 1%, 63 mW, 0402 [1005 Metric], Thick Film, General Purpose"
 			(at 224.79 81.28 0)
 			(effects
 				(font
@@ -12646,7 +12685,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RISC-V System On Chip (SOC) IC PolarFire® FPGA - 254K Logic Modules 484-FCBGA (19x19)"
 			(at 180.34 86.36 0)
 			(effects
 				(font
@@ -14220,7 +14259,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Chip Resistor, 4.7 kohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose"
 			(at 165.1 87.63 0)
 			(effects
 				(font
@@ -14370,7 +14409,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 252.73 167.64 0)
 			(effects
 				(font
@@ -14531,7 +14570,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMT test point"
 			(at 229.87 86.36 0)
 			(effects
 				(font
@@ -14608,7 +14647,7 @@
 	)
 	(symbol
 		(lib_id "antmicropower:GND")
-		(at 212.09 229.87 0)
+		(at 222.25 229.87 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14616,7 +14655,7 @@
 		(dnp no)
 		(uuid "2366d72a-0736-4d15-b610-db8c307ddc86")
 		(property "Reference" "#PWR0360"
-			(at 220.98 232.41 0)
+			(at 231.14 232.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14627,7 +14666,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 212.09 233.68 0)
+			(at 222.25 233.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14636,7 +14675,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 220.98 237.49 0)
+			(at 231.14 237.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14647,7 +14686,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 220.98 242.57 0)
+			(at 231.14 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14658,7 +14697,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 212.09 229.87 0)
+			(at 222.25 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14667,7 +14706,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 220.98 237.49 0)
+			(at 231.14 237.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14678,7 +14717,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 220.98 240.03 0)
+			(at 231.14 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14939,7 +14978,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Chip Resistor, Jumper, 0 ohm, 100 mW, 0402 [1005 Metric], Thick Film, General Purpose"
 			(at 266.7 96.52 0)
 			(effects
 				(font
@@ -15107,7 +15146,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Chip Resistor, 4.7 kohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose"
 			(at 165.1 83.82 0)
 			(effects
 				(font
@@ -15361,7 +15400,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Chip Resistor, 10 kohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose"
 			(at 236.22 167.64 0)
 			(effects
 				(font
@@ -15461,7 +15500,7 @@
 	)
 	(symbol
 		(lib_id "antmicropower:GND")
-		(at 199.39 229.87 0)
+		(at 190.5 229.87 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15469,7 +15508,7 @@
 		(dnp no)
 		(uuid "8d5eb5a4-fac1-407e-a5b6-dd271166467d")
 		(property "Reference" "#PWR051"
-			(at 208.28 232.41 0)
+			(at 199.39 232.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15480,7 +15519,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 199.39 233.68 0)
+			(at 190.5 233.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15489,7 +15528,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 208.28 237.49 0)
+			(at 199.39 237.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15500,7 +15539,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 208.28 242.57 0)
+			(at 199.39 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15511,7 +15550,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 199.39 229.87 0)
+			(at 190.5 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15520,7 +15559,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 208.28 237.49 0)
+			(at 199.39 237.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15531,7 +15570,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 208.28 240.03 0)
+			(at 199.39 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15743,7 +15782,7 @@
 	)
 	(symbol
 		(lib_id "antmicropower:+3V3")
-		(at 213.36 226.06 270)
+		(at 223.52 226.06 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15751,7 +15790,7 @@
 		(dnp no)
 		(uuid "a2b79d5a-e74d-45c3-adce-0a3c4a9c1014")
 		(property "Reference" "#PWR0195"
-			(at 213.36 241.3 0)
+			(at 223.52 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15762,7 +15801,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 219.71 226.06 90)
+			(at 229.87 226.06 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15771,7 +15810,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 205.74 241.3 0)
+			(at 215.9 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15782,7 +15821,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 203.2 241.3 0)
+			(at 213.36 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15793,7 +15832,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 213.36 226.06 0)
+			(at 223.52 226.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15802,7 +15841,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 210.82 241.3 0)
+			(at 220.98 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15813,7 +15852,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 208.28 241.3 0)
+			(at 218.44 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15888,7 +15927,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Chip Resistor, 10 kohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose"
 			(at 227.33 167.64 0)
 			(effects
 				(font
@@ -16131,7 +16170,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Chip Resistor, 4.7 kohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose"
 			(at 165.1 91.44 0)
 			(effects
 				(font
@@ -16374,7 +16413,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Chip Resistor, Jumper, 0 ohm, 100 mW, 0402 [1005 Metric], Thick Film, General Purpose"
 			(at 261.62 93.98 0)
 			(effects
 				(font
@@ -16579,16 +16618,15 @@
 	)
 	(symbol
 		(lib_id "antmicroTestPoints:Tag-Connect_TC2050-IDC-NL_2x5_P1.27mm")
-		(at 200.66 215.9 0)
+		(at 191.77 215.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp yes)
-		(fields_autoplaced yes)
 		(uuid "e08075e0-31fb-4a1e-8761-9ece9996c5f1")
 		(property "Reference" "J2"
-			(at 205.74 208.28 0)
+			(at 206.756 208.788 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16597,7 +16635,7 @@
 			)
 		)
 		(property "Value" "Tag-Connect_TC2050-IDC-NL_2x5_P1.27mm"
-			(at 220.98 218.44 0)
+			(at 212.09 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16608,7 +16646,7 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:Tag-Connect_TC2050-IDC-NL_2x5_P1.27mm"
-			(at 220.98 220.98 0)
+			(at 212.09 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16619,7 +16657,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2050-IDC-NL_Datasheet_8.pdf"
-			(at 220.98 223.52 0)
+			(at 212.09 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16629,8 +16667,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 200.66 215.9 0)
+		(property "Description" "Tag Connect 2x5 1.27mm terminal"
+			(at 191.77 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16639,7 +16677,7 @@
 			)
 		)
 		(property "MPN" "TC2050-IDC-NL"
-			(at 205.74 210.82 0)
+			(at 206.756 211.328 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16648,7 +16686,7 @@
 			)
 		)
 		(property "Manufacturer" "Tag Connect"
-			(at 220.98 228.6 0)
+			(at 212.09 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16659,7 +16697,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 220.98 231.14 0)
+			(at 212.09 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16670,7 +16708,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 220.98 233.68 0)
+			(at 212.09 233.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16681,7 +16719,7 @@
 			)
 		)
 		(property "DNP" "DNP"
-			(at 200.66 215.9 0)
+			(at 191.77 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16970,7 +17008,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Chip Resistor, 1 kohm, ± 1%, 63 mW, 0402 [1005 Metric], Thick Film, General Purpose"
 			(at 217.17 81.28 0)
 			(effects
 				(font

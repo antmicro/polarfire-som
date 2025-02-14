@@ -144,16 +144,6 @@
 					(hide yes)
 				)
 			)
-			(property "Public" "False"
-				(at 20.32 -33.02 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
 			(property "ki_keywords" "0402, SMT, CAPACITOR, PASSIVE, CERAMIC, MLCC"
 				(at 0 0 0)
 				(effects
@@ -360,16 +350,6 @@
 					(hide yes)
 				)
 			)
-			(property "Public" "False"
-				(at 20.32 -33.02 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
 			(property "ki_keywords" "0402, SMT, CAPACITOR, PASSIVE, MLCC, CERAMIC"
 				(at 0 0 0)
 				(effects
@@ -568,16 +548,6 @@
 			)
 			(property "Dielectric" ""
 				(at 20.32 -30.48 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Public" "False"
-				(at 20.32 -33.02 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1030,16 +1000,6 @@
 					(hide yes)
 				)
 			)
-			(property "Public" "False"
-				(at 13.97 -30.48 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
 			(property "ki_keywords" "SMT, INDUCTOR, PASSIVE"
 				(at 0 0 0)
 				(effects
@@ -1242,16 +1202,6 @@
 					(font
 						(size 1.27 1.27)
 						(thickness 0.15)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Public" "False"
-				(at 31.75 -24.13 0)
-				(effects
-					(font
-						(size 1.27 1.27)
 					)
 					(justify left bottom)
 					(hide yes)
@@ -3027,16 +2977,6 @@
 					(hide yes)
 				)
 			)
-			(property "Public" "False"
-				(at 20.32 -30.48 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
 			(property "ki_keywords" "0402, SMT, RESISTOR, PASSIVE"
 				(at 0 0 0)
 				(effects
@@ -3212,16 +3152,6 @@
 			)
 			(property "Tolerance" "1%"
 				(at 20.32 -10.16 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Public" "False"
-				(at 20.32 -30.48 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -3413,16 +3343,6 @@
 					(hide yes)
 				)
 			)
-			(property "Public" "False"
-				(at 20.32 -30.48 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
 			(property "ki_keywords" "0402, SMT, RESISTOR, PASSIVE"
 				(at 0 0 0)
 				(effects
@@ -3580,16 +3500,6 @@
 					(font
 						(size 1.27 1.27)
 						(thickness 0.15)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Public" "False"
-				(at 10.16 -13.97 0)
-				(effects
-					(font
-						(size 1.27 1.27)
 					)
 					(justify left bottom)
 					(hide yes)
@@ -7568,6 +7478,7 @@
 	)
 	(label "STRAP_0"
 		(at 237.49 142.24 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7578,6 +7489,7 @@
 	)
 	(label "PF_BT.RX"
 		(at 171.45 133.35 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7588,6 +7500,7 @@
 	)
 	(label "WL_BT.D_P"
 		(at 234.315 130.81 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7598,6 +7511,7 @@
 	)
 	(label "WiFi.CMD"
 		(at 171.45 139.7 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7608,6 +7522,7 @@
 	)
 	(label "STRAP_1"
 		(at 237.49 144.78 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7618,6 +7533,7 @@
 	)
 	(label "STRAP_2"
 		(at 238.76 232.41 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7628,6 +7544,7 @@
 	)
 	(label "PF_BT.TX"
 		(at 171.45 128.27 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7638,6 +7555,7 @@
 	)
 	(label "WiFi.DAT1"
 		(at 171.45 144.78 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7648,6 +7566,7 @@
 	)
 	(label "STRAP_1"
 		(at 238.76 229.87 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7658,6 +7577,7 @@
 	)
 	(label "STRAP_0"
 		(at 238.76 227.33 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7668,6 +7588,7 @@
 	)
 	(label "WiFi.DAT0"
 		(at 171.45 142.24 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7678,6 +7599,7 @@
 	)
 	(label "LPO_IN"
 		(at 77.47 233.68 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7688,6 +7610,7 @@
 	)
 	(label "WiFi.DAT3"
 		(at 171.45 149.86 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7698,6 +7621,7 @@
 	)
 	(label "WiFi.CLK"
 		(at 171.45 152.4 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7708,6 +7632,7 @@
 	)
 	(label "LPO_IN"
 		(at 172.72 106.68 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7718,6 +7643,7 @@
 	)
 	(label "WL_BT.D_N"
 		(at 234.315 133.35 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7728,6 +7654,7 @@
 	)
 	(label "JTAG_SEL"
 		(at 238.76 234.95 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7738,6 +7665,7 @@
 	)
 	(label "STRAP_2"
 		(at 237.49 147.32 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7748,6 +7676,7 @@
 	)
 	(label "JTAG_SEL"
 		(at 237.49 100.33 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7758,6 +7687,7 @@
 	)
 	(label "WiFi.DAT2"
 		(at 171.45 147.32 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7958,6 +7888,7 @@
 	(hierarchical_label "WiFi{SDIO}"
 		(shape input)
 		(at 166.37 134.62 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7969,6 +7900,7 @@
 	(hierarchical_label "WL_BT{USB}"
 		(shape input)
 		(at 251.46 125.73 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7980,6 +7912,7 @@
 	(hierarchical_label "PF_BT{UART}"
 		(shape input)
 		(at 166.37 123.19 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8040,7 +7973,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMT test point"
 			(at 172.72 104.14 0)
 			(effects
 				(font
@@ -8167,7 +8100,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 10 µF, 6.3 V, 0402 [1005 Metric], ± 20%, X5R, CC Series"
 			(at 177.8 236.22 0)
 			(effects
 				(font
@@ -8421,7 +8354,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Chip Resistor, 10 kohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose"
 			(at 130.81 231.14 0)
 			(effects
 				(font
@@ -8664,7 +8597,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMT test point"
 			(at 180.34 119.38 0)
 			(effects
 				(font
@@ -8791,7 +8724,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Chip Resistor, 10 kohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose"
 			(at 273.05 241.3 0)
 			(effects
 				(font
@@ -9130,7 +9063,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "U.FL (UMCC) Connector Receptacle, Male Pin 50Ohm Surface Mount Solder"
 			(at 246.38 85.09 0)
 			(effects
 				(font
@@ -9251,7 +9184,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMT test point"
 			(at 180.34 110.49 0)
 			(effects
 				(font
@@ -9726,7 +9659,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Chip Resistor, 10 kohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose"
 			(at 121.92 231.14 0)
 			(effects
 				(font
@@ -9876,7 +9809,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "32.768 kHz XO (Standard) CMOS Oscillator 1.6V ~ 3.6V Enable/Disable 4-SMD, No Lead"
 			(at 48.26 233.68 0)
 			(effects
 				(font
@@ -10019,7 +9952,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Chip Resistor, 10 kohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose"
 			(at 265.43 241.3 0)
 			(effects
 				(font
@@ -10169,7 +10102,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 186.69 236.22 0)
 			(effects
 				(font
@@ -10422,7 +10355,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMT test point"
 			(at 180.34 113.03 0)
 			(effects
 				(font
@@ -10549,7 +10482,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "WiFi and Bluetooth Module"
 			(at 187.96 85.09 0)
 			(effects
 				(font
@@ -10891,7 +10824,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMT test point"
 			(at 180.34 130.81 0)
 			(effects
 				(font
@@ -11017,7 +10950,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMT test point"
 			(at 233.68 121.92 0)
 			(effects
 				(font
@@ -11144,7 +11077,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 10 µF, 6.3 V, 0402 [1005 Metric], ± 20%, X5R, CC Series"
 			(at 200.66 236.22 0)
 			(effects
 				(font
@@ -11304,7 +11237,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Chip Resistor, 10 kohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose"
 			(at 250.19 241.3 0)
 			(effects
 				(font
@@ -11642,7 +11575,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 4.7 µF, 10 V, 0402 [1005 Metric], ± 20%, X5R, GRM Series"
 			(at 158.75 96.52 0)
 			(effects
 				(font
@@ -11801,7 +11734,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Chip Resistor, 4.75 kohm, ± 0.5%, 100 mW, 0402 [1005 Metric], Thick Film, High Temperature"
 			(at 238.76 138.43 0)
 			(effects
 				(font
@@ -11949,7 +11882,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMT test point"
 			(at 233.68 124.46 0)
 			(effects
 				(font
@@ -12263,7 +12196,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMT test point"
 			(at 180.34 121.92 0)
 			(effects
 				(font
@@ -12390,7 +12323,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Chip Resistor, 10 kohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose"
 			(at 257.81 241.3 0)
 			(effects
 				(font
@@ -12634,7 +12567,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 209.55 236.22 0)
 			(effects
 				(font
@@ -12793,7 +12726,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMT test point"
 			(at 233.68 119.38 0)
 			(effects
 				(font
@@ -13014,7 +12947,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 130.81 241.3 0)
 			(effects
 				(font
@@ -13173,7 +13106,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMT test point"
 			(at 233.68 116.84 0)
 			(effects
 				(font
@@ -13299,7 +13232,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMT test point"
 			(at 180.34 116.84 0)
 			(effects
 				(font
@@ -13426,7 +13359,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 121.92 241.3 0)
 			(effects
 				(font
@@ -13679,7 +13612,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMT test point"
 			(at 180.34 124.46 0)
 			(effects
 				(font
@@ -13805,7 +13738,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMT test point"
 			(at 180.34 135.89 0)
 			(effects
 				(font
@@ -13932,7 +13865,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Chip Resistor, Jumper, 0 ohm, 100 mW, 0402 [1005 Metric], Thick Film, General Purpose"
 			(at 236.22 85.09 0)
 			(effects
 				(font
@@ -14091,7 +14024,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMT test point"
 			(at 233.68 127 0)
 			(effects
 				(font
@@ -14218,7 +14151,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 35.56 238.76 0)
 			(effects
 				(font
@@ -14377,7 +14310,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMT test point"
 			(at 233.68 95.25 0)
 			(effects
 				(font
@@ -14599,7 +14532,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Wirewound Inductor, 2.2 µH, 240 mOhm, 40 MHz, 1.2 A, 0603 [1608 Metric]"
 			(at 166.37 90.17 0)
 			(effects
 				(font

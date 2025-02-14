@@ -144,16 +144,6 @@
 					(hide yes)
 				)
 			)
-			(property "Public" "False"
-				(at 20.32 -33.02 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
 			(property "ki_keywords" "0402, SMT, CAPACITOR, PASSIVE, CERAMIC, MLCC"
 				(at 0 0 0)
 				(effects
@@ -1015,7 +1005,7 @@
 					)
 				)
 				(pin no_connect line
-					(at 22.86 -15.24 90)
+					(at 17.78 -15.24 90)
 					(length 2.54) hide
 					(name "NC"
 						(effects
@@ -1051,7 +1041,7 @@
 					)
 				)
 				(pin no_connect line
-					(at 22.86 -15.24 90)
+					(at 11.43 -15.24 90)
 					(length 2.54) hide
 					(name "NC"
 						(effects
@@ -1069,7 +1059,7 @@
 					)
 				)
 				(pin no_connect line
-					(at 22.86 -15.24 90)
+					(at 12.7 -15.24 90)
 					(length 2.54) hide
 					(name "NC"
 						(effects
@@ -1105,7 +1095,7 @@
 					)
 				)
 				(pin no_connect line
-					(at 22.86 -15.24 90)
+					(at 13.97 -15.24 90)
 					(length 2.54) hide
 					(name "NC"
 						(effects
@@ -1123,7 +1113,7 @@
 					)
 				)
 				(pin no_connect line
-					(at 22.86 -15.24 90)
+					(at 15.24 -15.24 90)
 					(length 2.54) hide
 					(name "NC"
 						(effects
@@ -1141,7 +1131,7 @@
 					)
 				)
 				(pin no_connect line
-					(at 22.86 -15.24 90)
+					(at 16.51 -15.24 90)
 					(length 2.54) hide
 					(name "NC"
 						(effects
@@ -10344,16 +10334,6 @@
 					(hide yes)
 				)
 			)
-			(property "Public" "False"
-				(at 20.32 -30.48 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
 			(property "ki_keywords" "0402, SMT, RESISTOR, PASSIVE"
 				(at 0 0 0)
 				(effects
@@ -14090,6 +14070,7 @@
 	)
 	(label "PCIE.TXD1_N"
 		(at 144.78 124.46 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14100,6 +14081,7 @@
 	)
 	(label "PCIE.TXD1_P"
 		(at 144.78 121.92 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14110,6 +14092,7 @@
 	)
 	(label "PCIE.TXD3_P"
 		(at 144.78 137.16 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14120,6 +14103,7 @@
 	)
 	(label "PCIE.TXD2_N"
 		(at 144.78 132.08 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14130,6 +14114,7 @@
 	)
 	(label "XCVR_TX0_P"
 		(at 171.45 115.57 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14140,6 +14125,7 @@
 	)
 	(label "PCIE.RXD3_P"
 		(at 252.73 137.16 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14150,6 +14136,7 @@
 	)
 	(label "PCIE.RXD1_N"
 		(at 252.73 124.46 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14160,6 +14147,7 @@
 	)
 	(label "PCIE.TXD0_N"
 		(at 144.78 116.84 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14170,6 +14158,7 @@
 	)
 	(label "PCIE.TXD2_P"
 		(at 144.78 129.54 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14180,6 +14169,7 @@
 	)
 	(label "XCVR_TX2_N"
 		(at 171.45 133.35 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14190,6 +14180,7 @@
 	)
 	(label "PF_PCIe_CLK_N"
 		(at 120.65 224.79 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14200,6 +14191,7 @@
 	)
 	(label "PF_PCIe_CLK_P"
 		(at 168.91 144.78 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14210,6 +14202,7 @@
 	)
 	(label "PCIE.TXD3_N"
 		(at 144.78 139.7 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14220,6 +14213,7 @@
 	)
 	(label "PCIE.RXD2_P"
 		(at 252.73 129.54 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14230,6 +14224,7 @@
 	)
 	(label "PCIE.RXD2_N"
 		(at 252.73 132.08 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14240,6 +14235,7 @@
 	)
 	(label "XCVR_TX1_P"
 		(at 171.45 120.65 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14250,6 +14246,7 @@
 	)
 	(label "PCIE.CLK_P"
 		(at 138.43 229.87 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14260,6 +14257,7 @@
 	)
 	(label "XCVR_TX0_N"
 		(at 171.3962 118.11 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14270,6 +14268,7 @@
 	)
 	(label "PF_PCIe_CLK_P"
 		(at 120.65 222.25 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14280,6 +14279,7 @@
 	)
 	(label "XCVR_TX2_P"
 		(at 171.5038 130.81 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14290,6 +14290,7 @@
 	)
 	(label "XCVR_TX3_N"
 		(at 171.5038 138.43 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14300,6 +14301,7 @@
 	)
 	(label "PCIE.CLK_N"
 		(at 137.795 232.41 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14310,6 +14312,7 @@
 	)
 	(label "PCIE.TXD0_P"
 		(at 144.78 114.3 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14320,6 +14323,7 @@
 	)
 	(label "PF_PCIe_CLK_N"
 		(at 168.91 147.32 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14330,6 +14334,7 @@
 	)
 	(label "XCVR_TX1_N"
 		(at 171.45 123.19 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14340,6 +14345,7 @@
 	)
 	(label "XCVR_TX3_P"
 		(at 171.5038 135.89 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14350,6 +14356,7 @@
 	)
 	(label "PCIE.RXD3_N"
 		(at 252.73 139.7 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14360,6 +14367,7 @@
 	)
 	(label "PCIE.RXD0_P"
 		(at 252.73 114.3 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14370,6 +14378,7 @@
 	)
 	(label "PCIE.RXD0_N"
 		(at 252.73 116.84 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14380,6 +14389,7 @@
 	)
 	(label "PCIE.RXD1_P"
 		(at 252.73 121.92 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14391,6 +14401,7 @@
 	(hierarchical_label "PCIE{PCIe_x4}"
 		(shape bidirectional)
 		(at 257.81 110.49 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14402,6 +14413,7 @@
 	(hierarchical_label "PCIE{PCIe_x4}"
 		(shape bidirectional)
 		(at 143.51 224.79 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14413,6 +14425,7 @@
 	(hierarchical_label "PCIE{PCIe_x4}"
 		(shape bidirectional)
 		(at 139.7 109.22 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14473,7 +14486,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 64.77 227.33 0)
 			(effects
 				(font
@@ -14793,7 +14806,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Chip Resistor"
 			(at 105.41 240.03 0)
 			(effects
 				(font
@@ -14943,7 +14956,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 55.88 227.33 0)
 			(effects
 				(font
@@ -15102,7 +15115,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 113.03 232.41 0)
 			(effects
 				(font
@@ -15261,7 +15274,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "4x0.1µF isolated capacitor array 16 V X7R 0508 (1220 Metric)"
 			(at 161.29 130.81 0)
 			(effects
 				(font
@@ -15428,7 +15441,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Chip Resistor"
 			(at 107.95 240.03 0)
 			(effects
 				(font
@@ -15577,7 +15590,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "4x0.1µF isolated capacitor array 16 V X7R 0508 (1220 Metric)"
 			(at 161.29 115.57 0)
 			(effects
 				(font
@@ -15744,7 +15757,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RISC-V System On Chip (SOC) IC PolarFire® FPGA - 254K Logic Modules 484-FCBGA (19x19)"
 			(at 187.96 114.3 0)
 			(effects
 				(font
@@ -17316,7 +17329,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Real Time Clock"
 			(at 74.93 220.98 0)
 			(effects
 				(font
@@ -17577,7 +17590,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 115.57 229.87 0)
 			(effects
 				(font

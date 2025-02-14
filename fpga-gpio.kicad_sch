@@ -144,16 +144,6 @@
 					(hide yes)
 				)
 			)
-			(property "Public" "False"
-				(at 20.32 -33.02 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
 			(property "ki_keywords" "0402, SMT, CAPACITOR, PASSIVE, CERAMIC, MLCC"
 				(at 0 0 0)
 				(effects
@@ -9279,7 +9269,7 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" "antmicro-footprints:LED_1204_3210Metric_RGB"
+			(property "Footprint" "antmicro-footprints:LED_1204_3210Metric_RGB_Horizontal"
 				(at 27.94 -10.16 0)
 				(effects
 					(font
@@ -10388,16 +10378,6 @@
 					(hide yes)
 				)
 			)
-			(property "Public" "False"
-				(at 20.32 -30.48 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
 			(property "ki_keywords" "0402, SMT, RESISTOR, PASSIVE"
 				(at 0 0 0)
 				(effects
@@ -10573,16 +10553,6 @@
 			)
 			(property "Tolerance" "1%"
 				(at 20.32 -10.16 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Public" "False"
-				(at 20.32 -30.48 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -10774,16 +10744,6 @@
 					(hide yes)
 				)
 			)
-			(property "Public" "False"
-				(at 20.32 -30.48 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
 			(property "ki_keywords" "0402, SMT, RESISTOR, PASSIVE"
 				(at 0 0 0)
 				(effects
@@ -10896,7 +10856,7 @@
 				)
 			)
 			(property "Description" "Power MOSFET, N Channel, 20 V, 630 mA, 0.3 ohm, SOT-523, Surface Mount"
-				(at 0 0 0)
+				(at 47.752 -15.494 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -10942,16 +10902,6 @@
 					(font
 						(size 1.27 1.27)
 						(thickness 0.15)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Public" "False"
-				(at 20.32 -7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
 					)
 					(justify left bottom)
 					(hide yes)
@@ -11167,7 +11117,7 @@
 						(type background)
 					)
 				)
-				(pin bidirectional line
+				(pin input line
 					(at 0 0 0)
 					(length 2.54)
 					(name "G"
@@ -11185,7 +11135,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin passive line
 					(at 6.35 -2.54 90)
 					(length 2.54)
 					(name "S"
@@ -11203,7 +11153,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin passive line
 					(at 6.35 7.62 270)
 					(length 2.54)
 					(name "D"
@@ -15309,6 +15259,7 @@
 	)
 	(label "WiFi_CMD"
 		(at 40.64 139.7 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15319,6 +15270,7 @@
 	)
 	(label "WiFi_DATA_3"
 		(at 119.38 236.22 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15329,6 +15281,7 @@
 	)
 	(label "PCIe_CLK_nREQ_PF"
 		(at 187.96 48.26 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15339,6 +15292,7 @@
 	)
 	(label "Crosslink.CS"
 		(at 211.455 121.92 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15349,6 +15303,7 @@
 	)
 	(label "CAM0.D1_P"
 		(at 64.77 53.34 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15359,6 +15314,7 @@
 	)
 	(label "WiFi_DATA_1"
 		(at 119.38 209.55 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15369,6 +15325,7 @@
 	)
 	(label "WiFi.CLK"
 		(at 172.085 264.16 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15379,6 +15336,7 @@
 	)
 	(label "WiFi.DAT0"
 		(at 171.45 233.68 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15389,6 +15347,7 @@
 	)
 	(label "HDMI0_HPD_SRC"
 		(at 185.42 106.68 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15399,6 +15358,7 @@
 	)
 	(label "PF_ETH_MDIO"
 		(at 59.69 76.2 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15409,6 +15369,7 @@
 	)
 	(label "USER_LED_G"
 		(at 44.45 246.38 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15419,6 +15380,7 @@
 	)
 	(label "PCIe_nRST_PF"
 		(at 187.96 50.8 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15429,6 +15391,7 @@
 	)
 	(label "HDMI0_SCL_SRC"
 		(at 185.42 101.6 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15439,6 +15402,7 @@
 	)
 	(label "CAM0.D0_P"
 		(at 64.77 48.26 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15449,6 +15413,7 @@
 	)
 	(label "ETH.MDIO"
 		(at 335.28 83.82 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15459,6 +15424,7 @@
 	)
 	(label "SDA0_PF"
 		(at 297.18 57.15 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15469,6 +15435,7 @@
 	)
 	(label "HDMI_FPGA.TX2_N"
 		(at 221.615 96.52 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15479,6 +15446,7 @@
 	)
 	(label "WiFi_DATA_0"
 		(at 119.38 233.68 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15489,6 +15457,7 @@
 	)
 	(label "ULPI.RESET"
 		(at 170.815 60.96 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15499,6 +15468,7 @@
 	)
 	(label "PF_ETH_RESET_n"
 		(at 290.83 227.33 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15509,6 +15479,7 @@
 	)
 	(label "Crosslink.SCL"
 		(at 189.23 129.54 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15519,6 +15490,7 @@
 	)
 	(label "HDMI_FPGA.CLK_N"
 		(at 44.45 60.96 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15529,6 +15501,7 @@
 	)
 	(label "HDMI_FPGA.TX1_P"
 		(at 221.615 73.66 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15539,6 +15512,7 @@
 	)
 	(label "I^{2}C0.SDA"
 		(at 349.885 57.15 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15549,6 +15523,7 @@
 	)
 	(label "CAM0.D0_N"
 		(at 64.77 50.8 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15559,6 +15534,7 @@
 	)
 	(label "USER_LED_B"
 		(at 16.51 246.38 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15569,6 +15545,7 @@
 	)
 	(label "PI3HDX511F.SDA"
 		(at 349.885 151.13 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15579,6 +15556,7 @@
 	)
 	(label "WiFi.DAT2"
 		(at 172.085 261.62 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15589,6 +15567,7 @@
 	)
 	(label "PI3HDX511F.SCL"
 		(at 349.885 153.67 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15599,6 +15578,7 @@
 	)
 	(label "HDMI_FPGA.TX2_P"
 		(at 221.615 93.98 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15609,6 +15589,7 @@
 	)
 	(label "CAM0.D1_N"
 		(at 64.77 55.88 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15619,6 +15600,7 @@
 	)
 	(label "Crosslink.CLK"
 		(at 211.455 124.46 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15629,6 +15611,7 @@
 	)
 	(label "WiFi_CLK"
 		(at 40.64 152.4 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15639,6 +15622,7 @@
 	)
 	(label "CAM0.C_N"
 		(at 64.77 66.04 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15649,6 +15633,7 @@
 	)
 	(label "PF_ETH_PWDN_n"
 		(at 290.83 224.79 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15659,6 +15644,7 @@
 	)
 	(label "HDMI_FPGA.CLK_P"
 		(at 44.45 58.42 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15669,6 +15655,7 @@
 	)
 	(label "SDA0_PF"
 		(at 187.96 55.88 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15679,6 +15666,7 @@
 	)
 	(label "HDMI0_HPD_SRC"
 		(at 294.64 191.77 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15689,6 +15677,7 @@
 	)
 	(label "SCL0_PF"
 		(at 187.96 53.34 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15699,6 +15688,7 @@
 	)
 	(label "Crosslink.SDA"
 		(at 189.23 116.84 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15709,6 +15699,7 @@
 	)
 	(label "WiFi_DATA_2"
 		(at 40.64 147.32 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15719,6 +15710,7 @@
 	)
 	(label "Crosslink.MISO"
 		(at 211.455 127 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15729,6 +15721,7 @@
 	)
 	(label "HDMI_FPGA.TX0_P"
 		(at 221.615 68.58 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15739,6 +15732,7 @@
 	)
 	(label "PF_ETH_PWDN_n"
 		(at 59.69 78.74 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15749,6 +15743,7 @@
 	)
 	(label "WiFi_DATA_2"
 		(at 119.38 261.62 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15759,6 +15754,7 @@
 	)
 	(label "HDMI0_SDA_SRC"
 		(at 292.1 151.13 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15769,6 +15765,7 @@
 	)
 	(label "PF_ETH_RESET_n"
 		(at 59.69 81.28 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15779,6 +15776,7 @@
 	)
 	(label "PCIe_nRST_PF"
 		(at 288.29 119.38 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15789,6 +15787,7 @@
 	)
 	(label "USER_LED_B"
 		(at 218.44 144.78 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15799,6 +15798,7 @@
 	)
 	(label "WiFi_DATA_3"
 		(at 40.64 149.86 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15809,6 +15809,7 @@
 	)
 	(label "WiFi_DATA_1"
 		(at 40.64 144.78 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15819,6 +15820,7 @@
 	)
 	(label "WiFi.DAT1"
 		(at 172.085 209.55 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15829,6 +15831,7 @@
 	)
 	(label "Crosslink.MOSI"
 		(at 211.455 119.38 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15839,6 +15842,7 @@
 	)
 	(label "ETH.MDC"
 		(at 335.28 81.28 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15849,6 +15853,7 @@
 	)
 	(label "SCL0_PF"
 		(at 297.18 54.61 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15859,6 +15864,7 @@
 	)
 	(label "CAM0.C_P"
 		(at 64.77 63.5 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15869,6 +15875,7 @@
 	)
 	(label "HDMI_FPGA.TX1_N"
 		(at 221.615 76.2 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15879,6 +15886,7 @@
 	)
 	(label "USER_LED_R"
 		(at 73.66 246.38 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15889,6 +15897,7 @@
 	)
 	(label "HDMI_FPGA.TX0_N"
 		(at 221.615 71.12 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15899,6 +15908,7 @@
 	)
 	(label "HDMI0_SCL_SRC"
 		(at 292.1 153.67 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15909,6 +15919,7 @@
 	)
 	(label "PF_ETH_MDC"
 		(at 59.69 73.66 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15919,6 +15930,7 @@
 	)
 	(label "WiFi.DAT3"
 		(at 171.45 236.22 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15929,6 +15941,7 @@
 	)
 	(label "WiFi_DATA_0"
 		(at 40.64 142.24 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15939,6 +15952,7 @@
 	)
 	(label "PF_ETH_MDC"
 		(at 293.37 81.28 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15949,6 +15963,7 @@
 	)
 	(label "WiFi_CMD"
 		(at 119.38 207.01 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15959,6 +15974,7 @@
 	)
 	(label "WiFi_CLK"
 		(at 119.38 264.16 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15969,6 +15985,7 @@
 	)
 	(label "HDMI0_SDA_SRC"
 		(at 185.42 99.06 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15979,6 +15996,7 @@
 	)
 	(label "I^{2}C0.SCL"
 		(at 349.885 54.61 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15989,6 +16007,7 @@
 	)
 	(label "USER_LED_R"
 		(at 218.44 139.7 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15999,6 +16018,7 @@
 	)
 	(label "PF_ETH_MDIO"
 		(at 293.37 83.82 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16009,6 +16029,7 @@
 	)
 	(label "WiFi.CMD"
 		(at 172.085 207.01 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16019,6 +16040,7 @@
 	)
 	(label "USER_LED_G"
 		(at 218.44 142.24 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16029,6 +16051,7 @@
 	)
 	(label "PCIe_CLK_nREQ_PF"
 		(at 288.29 116.84 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16733,6 +16756,7 @@
 	(hierarchical_label "Crosslink{I^{2}C}"
 		(shape bidirectional)
 		(at 193.04 113.03 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16744,6 +16768,7 @@
 	(hierarchical_label "PI3HDX511F{I^{2}C}"
 		(shape bidirectional)
 		(at 355.6 146.05 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16755,6 +16780,7 @@
 	(hierarchical_label "HDMI_FPGA{HDMI}"
 		(shape bidirectional)
 		(at 40.64 54.61 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16766,6 +16792,7 @@
 	(hierarchical_label "ULPI{ULPI}"
 		(shape input)
 		(at 193.04 55.88 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16777,6 +16804,7 @@
 	(hierarchical_label "ETH{SMI}"
 		(shape input)
 		(at 355.6 76.2 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16788,6 +16816,7 @@
 	(hierarchical_label "Crosslink{SPI}"
 		(shape bidirectional)
 		(at 217.17 114.3 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16799,6 +16828,7 @@
 	(hierarchical_label "HDMI_FPGA{HDMI}"
 		(shape bidirectional)
 		(at 231.14 63.5 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16810,6 +16840,7 @@
 	(hierarchical_label "WiFi{SDIO}"
 		(shape input)
 		(at 177.8 201.93 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16821,6 +16852,7 @@
 	(hierarchical_label "CAM0{CSI}"
 		(shape bidirectional)
 		(at 59.69 44.45 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16832,6 +16864,7 @@
 	(hierarchical_label "I^{2}C0{I^{2}C}"
 		(shape input)
 		(at 355.6 49.53 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16893,7 +16926,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Chip Resistor, 470 ohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose"
 			(at 66.04 232.41 0)
 			(effects
 				(font
@@ -17042,7 +17075,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 335.28 40.64 0)
 			(effects
 				(font
@@ -17714,7 +17747,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Transceiver, 1.65 V to 3.6 V, XSON-8"
 			(at 311.15 148.59 0)
 			(effects
 				(font
@@ -17849,7 +17882,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 373.38 80.01 0)
 			(effects
 				(font
@@ -18008,7 +18041,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 383.54 80.01 0)
 			(effects
 				(font
@@ -18233,7 +18266,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 193.04 226.06 0)
 			(effects
 				(font
@@ -18392,7 +18425,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Transceiver, 1.65 V to 3.6 V, XSON-8"
 			(at 311.15 78.74 0)
 			(effects
 				(font
@@ -18785,7 +18818,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 367.03 223.52 0)
 			(effects
 				(font
@@ -19133,7 +19166,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 304.8 102.87 0)
 			(effects
 				(font
@@ -19294,7 +19327,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Chip Resistor, 470 ohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose"
 			(at 36.83 232.41 0)
 			(effects
 				(font
@@ -19444,7 +19477,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Transceiver, 1.65 V to 3.6 V, XSON-8"
 			(at 134.62 204.47 0)
 			(effects
 				(font
@@ -19676,7 +19709,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Chip Resistor, 100 kohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose"
 			(at 29.21 252.73 0)
 			(effects
 				(font
@@ -20111,7 +20144,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 378.46 223.52 0)
 			(effects
 				(font
@@ -20271,7 +20304,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 304.8 40.64 0)
 			(effects
 				(font
@@ -20717,7 +20750,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Chip Resistor, 590 ohm, ± 1%, 100 mW, 0402 [1005 Metric], Thick Film, Precision"
 			(at 93.98 232.41 0)
 			(effects
 				(font
@@ -21151,7 +21184,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Transceiver, 1.65 V to 3.6 V, XSON-8"
 			(at 311.15 52.07 0)
 			(effects
 				(font
@@ -21287,7 +21320,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 185.42 226.06 0)
 			(effects
 				(font
@@ -21445,7 +21478,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Transceiver, Translating, 74LVC1T45, 74LVC Family, 1.2V to 5.5V Supply, XSON-6"
 			(at 312.42 189.23 0)
 			(effects
 				(font
@@ -21672,7 +21705,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RISC-V System On Chip (SOC) IC PolarFire® FPGA - 254K Logic Modules 484-FCBGA (19x19)"
 			(at 76.2 48.26 0)
 			(effects
 				(font
@@ -23312,7 +23345,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 365.76 166.37 0)
 			(effects
 				(font
@@ -23757,7 +23790,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power MOSFET, N Channel, 20 V, 630 mA, 0.3 ohm, SOT-523, Surface Mount"
 			(at 87.63 246.38 0)
 			(effects
 				(font
@@ -23984,7 +24017,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Chip Resistor, 100 kohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose"
 			(at 58.42 252.73 0)
 			(effects
 				(font
@@ -24113,7 +24146,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "antmicro-footprints:LED_1204_3210Metric_RGB"
+		(property "Footprint" "antmicro-footprints:LED_1204_3210Metric_RGB_Horizontal"
 			(at 59.69 196.85 0)
 			(effects
 				(font
@@ -24135,7 +24168,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "LED, RGB, SMD, 1204, R 30 mA, G 20 mA, B 20 mA, R 2 V, G 3.5 V, B 3.5 V, Common Anode, Side Look"
 			(at 69.85 223.52 0)
 			(effects
 				(font
@@ -24527,7 +24560,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power MOSFET, N Channel, 20 V, 630 mA, 0.3 ohm, SOT-523, Surface Mount"
 			(at 59.69 246.38 0)
 			(effects
 				(font
@@ -24659,7 +24692,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Transceiver, 1.65 V to 3.6 V, XSON-8"
 			(at 134.62 259.08 0)
 			(effects
 				(font
@@ -25627,7 +25660,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 359.41 166.37 0)
 			(effects
 				(font
@@ -25948,7 +25981,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Transceiver, 1.65 V to 3.6 V, XSON-8"
 			(at 311.15 114.3 0)
 			(effects
 				(font
@@ -26180,7 +26213,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Transceiver, 1.65 V to 3.6 V, XSON-8"
 			(at 311.15 222.25 0)
 			(effects
 				(font
@@ -26477,7 +26510,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 335.28 102.87 0)
 			(effects
 				(font
@@ -26637,7 +26670,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power MOSFET, N Channel, 20 V, 630 mA, 0.3 ohm, SOT-523, Surface Mount"
 			(at 30.48 246.38 0)
 			(effects
 				(font
@@ -26932,7 +26965,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Chip Resistor, 100 kohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose"
 			(at 86.36 254 0)
 			(effects
 				(font
@@ -27527,7 +27560,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Transceiver, 1.65 V to 3.6 V, XSON-8"
 			(at 134.62 231.14 0)
 			(effects
 				(font

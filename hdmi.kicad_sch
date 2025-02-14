@@ -144,16 +144,6 @@
 					(hide yes)
 				)
 			)
-			(property "Public" "False"
-				(at 20.32 -33.02 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
 			(property "ki_keywords" "0402, SMT, CAPACITOR, PASSIVE, CERAMIC, MLCC"
 				(at 0 0 0)
 				(effects
@@ -360,16 +350,6 @@
 					(hide yes)
 				)
 			)
-			(property "Public" "False"
-				(at 20.32 -33.02 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
 			(property "ki_keywords" "0402, SMT, CAPACITOR, PASSIVE, CERAMIC"
 				(at 0 0 0)
 				(effects
@@ -568,16 +548,6 @@
 			)
 			(property "Dielectric" ""
 				(at 20.32 -30.48 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Public" "False"
-				(at 20.32 -33.02 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1269,16 +1239,6 @@
 					(font
 						(size 1.27 1.27)
 						(thickness 0.15)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Public" "False"
-				(at 20.32 -15.24 0)
-				(effects
-					(font
-						(size 1.27 1.27)
 					)
 					(justify left bottom)
 					(hide yes)
@@ -2172,16 +2132,6 @@
 					(hide yes)
 				)
 			)
-			(property "Public" "False"
-				(at 20.32 -30.48 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
 			(property "ki_keywords" "0402, SMT, RESISTOR, PASSIVE"
 				(at 0 0 0)
 				(effects
@@ -2339,16 +2289,6 @@
 					(font
 						(size 1.27 1.27)
 						(thickness 0.15)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Public" "False"
-				(at 10.16 -13.97 0)
-				(effects
-					(font
-						(size 1.27 1.27)
 					)
 					(justify left bottom)
 					(hide yes)
@@ -6286,6 +6226,7 @@
 	)
 	(label "HDMI_FPGA.CLK_P"
 		(at 104.14 167.64 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6296,6 +6237,7 @@
 	)
 	(label "PI3HDX511F.SDA"
 		(at 229.87 154.94 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6306,6 +6248,7 @@
 	)
 	(label "PI3HDX_C_CLK_P"
 		(at 149.86 167.64 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6316,6 +6259,7 @@
 	)
 	(label "HDMI0.TX0_P"
 		(at 306.07 140.97 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6326,6 +6270,7 @@
 	)
 	(label "PI3HDX_C_TX0_P"
 		(at 208.28 140.97 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6336,6 +6281,7 @@
 	)
 	(label "HDMI_FPGA.TX2_P"
 		(at 103.505 152.4 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6346,6 +6292,7 @@
 	)
 	(label "PI3HDX_C_CLK_N"
 		(at 149.86 165.1 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6356,6 +6303,7 @@
 	)
 	(label "HDMI_3V3"
 		(at 254 115.57 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6366,6 +6314,7 @@
 	)
 	(label "HDMI_FPGA.TX0_P"
 		(at 103.505 162.56 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6376,6 +6325,7 @@
 	)
 	(label "PI3HDX_C_TX1_P"
 		(at 149.86 157.48 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6386,6 +6336,7 @@
 	)
 	(label "HDMI0.CLK_N"
 		(at 306.07 148.59 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6396,6 +6347,7 @@
 	)
 	(label "PI3HDX_C_TX1_N"
 		(at 208.28 138.43 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6406,6 +6358,7 @@
 	)
 	(label "PI3HDX_C_TX0_N"
 		(at 208.28 143.51 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6416,6 +6369,7 @@
 	)
 	(label "HDMI_FPGA.TX0_N"
 		(at 103.505 160.02 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6426,6 +6380,7 @@
 	)
 	(label "PI3HDX_C_TX1_P"
 		(at 208.28 135.89 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6436,6 +6391,7 @@
 	)
 	(label "PI3HDX_C_TX2_P"
 		(at 208.28 130.81 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6446,6 +6402,7 @@
 	)
 	(label "HDMI0.CLK_P"
 		(at 306.07 146.05 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6456,6 +6413,7 @@
 	)
 	(label "HDMI_3V3"
 		(at 133.35 99.06 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6466,6 +6424,7 @@
 	)
 	(label "HDMI_FPGA.TX1_N"
 		(at 103.505 154.94 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6476,6 +6435,7 @@
 	)
 	(label "HDMI0.SCL"
 		(at 327.025 157.48 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6486,6 +6446,7 @@
 	)
 	(label "HDMI0.TX1_N"
 		(at 306.07 138.43 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6496,6 +6457,7 @@
 	)
 	(label "HDMI_FPGA.CLK_N"
 		(at 104.14 165.1 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6506,6 +6468,7 @@
 	)
 	(label "PI3HDX_C_TX0_P"
 		(at 149.86 162.56 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6516,6 +6479,7 @@
 	)
 	(label "HDMI_FPGA.TX1_P"
 		(at 103.505 157.48 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6526,6 +6490,7 @@
 	)
 	(label "HDMI0.TX0_N"
 		(at 306.07 143.51 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6536,6 +6501,7 @@
 	)
 	(label "PI3HDX_C_TX2_P"
 		(at 149.86 152.4 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6546,6 +6512,7 @@
 	)
 	(label "PI3HDX_C_TX2_N"
 		(at 149.86 149.86 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6556,6 +6523,7 @@
 	)
 	(label "PI3HDX_C_TX0_N"
 		(at 149.86 160.02 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6566,6 +6534,7 @@
 	)
 	(label "PI3HDX_C_TX1_N"
 		(at 149.86 154.94 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6576,6 +6545,7 @@
 	)
 	(label "HDMI0.SDA"
 		(at 327.025 154.94 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6586,6 +6556,7 @@
 	)
 	(label "PI3HDX_C_TX2_N"
 		(at 208.28 133.35 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6596,6 +6567,7 @@
 	)
 	(label "PI3HDX_C_CLK_P"
 		(at 208.28 146.05 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6606,6 +6578,7 @@
 	)
 	(label "PI3HDX_C_CLK_N"
 		(at 208.28 148.59 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6616,6 +6589,7 @@
 	)
 	(label "HDMI_FPGA.TX2_N"
 		(at 103.505 149.86 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6626,6 +6600,7 @@
 	)
 	(label "HDMI0.TX2_N"
 		(at 306.07 133.35 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6636,6 +6611,7 @@
 	)
 	(label "HDMI0.TX1_P"
 		(at 306.07 135.89 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6646,6 +6622,7 @@
 	)
 	(label "HDMI0.TX2_P"
 		(at 306.07 130.81 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6656,6 +6633,7 @@
 	)
 	(label "PI3HDX511F.SCL"
 		(at 229.87 157.48 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6709,6 +6687,7 @@
 	(hierarchical_label "HDMI0{I^{2}C}"
 		(shape bidirectional)
 		(at 342.9 149.86 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6720,6 +6699,7 @@
 	(hierarchical_label "HDMI0{HDMI}"
 		(shape bidirectional)
 		(at 311.15 125.73 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6731,6 +6711,7 @@
 	(hierarchical_label "HDMI_FPGA{HDMI}"
 		(shape bidirectional)
 		(at 92.71 144.78 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6742,6 +6723,7 @@
 	(hierarchical_label "PI3HDX511F{I^{2}C}"
 		(shape bidirectional)
 		(at 193.04 149.86 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6897,7 +6879,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMT test point"
 			(at 283.21 121.92 0)
 			(effects
 				(font
@@ -7023,7 +7005,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 123.19 102.87 0)
 			(effects
 				(font
@@ -7248,7 +7230,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Video ICs Active HDMI TQFN-30"
 			(at 250.19 121.92 0)
 			(effects
 				(font
@@ -7453,7 +7435,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Multilayer Ceramic Capacitors MLCC - SMD/SMT 10 uF 10 VDC 20% 0402 X5R"
 			(at 128.27 107.95 0)
 			(effects
 				(font
@@ -7801,7 +7783,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMT test point"
 			(at 283.21 124.46 0)
 			(effects
 				(font
@@ -7928,7 +7910,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 4.7 µF, 10 V, 0402 [1005 Metric], ± 20%, X5R, GRM Series"
 			(at 232.41 124.46 0)
 			(effects
 				(font
@@ -8088,7 +8070,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Chip Resistor, 2.2 kohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose"
 			(at 321.31 146.05 0)
 			(effects
 				(font
@@ -8332,7 +8314,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Ferrite Bead, 0402 [1005 Metric], 120 ohm, 1.2A, MPZ, 0.06 ohm, ± 25%, DC Power line"
 			(at 111.76 99.06 0)
 			(effects
 				(font
@@ -8545,7 +8527,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "4x0.1µF isolated capacitor array 16 V X7R 0508 (1220 Metric)"
 			(at 124.46 160.02 0)
 			(effects
 				(font
@@ -8807,7 +8789,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "4x0.1µF isolated capacitor array 16 V X7R 0508 (1220 Metric)"
 			(at 124.46 149.86 0)
 			(effects
 				(font
@@ -8974,7 +8956,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Multilayer Ceramic Capacitors MLCC - SMD/SMT 10 uF 10 VDC 20% 0402 X5R"
 			(at 133.35 107.95 0)
 			(effects
 				(font
@@ -9134,7 +9116,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Chip Resistor, 2.2 kohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose"
 			(at 317.5 146.05 0)
 			(effects
 				(font
@@ -9283,7 +9265,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 118.11 102.87 0)
 			(effects
 				(font
@@ -9442,7 +9424,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMT test point"
 			(at 245.11 127 0)
 			(effects
 				(font

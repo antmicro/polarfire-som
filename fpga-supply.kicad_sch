@@ -144,16 +144,6 @@
 					(hide yes)
 				)
 			)
-			(property "Public" "False"
-				(at 20.32 -33.02 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
 			(property "ki_keywords" "0402, SMT, CAPACITOR, PASSIVE, CERAMIC, MLCC"
 				(at 0 0 0)
 				(effects
@@ -352,16 +342,6 @@
 			)
 			(property "Dielectric" "X7R"
 				(at 20.32 -30.48 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Public" "False"
-				(at 20.32 -33.02 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -576,16 +556,6 @@
 					(hide yes)
 				)
 			)
-			(property "Public" "False"
-				(at 20.32 -33.02 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
 			(property "ki_keywords" "0402, SMT, CAPACITOR, PASSIVE, MLCC, CERAMIC"
 				(at 0 0 0)
 				(effects
@@ -784,16 +754,6 @@
 			)
 			(property "Dielectric" "C0G"
 				(at 20.32 -30.48 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Public" "False"
-				(at 20.32 -33.02 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1008,16 +968,6 @@
 					(hide yes)
 				)
 			)
-			(property "Public" "False"
-				(at 20.32 -33.02 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
 			(property "ki_keywords" "0402, SMT, CAPACITOR, PASSIVE, CERAMIC, MLCC"
 				(at 0 0 0)
 				(effects
@@ -1216,16 +1166,6 @@
 			)
 			(property "Dielectric" "X7R"
 				(at 20.32 -30.48 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Public" "False"
-				(at 20.32 -33.02 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1440,16 +1380,6 @@
 					(hide yes)
 				)
 			)
-			(property "Public" "False"
-				(at 20.32 -33.02 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
 			(property "ki_keywords" "0402, SMT, CAPACITOR, PASSIVE"
 				(at 0 0 0)
 				(effects
@@ -1648,16 +1578,6 @@
 			)
 			(property "Dielectric" ""
 				(at 20.32 -30.48 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Public" "False"
-				(at 20.32 -33.02 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1872,16 +1792,6 @@
 					(hide yes)
 				)
 			)
-			(property "Public" "False"
-				(at 20.32 -33.02 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
 			(property "ki_keywords" "0603, SMT, CAPACITOR, PASSIVE, CERAMIC, MLCC"
 				(at 0 0 0)
 				(effects
@@ -2080,16 +1990,6 @@
 			)
 			(property "Dielectric" "template_dielectric"
 				(at 13.97 -25.4 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Public" "False"
-				(at 13.97 -27.94 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -11342,16 +11242,6 @@
 					(hide yes)
 				)
 			)
-			(property "Public" "False"
-				(at 20.32 -30.48 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
 			(property "ki_keywords" "0402, SMT, RESISTOR, PASSIVE"
 				(at 0 0 0)
 				(effects
@@ -12557,6 +12447,12 @@
 		(uuid "373326a3-334d-461f-a7b2-70cf67817d64")
 	)
 	(junction
+		(at 182.88 240.03)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "38e0f754-117a-4f63-ae1b-7923c88b51e5")
+	)
+	(junction
 		(at 146.05 170.18)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12603,6 +12499,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "47977ffb-2696-483b-bc96-a4c84752be00")
+	)
+	(junction
+		(at 132.08 214.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "55d68150-f77b-4dea-9e11-b7f760f99830")
 	)
 	(junction
 		(at 176.53 170.18)
@@ -12755,6 +12657,12 @@
 		(uuid "8f5e192f-45c3-43e8-a60e-8fd298822deb")
 	)
 	(junction
+		(at 176.53 162.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "919155ee-7d2c-402e-acad-a857bce7f644")
+	)
+	(junction
 		(at 156.21 162.56)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12801,6 +12709,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a79f8f72-9df3-47a9-9383-e03af683f6fd")
+	)
+	(junction
+		(at 71.12 162.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a963bb84-97db-4d2a-a414-abe97d596f8c")
 	)
 	(junction
 		(at 129.54 240.03)
@@ -13354,6 +13268,16 @@
 	)
 	(wire
 		(pts
+			(xy 71.12 161.29) (xy 71.12 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b79f5fa-30c0-4f7e-8c1e-9697e7929f2e")
+	)
+	(wire
+		(pts
 			(xy 229.87 82.55) (xy 231.14 82.55)
 		)
 		(stroke
@@ -13371,6 +13295,16 @@
 			(type default)
 		)
 		(uuid "1c6146c1-ed2b-4828-be57-7f40e2de2e1c")
+	)
+	(wire
+		(pts
+			(xy 132.08 213.36) (xy 132.08 214.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c6284e3-ce19-4523-ad76-47eb864c9856")
 	)
 	(wire
 		(pts
@@ -13971,6 +13905,16 @@
 			(type default)
 		)
 		(uuid "52c1a73b-00dd-4def-a266-8e7824d1ea6d")
+	)
+	(wire
+		(pts
+			(xy 176.53 161.29) (xy 176.53 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "535f6b4a-96b3-4cc4-8765-c2891161cb44")
 	)
 	(wire
 		(pts
@@ -15101,6 +15045,16 @@
 			(type default)
 		)
 		(uuid "b7a4cfea-d454-4f27-8684-30f7e5648f29")
+	)
+	(wire
+		(pts
+			(xy 182.88 238.76) (xy 182.88 240.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b83d8e8a-bf1f-4eb1-a5d2-caba1d42037b")
 	)
 	(wire
 		(pts
@@ -18188,6 +18142,7 @@
 	)
 	(label "XCVR_VREF"
 		(at 30.48 240.03 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18198,6 +18153,7 @@
 	)
 	(label "XCVR_VREF"
 		(at 248.92 92.71 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18322,7 +18278,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 1000 pF, 50 V, 0402 [1005 Metric], ± 5%, C0G / NP0, GRM Series"
 			(at 152.4 246.38 0)
 			(effects
 				(font
@@ -18613,7 +18569,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 10000 pF, 50 V, 0402 [1005 Metric], ± 10%, X7R, GRM Series"
 			(at 115.57 168.91 0)
 			(effects
 				(font
@@ -18774,7 +18730,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 47 µF, 6.3 V, 0603 [1608 Metric], ± 20%, X5R, GRM Series"
 			(at 160.02 195.58 0)
 			(effects
 				(font
@@ -19132,7 +19088,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RISC-V System On Chip (SOC) IC PolarFire® FPGA - 254K Logic Modules 484-FCBGA (19x19)"
 			(at 194.31 74.93 0)
 			(effects
 				(font
@@ -20708,7 +20664,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 24.13 222.25 0)
 			(effects
 				(font
@@ -20869,7 +20825,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 10 µF, 6.3 V, 0402 [1005 Metric], ± 20%, X5R, CC Series"
 			(at 55.88 246.38 0)
 			(effects
 				(font
@@ -21030,7 +20986,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 10 µF, 6.3 V, 0402 [1005 Metric], ± 20%, X5R, CC Series"
 			(at 149.86 195.58 0)
 			(effects
 				(font
@@ -21191,7 +21147,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 99.06 246.38 0)
 			(effects
 				(font
@@ -21417,7 +21373,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 172.72 222.25 0)
 			(effects
 				(font
@@ -21578,7 +21534,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 4700 pF, 100 V, 0402 [1005 Metric], ± 10%, X7S, CGA"
 			(at 162.56 222.25 0)
 			(effects
 				(font
@@ -21963,7 +21919,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 20.32 246.38 0)
 			(effects
 				(font
@@ -22124,7 +22080,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 4700 pF, 100 V, 0402 [1005 Metric], ± 10%, X7S, CGA"
 			(at 88.9 246.38 0)
 			(effects
 				(font
@@ -22327,6 +22283,71 @@
 		)
 	)
 	(symbol
+		(lib_id "antmicropower:PWR_FLAG")
+		(at 176.53 161.29 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "32871146-3b09-4e20-b0dc-fe5d10a391ba")
+		(property "Reference" "#FLG08"
+			(at 176.53 159.385 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 176.53 157.226 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 176.53 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 176.53 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 176.53 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e54fa041-15ee-4bad-8379-46e9ce81472d")
+		)
+		(instances
+			(project "polarfire-som"
+				(path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
+					(reference "#FLG08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "antmicroCapacitors0402:C_100n_0402")
 		(at 60.96 195.58 90)
 		(unit 1)
@@ -22379,7 +22400,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 60.96 195.58 0)
 			(effects
 				(font
@@ -22539,7 +22560,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Tantalum Polymer Capacitor, KO-CAP®, 330 µF, ± 20%, 6.3 V, B, 0.04 ohm, 1411 [3528 Metric]"
 			(at 172.72 190.5 0)
 			(effects
 				(font
@@ -22710,7 +22731,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 47 µF, 6.3 V, 0603 [1608 Metric], ± 20%, X5R, GRM Series"
 			(at 71.12 168.91 0)
 			(effects
 				(font
@@ -22881,7 +22902,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 60.96 220.98 0)
 			(effects
 				(font
@@ -23042,7 +23063,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 119.38 246.38 0)
 			(effects
 				(font
@@ -23203,7 +23224,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 4700 pF, 100 V, 0402 [1005 Metric], ± 10%, X7S, CGA"
 			(at 40.64 168.91 0)
 			(effects
 				(font
@@ -23617,7 +23638,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 45.72 246.38 0)
 			(effects
 				(font
@@ -23778,7 +23799,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 10000 pF, 50 V, 0402 [1005 Metric], ± 10%, X7R, GRM Series"
 			(at 50.8 168.91 0)
 			(effects
 				(font
@@ -23939,7 +23960,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitors, 0.022 µF, 50 V, 20%, 0402 [1005 Metric], X7R"
 			(at 146.05 168.91 0)
 			(effects
 				(font
@@ -24100,7 +24121,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 47 µF, 6.3 V, 0603 [1608 Metric], ± 20%, X5R, GRM Series"
 			(at 182.88 222.25 0)
 			(effects
 				(font
@@ -24271,7 +24292,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 10000 pF, 50 V, 0402 [1005 Metric], ± 10%, X7R, GRM Series"
 			(at 166.37 276.86 0)
 			(effects
 				(font
@@ -24499,7 +24520,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 10000 pF, 50 V, 0402 [1005 Metric], ± 10%, X7R, GRM Series"
 			(at 125.73 168.91 0)
 			(effects
 				(font
@@ -24660,7 +24681,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 60.96 168.91 0)
 			(effects
 				(font
@@ -24980,7 +25001,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 176.53 276.86 0)
 			(effects
 				(font
@@ -25141,7 +25162,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 10000 pF, 50 V, 0402 [1005 Metric], ± 10%, X7R, GRM Series"
 			(at 111.76 220.98 0)
 			(effects
 				(font
@@ -25396,7 +25417,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 4700 pF, 100 V, 0402 [1005 Metric], ± 10%, X7S, CGA"
 			(at 86.36 195.58 0)
 			(effects
 				(font
@@ -25651,7 +25672,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 4700 pF, 100 V, 0402 [1005 Metric], ± 10%, X7S, CGA"
 			(at 78.74 246.38 0)
 			(effects
 				(font
@@ -25812,7 +25833,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 1000 pF, 50 V, 0402 [1005 Metric], ± 5%, C0G / NP0, GRM Series"
 			(at 91.44 220.98 0)
 			(effects
 				(font
@@ -26038,7 +26059,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 1000 pF, 50 V, 0402 [1005 Metric], ± 5%, C0G / NP0, GRM Series"
 			(at 152.4 222.25 0)
 			(effects
 				(font
@@ -26199,7 +26220,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 47000 pF, 16 V, 0402 [1005 Metric], ± 10%, X5R, MC"
 			(at 166.37 168.91 0)
 			(effects
 				(font
@@ -26360,7 +26381,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 139.7 195.58 0)
 			(effects
 				(font
@@ -26933,7 +26954,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 135.89 276.86 0)
 			(effects
 				(font
@@ -27159,7 +27180,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 10 µF, 6.3 V, 0402 [1005 Metric], ± 20%, X5R, CC Series"
 			(at 34.29 222.25 0)
 			(effects
 				(font
@@ -27320,7 +27341,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 129.54 246.38 0)
 			(effects
 				(font
@@ -27546,7 +27567,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 47 µF, 6.3 V, 0603 [1608 Metric], ± 20%, X5R, GRM Series"
 			(at 115.57 276.86 0)
 			(effects
 				(font
@@ -28035,7 +28056,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 3300 pF, 50 V, 0402 [1005 Metric], ± 10%, X7R, MC"
 			(at 30.48 168.91 0)
 			(effects
 				(font
@@ -28384,7 +28405,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 10000 pF, 50 V, 0402 [1005 Metric], ± 10%, X7R, GRM Series"
 			(at 105.41 168.91 0)
 			(effects
 				(font
@@ -28639,7 +28660,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 105.41 276.86 0)
 			(effects
 				(font
@@ -28961,7 +28982,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 47 µF, 6.3 V, 0603 [1608 Metric], ± 20%, X5R, GRM Series"
 			(at 106.68 195.58 0)
 			(effects
 				(font
@@ -29263,7 +29284,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 121.92 220.98 0)
 			(effects
 				(font
@@ -29424,7 +29445,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 109.22 246.38 0)
 			(effects
 				(font
@@ -29533,6 +29554,71 @@
 		)
 	)
 	(symbol
+		(lib_id "antmicropower:PWR_FLAG")
+		(at 182.88 238.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ab618895-7472-4a87-9971-40df266c5180")
+		(property "Reference" "#FLG025"
+			(at 182.88 236.855 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 183.134 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 182.88 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 182.88 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 182.88 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "18987ac7-52ed-4a31-a881-fff2d89cd4d0")
+		)
+		(instances
+			(project "polarfire-som"
+				(path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
+					(reference "#FLG025")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "antmicroCapacitors0402:C_10u_0402")
 		(at 71.12 195.58 90)
 		(unit 1)
@@ -29585,7 +29671,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 10 µF, 6.3 V, 0402 [1005 Metric], ± 20%, X5R, CC Series"
 			(at 71.12 195.58 0)
 			(effects
 				(font
@@ -29746,7 +29832,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 47 µF, 6.3 V, 0603 [1608 Metric], ± 20%, X5R, GRM Series"
 			(at 146.05 276.86 0)
 			(effects
 				(font
@@ -29917,7 +30003,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 1000 pF, 50 V, 0402 [1005 Metric], ± 5%, C0G / NP0, GRM Series"
 			(at 20.32 168.91 0)
 			(effects
 				(font
@@ -30396,7 +30482,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitors, 0.022 µF, 50 V, 20%, 0402 [1005 Metric], X7R"
 			(at 135.89 168.91 0)
 			(effects
 				(font
@@ -30811,7 +30897,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 1000 pF, 50 V, 0402 [1005 Metric], ± 5%, C0G / NP0, GRM Series"
 			(at 101.6 220.98 0)
 			(effects
 				(font
@@ -30972,7 +31058,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 172.72 246.38 0)
 			(effects
 				(font
@@ -31133,7 +31219,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 10 µF, 6.3 V, 0402 [1005 Metric], ± 20%, X5R, CC Series"
 			(at 34.29 196.85 0)
 			(effects
 				(font
@@ -31359,7 +31445,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 4700 pF, 100 V, 0402 [1005 Metric], ± 10%, X7S, CGA"
 			(at 162.56 246.38 0)
 			(effects
 				(font
@@ -31520,7 +31606,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 10000 pF, 50 V, 0402 [1005 Metric], ± 10%, X7R, GRM Series"
 			(at 95.25 168.91 0)
 			(effects
 				(font
@@ -31775,7 +31861,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 10000 pF, 50 V, 0402 [1005 Metric], ± 10%, X7R, GRM Series"
 			(at 129.54 195.58 0)
 			(effects
 				(font
@@ -31936,7 +32022,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Chip Resistor, 10 kohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose"
 			(at 242.57 99.06 0)
 			(effects
 				(font
@@ -32152,7 +32238,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 96.52 195.58 0)
 			(effects
 				(font
@@ -32326,6 +32412,71 @@
 		)
 	)
 	(symbol
+		(lib_id "antmicropower:PWR_FLAG")
+		(at 71.12 161.29 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "db196db9-ebc8-4b65-9879-f4cdf8a9439e")
+		(property "Reference" "#FLG09"
+			(at 71.12 159.385 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 71.12 157.226 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 71.12 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 71.12 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 71.12 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d8239534-7ac0-4c31-b06b-430e5377d0f0")
+		)
+		(instances
+			(project "polarfire-som"
+				(path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
+					(reference "#FLG09")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "antmicroCapacitorspol:C_Pol_330u_6.3V_KEMET-T520-B")
 		(at 182.88 190.5 270)
 		(unit 1)
@@ -32377,7 +32528,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Tantalum Polymer Capacitor, KO-CAP®, 330 µF, ± 20%, 6.3 V, B, 0.04 ohm, 1411 [3528 Metric]"
 			(at 182.88 190.5 0)
 			(effects
 				(font
@@ -32548,7 +32699,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 176.53 168.91 0)
 			(effects
 				(font
@@ -32709,7 +32860,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 24.13 196.85 0)
 			(effects
 				(font
@@ -32870,7 +33021,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0402 [1005 Metric], ± 10%, X5R, GRM Series"
 			(at 132.08 220.98 0)
 			(effects
 				(font
@@ -32973,6 +33124,71 @@
 			(project "polarfire-som"
 				(path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
 					(reference "C41")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicropower:PWR_FLAG")
+		(at 132.08 213.36 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e4aa263b-792e-499c-b664-2c0befeeb033")
+		(property "Reference" "#FLG06"
+			(at 132.08 211.455 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 132.08 209.296 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 132.08 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 132.08 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 132.08 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "325ec1ae-da9a-48a6-8dd1-e38059e7efe8")
+		)
+		(instances
+			(project ""
+				(path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/99f116ae-bc8e-42a5-8f88-aecc401b3bcc"
+					(reference "#FLG06")
 					(unit 1)
 				)
 			)
@@ -33125,7 +33341,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 47000 pF, 16 V, 0402 [1005 Metric], ± 10%, X5R, MC"
 			(at 156.21 168.91 0)
 			(effects
 				(font
@@ -33445,7 +33661,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 4700 pF, 100 V, 0402 [1005 Metric], ± 10%, X7S, CGA"
 			(at 119.38 195.58 0)
 			(effects
 				(font
@@ -33606,7 +33822,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 47 µF, 6.3 V, 0603 [1608 Metric], ± 20%, X5R, GRM Series"
 			(at 139.7 246.38 0)
 			(effects
 				(font
@@ -33777,7 +33993,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 47 µF, 6.3 V, 0603 [1608 Metric], ± 20%, X5R, GRM Series"
 			(at 182.88 246.38 0)
 			(effects
 				(font
@@ -33948,7 +34164,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 10 µF, 6.3 V, 0402 [1005 Metric], ± 20%, X5R, CC Series"
 			(at 71.12 220.98 0)
 			(effects
 				(font
