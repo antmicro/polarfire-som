@@ -16,6 +16,7 @@ The PCB design files were prepared in KiCad 7.
 * PolarFire SoC MPFS250T
 * 2 GB LPDDR4-1866 SDRAM
 * 8 GB eMMC flash memory
+* Compact size: 55x40mm 
 * Gigabit Ethernet PHY (Ti/[DP83867ISRGZR](https://www.ti.com/lit/gpn/DP83867IS))
 * 4-lane PCIe (via MPFS250T built-in XCVR transceivers)
 * 2.4 GHz, 5.0 GHz IEEE 802.11 b/g/n/ac WiFi module (Murata/[LBEE5PK2AE](https://www.murata.com/en-eu/products/connectivitymodule/wi-fi-bluetooth/overview/lineup/type2ae))
