@@ -4360,7 +4360,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 93.98) (xy 104.14 93.98)
+			(xy 68.58 93.98) (xy 104.14 93.98)
 		)
 		(stroke
 			(width 0)
@@ -4520,7 +4520,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 86.36) (xy 83.82 87.63)
+			(xy 74.93 86.36) (xy 74.93 87.63)
 		)
 		(stroke
 			(width 0)
@@ -5140,7 +5140,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 93.98) (xy 72.39 93.98)
+			(xy 58.42 93.98) (xy 63.5 93.98)
 		)
 		(stroke
 			(width 0)
@@ -5540,7 +5540,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 86.36) (xy 93.98 86.36)
+			(xy 74.93 86.36) (xy 93.98 86.36)
 		)
 		(stroke
 			(width 0)
@@ -8314,7 +8314,7 @@
 	)
 	(global_label "JTAG_TDO"
 		(shape output)
-		(at 67.31 93.98 180)
+		(at 58.42 93.98 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8324,7 +8324,7 @@
 		)
 		(uuid "ed3b4288-ddf3-47e5-bf35-9c01c0bb3dd6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 56.0674 93.9006 0)
+			(at 47.1774 93.9006 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16658,16 +16658,16 @@
 	)
 	(symbol
 		(lib_id "antmicroResistors0402:R_0R_0402")
-		(at 72.39 93.98 0)
+		(at 63.5 93.98 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "d515a735-bf8d-45a0-88f8-b74aa0d6e5bd")
 		(property "Reference" "R12"
-			(at 69.85 92.71 0)
+			(at 60.96 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16676,7 +16676,7 @@
 			)
 		)
 		(property "Value" "R_0R_0402"
-			(at 92.71 81.28 0)
+			(at 83.82 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16687,7 +16687,7 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:R_0402_1005Metric"
-			(at 92.71 78.74 0)
+			(at 83.82 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16698,7 +16698,7 @@
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"
-			(at 92.71 76.2 0)
+			(at 83.82 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16709,7 +16709,7 @@
 			)
 		)
 		(property "Description" "SMD Chip Resistor, Jumper, 0 ohm, 100 mW, 0402 [1005 Metric], Thick Film, General Purpose"
-			(at 72.39 93.98 0)
+			(at 63.5 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16718,7 +16718,7 @@
 			)
 		)
 		(property "MPN" "ERJ2GE0R00X"
-			(at 92.71 73.66 0)
+			(at 83.82 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16729,7 +16729,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 92.71 71.12 0)
+			(at 83.82 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16740,7 +16740,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 92.71 68.58 0)
+			(at 83.82 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16751,7 +16751,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 92.71 66.04 0)
+			(at 83.82 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16762,7 +16762,7 @@
 			)
 		)
 		(property "Val" "0R"
-			(at 78.74 92.71 0)
+			(at 69.85 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16771,7 +16771,7 @@
 			)
 		)
 		(property "Tolerance" "~"
-			(at 92.71 83.82 0)
+			(at 83.82 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16781,7 +16781,7 @@
 			)
 		)
 		(property "Current" "1A"
-			(at 92.71 63.5 0)
+			(at 83.82 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16792,7 +16792,7 @@
 			)
 		)
 		(property "Public" ""
-			(at 92.71 63.5 0)
+			(at 83.82 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16818,7 +16818,7 @@
 	)
 	(symbol
 		(lib_id "antmicropower:GND")
-		(at 83.82 87.63 0)
+		(at 74.93 87.63 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16826,7 +16826,7 @@
 		(dnp no)
 		(uuid "d9759520-ebbf-4996-84d8-020c53047564")
 		(property "Reference" "#PWR0220"
-			(at 92.71 90.17 0)
+			(at 83.82 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16837,7 +16837,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 83.82 91.44 0)
+			(at 74.93 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16846,7 +16846,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 92.71 95.25 0)
+			(at 83.82 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16857,7 +16857,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 92.71 100.33 0)
+			(at 83.82 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16868,7 +16868,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 83.82 87.63 0)
+			(at 74.93 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16877,7 +16877,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 92.71 95.25 0)
+			(at 83.82 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16888,7 +16888,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 92.71 97.79 0)
+			(at 83.82 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
