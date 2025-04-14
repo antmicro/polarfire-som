@@ -22391,7 +22391,7 @@
 	)
 	(symbol
 		(lib_id "antmicroLEDIndicationDiscrete:LED_G_0603_LTST-C190GKT")
-		(at 365.76 128.27 270)
+		(at 365.76 133.35 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22399,7 +22399,7 @@
 		(dnp no)
 		(uuid "50a6f89b-cc6a-4b37-ba1e-95d9501a36cb")
 		(property "Reference" "D5"
-			(at 372.11 130.81 90)
+			(at 359.41 130.81 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22409,7 +22409,7 @@
 			)
 		)
 		(property "Value" "LED_G_0603_LTST-C190GKT"
-			(at 396.24 133.35 90)
+			(at 367.284 130.81 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22419,7 +22419,7 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:LED_0603_1608Metric_G"
-			(at 355.6 151.13 0)
+			(at 375.92 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22430,7 +22430,7 @@
 			)
 		)
 		(property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTST-C190GKT.pdf"
-			(at 353.06 151.13 0)
+			(at 378.46 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22441,7 +22441,7 @@
 			)
 		)
 		(property "Description" "LED, Green, SMD, 0603, 20 mA, 2.1 V, 569 nm"
-			(at 365.76 128.27 0)
+			(at 365.76 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22450,7 +22450,7 @@
 			)
 		)
 		(property "MPN" "LTST-C190GKT"
-			(at 350.52 151.13 0)
+			(at 381 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22461,7 +22461,7 @@
 			)
 		)
 		(property "Manufacturer" "Lite-On"
-			(at 347.98 151.13 0)
+			(at 383.54 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22472,7 +22472,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 345.44 151.13 0)
+			(at 386.08 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22483,7 +22483,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 342.9 151.13 0)
+			(at 388.62 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22494,7 +22494,7 @@
 			)
 		)
 		(property "VSD_class" "LED"
-			(at 340.36 151.13 0)
+			(at 391.16 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22504,7 +22504,7 @@
 			)
 		)
 		(property "Color" "Green"
-			(at 360.68 151.13 0)
+			(at 370.84 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22514,7 +22514,7 @@
 			)
 		)
 		(property "Public" ""
-			(at 347.98 148.59 0)
+			(at 383.54 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
