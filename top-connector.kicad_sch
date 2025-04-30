@@ -6,8 +6,8 @@
 	(paper "A3")
 	(title_block
 		(title "PolarFire SoM")
-		(date "2025-03-25")
-		(rev "1.1.2")
+		(date "2025-04-30")
+		(rev "1.1.3")
 		(company "Antmicro Ltd")
 		(comment 1 "www.antmicro.com")
 	)

@@ -6,8 +6,8 @@
 	(paper "A3")
 	(title_block
 		(title "PolarFire SoM")
-		(date "2025-03-25")
-		(rev "1.1.2")
+		(date "2025-04-30")
+		(rev "1.1.3")
 		(company "Antmicro Ltd")
 		(comment 1 "www.antmicro.com")
 	)
@@ -218,7 +218,7 @@
 				)
 			)
 		)
-		(symbol "antmicroFPGAChips:MPFS250T-FCVG484"
+		(symbol "antmicroFPGAChips:MPFS250T-FCVG484E"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -232,7 +232,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Value" "MPFS250T-FCVG484"
+			(property "Value" "MPFS250T-FCVG484E"
 				(at 105.41 -5.08 0)
 				(effects
 					(font
@@ -243,7 +243,7 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" "antmicro-footprints:BGA-484_19x19mm_Layout22x22_P0.8mm-microchip-technology-mpfs250t-fcvg484"
+			(property "Footprint" "antmicro-footprints:BGA-484_19x19mm_Layout22x22_P0.8mm_FCVG484"
 				(at 105.41 -7.62 0)
 				(effects
 					(font
@@ -254,7 +254,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://www.microsemi.com/document-portal/doc_download/1244583-polarfire-soc-advance-datasheet"
+			(property "Datasheet" "https://ww1.microchip.com/downloads/aemDocuments/documents/FPGA/ProductDocuments/DataSheets/PolarFire-SoC-Datasheet-DS00004248.pdf"
 				(at 105.41 -10.16 0)
 				(effects
 					(font
@@ -266,15 +266,16 @@
 				)
 			)
 			(property "Description" "RISC-V System On Chip (SOC) IC PolarFire® FPGA - 254K Logic Modules 484-FCBGA (19x19)"
-				(at 0 0 0)
+				(at 105.41 -20.32 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left bottom)
 					(hide yes)
 				)
 			)
-			(property "MPN" "MPFS250T-FCVG484"
+			(property "MPN" "MPFS250T-FCVG484E"
 				(at 105.41 -2.54 0)
 				(effects
 					(font
@@ -334,7 +335,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "MPFS250T-FCVG484_1_1"
+			(symbol "MPFS250T-FCVG484E_1_1"
 				(rectangle
 					(start 5.08 5.08)
 					(end 86.36 -76.2)
@@ -1437,7 +1438,7 @@
 					)
 				)
 			)
-			(symbol "MPFS250T-FCVG484_2_1"
+			(symbol "MPFS250T-FCVG484E_2_1"
 				(rectangle
 					(start 5.08 5.08)
 					(end 86.36 -106.68)
@@ -2972,7 +2973,7 @@
 					)
 				)
 			)
-			(symbol "MPFS250T-FCVG484_3_1"
+			(symbol "MPFS250T-FCVG484E_3_1"
 				(rectangle
 					(start 5.08 5.08)
 					(end 30.48 -30.48)
@@ -3427,7 +3428,7 @@
 					)
 				)
 			)
-			(symbol "MPFS250T-FCVG484_4_1"
+			(symbol "MPFS250T-FCVG484E_4_1"
 				(rectangle
 					(start 5.08 5.08)
 					(end 30.48 -17.78)
@@ -3684,7 +3685,7 @@
 					)
 				)
 			)
-			(symbol "MPFS250T-FCVG484_5_1"
+			(symbol "MPFS250T-FCVG484E_5_1"
 				(rectangle
 					(start 5.08 5.08)
 					(end 30.48 -17.78)
@@ -3959,7 +3960,7 @@
 					)
 				)
 			)
-			(symbol "MPFS250T-FCVG484_6_1"
+			(symbol "MPFS250T-FCVG484E_6_1"
 				(rectangle
 					(start 5.08 5.08)
 					(end 40.64 -20.32)
@@ -4162,7 +4163,7 @@
 					)
 				)
 			)
-			(symbol "MPFS250T-FCVG484_7_1"
+			(symbol "MPFS250T-FCVG484E_7_1"
 				(rectangle
 					(start 5.08 5.08)
 					(end 58.42 -139.7)
@@ -5769,7 +5770,7 @@
 					)
 				)
 			)
-			(symbol "MPFS250T-FCVG484_8_1"
+			(symbol "MPFS250T-FCVG484E_8_1"
 				(rectangle
 					(start 5.08 5.08)
 					(end 45.72 -43.18)
@@ -6188,7 +6189,7 @@
 					)
 				)
 			)
-			(symbol "MPFS250T-FCVG484_9_1"
+			(symbol "MPFS250T-FCVG484E_9_1"
 				(rectangle
 					(start 5.08 2.54)
 					(end 27.94 -22.86)
@@ -10899,6 +10900,374 @@
 				)
 			)
 		)
+		(symbol "antmicroTransistorsFETsMOSFETsSingle:DMG1012T-7"
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "Q"
+				(at 10.16 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "DMG1012T-7"
+				(at 10.16 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "antmicro-footprints:SOT-523"
+				(at 10.16 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds31783.pdf"
+				(at 10.16 -8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power MOSFET, N Channel, 20 V, 630 mA, 0.3 ohm, SOT-523, Surface Mount"
+				(at 47.752 -15.494 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "DMG1012T-7"
+				(at 10.16 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Manufacturer" "Diodes Incorporated"
+				(at 10.16 -1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Author" "Antmicro"
+				(at 10.16 -11.43 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "License" "Apache-2.0"
+				(at 10.16 -13.97 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "SMT, MOSFET, SEMICONDUCTOR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "DMG1012T-7_1_1"
+				(polyline
+					(pts
+						(xy 3.81 1.143) (xy 3.81 0.635)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 1.143) (xy 3.81 1.651)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 2.54) (xy 3.81 2.032)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 2.54) (xy 3.81 3.048)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 4.445) (xy 3.81 3.429)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 1.143) (xy 3.81 1.143)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.874 3.048) (xy 6.858 3.048)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy 3.302 0) (xy 3.302 3.937)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 -1.27) (xy 6.35 2.54) (xy 3.81 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 6.35) (xy 6.35 3.937) (xy 3.81 3.937)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 2.54) (xy 4.572 3.048) (xy 4.572 2.032) (xy 3.81 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.366 3.048) (xy 6.858 2.286) (xy 7.874 2.286) (xy 7.366 3.048)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.223 0.635) (xy 7.366 0.635) (xy 7.366 3.937) (xy 7.366 4.445) (xy 6.223 4.445)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 5.08 2.54)
+					(radius 3.302)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(circle
+					(center 6.35 0.635)
+					(radius 0.127)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(circle
+					(center 6.35 1.143)
+					(radius 0.127)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(circle
+					(center 6.35 4.445)
+					(radius 0.127)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin input line
+					(at 0 0 0)
+					(length 2.54)
+					(name "G"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 6.35 -2.54 90)
+					(length 2.54)
+					(name "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 6.35 7.62 270)
+					(length 2.54)
+					(name "D"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "antmicropower:+3V3"
 			(power)
 			(pin_numbers hide)
@@ -11360,16 +11729,6 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 86.36) (xy 229.87 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "39935443-8427-4c98-bf0c-a3046e535b87")
-	)
-	(wire
-		(pts
 			(xy 170.18 91.44) (xy 180.34 91.44)
 		)
 		(stroke
@@ -11590,6 +11949,16 @@
 	)
 	(wire
 		(pts
+			(xy 217.17 86.36) (xy 240.03 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "995cffda-8013-439d-8ead-15d1c9e8db71")
+	)
+	(wire
+		(pts
 			(xy 158.75 83.82) (xy 158.75 87.63)
 		)
 		(stroke
@@ -11660,6 +12029,26 @@
 	)
 	(wire
 		(pts
+			(xy 264.16 66.04) (xy 266.7 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bcf87cb8-8e54-47e5-9a3f-9c0d03fa9651")
+	)
+	(wire
+		(pts
+			(xy 257.81 68.58) (xy 257.81 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c15a088a-fd07-4695-bc57-d02953d24167")
+	)
+	(wire
+		(pts
 			(xy 172.72 171.45) (xy 172.72 172.72)
 		)
 		(stroke
@@ -11720,6 +12109,16 @@
 	)
 	(wire
 		(pts
+			(xy 248.92 55.88) (xy 257.81 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da676d9a-45f0-4e51-9c02-57c3671cdf5a")
+	)
+	(wire
+		(pts
 			(xy 256.54 96.52) (xy 256.54 93.98)
 		)
 		(stroke
@@ -11767,6 +12166,16 @@
 			(type default)
 		)
 		(uuid "e0294774-0538-4efc-9038-09590f7e5461")
+	)
+	(wire
+		(pts
+			(xy 257.81 55.88) (xy 257.81 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1c3ff93-e2a7-4809-9250-7ac55bf0cfe8")
 	)
 	(wire
 		(pts
@@ -11867,6 +12276,16 @@
 		)
 		(uuid "eff12e14-a939-4ab3-9413-83d215c36f84")
 	)
+	(label "DEVRST_N"
+		(at 228.6 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "02956454-72fd-4734-92d4-ca9fbb7fada5")
+	)
 	(label "Flash.CLK"
 		(at 167.64 166.37 0)
 		(effects
@@ -11876,6 +12295,16 @@
 			(justify left bottom)
 		)
 		(uuid "2fb58ae4-1396-42b6-9bf9-c9dfbe28e26e")
+	)
+	(label "DEVRST_N"
+		(at 248.92 55.88 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3c8de1b6-5fb6-496a-8d80-b9cd02e0e94c")
 	)
 	(label "Flash.CS"
 		(at 167.64 168.91 0)
@@ -12154,6 +12583,27 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+	)
+	(global_label "~{PG}"
+		(shape input)
+		(at 266.7 66.04 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f5c24cdb-4c64-402b-b61b-bff2de066953")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 272.2252 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 	)
@@ -12626,7 +13076,7 @@
 		)
 	)
 	(symbol
-		(lib_id "antmicroFPGAChips:MPFS250T-FCVG484")
+		(lib_id "antmicroFPGAChips:MPFS250T-FCVG484E")
 		(at 180.34 86.36 0)
 		(unit 4)
 		(exclude_from_sim no)
@@ -12655,7 +13105,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "antmicro-footprints:BGA-484_19x19mm_Layout22x22_P0.8mm-microchip-technology-mpfs250t-fcvg484"
+		(property "Footprint" "antmicro-footprints:BGA-484_19x19mm_Layout22x22_P0.8mm_FCVG484"
 			(at 285.75 93.98 0)
 			(effects
 				(font
@@ -12666,7 +13116,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.microsemi.com/document-portal/doc_download/1244583-polarfire-soc-advance-datasheet"
+		(property "Datasheet" "https://ww1.microchip.com/downloads/aemDocuments/documents/FPGA/ProductDocuments/DataSheets/PolarFire-SoC-Datasheet-DS00004248.pdf"
 			(at 285.75 96.52 0)
 			(effects
 				(font
@@ -12678,15 +13128,16 @@
 			)
 		)
 		(property "Description" "RISC-V System On Chip (SOC) IC PolarFire® FPGA - 254K Logic Modules 484-FCBGA (19x19)"
-			(at 180.34 86.36 0)
+			(at 285.75 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left bottom)
 				(hide yes)
 			)
 		)
-		(property "MPN" "MPFS250T-FCVG484"
+		(property "MPN" "MPFS250T-FCVG484E"
 			(at 198.12 78.74 0)
 			(effects
 				(font
@@ -14511,16 +14962,15 @@
 	)
 	(symbol
 		(lib_id "antmicroTestPoints:TP_0.75mm_SMD")
-		(at 229.87 86.36 0)
+		(at 240.03 86.36 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "1aa42a6d-25c9-4858-bea0-dd6739ae71b8")
 		(property "Reference" "TP1"
-			(at 234.95 86.36 0)
+			(at 245.11 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14530,7 +14980,7 @@
 			)
 		)
 		(property "Value" "TP_0.75mm_SMD"
-			(at 240.665 90.17 0)
+			(at 250.825 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14541,7 +14991,7 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:TP_SMD_0.75mm"
-			(at 240.665 92.71 0)
+			(at 250.825 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14552,7 +15002,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 247.65 99.06 0)
+			(at 257.81 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14563,7 +15013,7 @@
 			)
 		)
 		(property "Description" "SMT test point"
-			(at 229.87 86.36 0)
+			(at 240.03 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14572,7 +15022,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 240.665 97.79 0)
+			(at 250.825 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14583,7 +15033,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 240.665 92.71 0)
+			(at 250.825 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14594,7 +15044,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 240.665 95.25 0)
+			(at 250.825 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14605,7 +15055,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 240.665 97.79 0)
+			(at 250.825 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14616,7 +15066,7 @@
 			)
 		)
 		(property "Public" "False"
-			(at 240.03 100.33 0)
+			(at 250.19 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14632,6 +15082,139 @@
 			(project "polarfire-som"
 				(path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
 					(reference "TP1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicroTransistorsFETsMOSFETsSingle:DMG1012T-7")
+		(at 264.16 66.04 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1f9127fa-b49c-4ee4-bc5a-61e05aedf405")
+		(property "Reference" "Q10"
+			(at 254 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "DMG1012T-7"
+			(at 254 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:SOT-523"
+			(at 254 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds31783.pdf"
+			(at 254 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power MOSFET, N Channel, 20 V, 630 mA, 0.3 ohm, SOT-523, Surface Mount"
+			(at 264.16 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "DMG1012T-7"
+			(at 256.286 69.342 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left)
+			)
+		)
+		(property "Manufacturer" "Diodes Incorporated"
+			(at 254 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 254 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 254 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Public" ""
+			(at 243.84 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "65d4ae99-1cd4-4d6d-9021-d033082ebc9d")
+		)
+		(pin "2"
+			(uuid "f2792920-c8f3-4415-a2d3-8d7e37c8b76e")
+		)
+		(pin "3"
+			(uuid "67217466-f2db-402b-8bcd-d83157038741")
+		)
+		(instances
+			(project "polarfire-som"
+				(path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
+					(reference "Q10")
 					(unit 1)
 				)
 			)
@@ -16943,6 +17526,102 @@
 			(project "polarfire-som"
 				(path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
 					(reference "#PWR056")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicropower:GND")
+		(at 257.81 69.85 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fb41cc12-d275-43e1-8fd2-f9885de3c4cd")
+		(property "Reference" "#PWR366"
+			(at 248.92 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 257.81 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 248.92 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 248.92 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 257.81 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 248.92 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 248.92 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5ab60a32-230c-44bc-8c88-2fedb5d66727")
+		)
+		(instances
+			(project "polarfire-som"
+				(path "/db4a0d3e-2eb3-499e-977d-6eb378cfd3ed/dc7a7582-fcf3-450b-b684-8a5b0874bf56"
+					(reference "#PWR366")
 					(unit 1)
 				)
 			)

@@ -6,8 +6,8 @@
 	(paper "A3")
 	(title_block
 		(title "PolarFire SoM")
-		(date "2025-03-25")
-		(rev "1.1.2")
+		(date "2025-04-30")
+		(rev "1.1.3")
 		(company "Antmicro Ltd")
 		(comment 1 "www.antmicro.com")
 	)
@@ -2094,7 +2094,7 @@
 				)
 			)
 		)
-		(symbol "antmicroFPGAChips:MPFS250T-FCVG484"
+		(symbol "antmicroFPGAChips:MPFS250T-FCVG484E"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -2108,7 +2108,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Value" "MPFS250T-FCVG484"
+			(property "Value" "MPFS250T-FCVG484E"
 				(at 105.41 -5.08 0)
 				(effects
 					(font
@@ -2119,7 +2119,7 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" "antmicro-footprints:BGA-484_19x19mm_Layout22x22_P0.8mm-microchip-technology-mpfs250t-fcvg484"
+			(property "Footprint" "antmicro-footprints:BGA-484_19x19mm_Layout22x22_P0.8mm_FCVG484"
 				(at 105.41 -7.62 0)
 				(effects
 					(font
@@ -2130,7 +2130,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://www.microsemi.com/document-portal/doc_download/1244583-polarfire-soc-advance-datasheet"
+			(property "Datasheet" "https://ww1.microchip.com/downloads/aemDocuments/documents/FPGA/ProductDocuments/DataSheets/PolarFire-SoC-Datasheet-DS00004248.pdf"
 				(at 105.41 -10.16 0)
 				(effects
 					(font
@@ -2142,15 +2142,16 @@
 				)
 			)
 			(property "Description" "RISC-V System On Chip (SOC) IC PolarFire® FPGA - 254K Logic Modules 484-FCBGA (19x19)"
-				(at 0 0 0)
+				(at 105.41 -20.32 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left bottom)
 					(hide yes)
 				)
 			)
-			(property "MPN" "MPFS250T-FCVG484"
+			(property "MPN" "MPFS250T-FCVG484E"
 				(at 105.41 -2.54 0)
 				(effects
 					(font
@@ -2210,7 +2211,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "MPFS250T-FCVG484_1_1"
+			(symbol "MPFS250T-FCVG484E_1_1"
 				(rectangle
 					(start 5.08 5.08)
 					(end 86.36 -76.2)
@@ -3313,7 +3314,7 @@
 					)
 				)
 			)
-			(symbol "MPFS250T-FCVG484_2_1"
+			(symbol "MPFS250T-FCVG484E_2_1"
 				(rectangle
 					(start 5.08 5.08)
 					(end 86.36 -106.68)
@@ -4848,7 +4849,7 @@
 					)
 				)
 			)
-			(symbol "MPFS250T-FCVG484_3_1"
+			(symbol "MPFS250T-FCVG484E_3_1"
 				(rectangle
 					(start 5.08 5.08)
 					(end 30.48 -30.48)
@@ -5303,7 +5304,7 @@
 					)
 				)
 			)
-			(symbol "MPFS250T-FCVG484_4_1"
+			(symbol "MPFS250T-FCVG484E_4_1"
 				(rectangle
 					(start 5.08 5.08)
 					(end 30.48 -17.78)
@@ -5560,7 +5561,7 @@
 					)
 				)
 			)
-			(symbol "MPFS250T-FCVG484_5_1"
+			(symbol "MPFS250T-FCVG484E_5_1"
 				(rectangle
 					(start 5.08 5.08)
 					(end 30.48 -17.78)
@@ -5835,7 +5836,7 @@
 					)
 				)
 			)
-			(symbol "MPFS250T-FCVG484_6_1"
+			(symbol "MPFS250T-FCVG484E_6_1"
 				(rectangle
 					(start 5.08 5.08)
 					(end 40.64 -20.32)
@@ -6038,7 +6039,7 @@
 					)
 				)
 			)
-			(symbol "MPFS250T-FCVG484_7_1"
+			(symbol "MPFS250T-FCVG484E_7_1"
 				(rectangle
 					(start 5.08 5.08)
 					(end 58.42 -139.7)
@@ -7645,7 +7646,7 @@
 					)
 				)
 			)
-			(symbol "MPFS250T-FCVG484_8_1"
+			(symbol "MPFS250T-FCVG484E_8_1"
 				(rectangle
 					(start 5.08 5.08)
 					(end 45.72 -43.18)
@@ -8064,7 +8065,7 @@
 					)
 				)
 			)
-			(symbol "MPFS250T-FCVG484_9_1"
+			(symbol "MPFS250T-FCVG484E_9_1"
 				(rectangle
 					(start 5.08 2.54)
 					(end 27.94 -22.86)
@@ -19035,7 +19036,7 @@
 		)
 	)
 	(symbol
-		(lib_id "antmicroFPGAChips:MPFS250T-FCVG484")
+		(lib_id "antmicroFPGAChips:MPFS250T-FCVG484E")
 		(at 194.31 74.93 0)
 		(unit 9)
 		(exclude_from_sim no)
@@ -19064,7 +19065,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "antmicro-footprints:BGA-484_19x19mm_Layout22x22_P0.8mm-microchip-technology-mpfs250t-fcvg484"
+		(property "Footprint" "antmicro-footprints:BGA-484_19x19mm_Layout22x22_P0.8mm_FCVG484"
 			(at 299.72 82.55 0)
 			(effects
 				(font
@@ -19075,7 +19076,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.microsemi.com/document-portal/doc_download/1244583-polarfire-soc-advance-datasheet"
+		(property "Datasheet" "https://ww1.microchip.com/downloads/aemDocuments/documents/FPGA/ProductDocuments/DataSheets/PolarFire-SoC-Datasheet-DS00004248.pdf"
 			(at 299.72 85.09 0)
 			(effects
 				(font
@@ -19087,15 +19088,16 @@
 			)
 		)
 		(property "Description" "RISC-V System On Chip (SOC) IC PolarFire® FPGA - 254K Logic Modules 484-FCBGA (19x19)"
-			(at 194.31 74.93 0)
+			(at 299.72 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left bottom)
 				(hide yes)
 			)
 		)
-		(property "MPN" "MPFS250T-FCVG484"
+		(property "MPN" "MPFS250T-FCVG484E"
 			(at 210.82 69.85 0)
 			(effects
 				(font
