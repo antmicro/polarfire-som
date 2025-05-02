@@ -2793,7 +2793,7 @@
                             0.2625
                         ]
                     ],
-                    "componentId": "microchip-technology-mpfs250t-fcvg484"
+                    "componentId": "microchip-technology-mpfs250t-fcvg484e"
                 },
                 {
                     "reference": "U24",
@@ -8451,7 +8451,7 @@
                             0.2925
                         ]
                     ],
-                    "componentId": "microchip-technology-mpfs250t-fcvg484"
+                    "componentId": "microchip-technology-mpfs250t-fcvg484e"
                 },
                 {
                     "reference": "U24",
@@ -11821,7 +11821,7 @@
                             0.23
                         ]
                     ],
-                    "componentId": "microchip-technology-mpfs250t-fcvg484"
+                    "componentId": "microchip-technology-mpfs250t-fcvg484e"
                 },
                 {
                     "reference": "U24",
