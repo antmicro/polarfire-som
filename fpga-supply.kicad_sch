@@ -1286,7 +1286,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://www.murata.com/products/productdetail?partno=GRM155R61H474KE11%23"
+			(property "Datasheet" "https://www.murata.com/en-us/products/productdetail?partno=GRM155R61C473KA01%23"
 				(at 20.32 -15.24 0)
 				(effects
 					(font
@@ -1306,7 +1306,7 @@
 					(hide yes)
 				)
 			)
-			(property "MPN" "GRM155R61H474KE11D"
+			(property "MPN" "GRM155R61C473KA01D"
 				(at 20.32 -17.78 0)
 				(effects
 					(font
@@ -26209,7 +26209,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.murata.com/products/productdetail?partno=GRM155R61H474KE11%23"
+		(property "Datasheet" "https://www.murata.com/en-us/products/productdetail?partno=GRM155R61C473KA01%23"
 			(at 181.61 148.59 0)
 			(effects
 				(font
@@ -26229,7 +26229,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "GRM155R61H474KE11D"
+		(property "MPN" "GRM155R61C473KA01D"
 			(at 184.15 148.59 0)
 			(effects
 				(font
@@ -33330,7 +33330,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.murata.com/products/productdetail?partno=GRM155R61H474KE11%23"
+		(property "Datasheet" "https://www.murata.com/en-us/products/productdetail?partno=GRM155R61C473KA01%23"
 			(at 171.45 148.59 0)
 			(effects
 				(font
@@ -33350,7 +33350,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "GRM155R61H474KE11D"
+		(property "MPN" "GRM155R61C473KA01D"
 			(at 173.99 148.59 0)
 			(effects
 				(font
