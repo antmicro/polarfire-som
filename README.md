@@ -1,8 +1,8 @@
 # PolarFire SoM
 
-Copyright (c) 2023-2024 [Antmicro](https://www.antmicro.com)
+Copyright (c) 2023-2025 [Antmicro](https://www.antmicro.com)
 
-![PCB render](./assets/previews/rightT.png)
+![](./img/polarfire-som-pencil-photo.jpg)
 
 ## Overview
 
@@ -33,6 +33,7 @@ The remaining files are stored in the following directories:
 
 * `doc` - contains schematics in PDF format
 * `assets` - contains visual assets for showcasing this design on [Open Hardware Portal](https://openhardware.antmicro.com).
+* `img` - contains graphics for this README
 
 ## Licensing
 
