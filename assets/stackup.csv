@@ -1,30 +1,30 @@
-Name;Type;Material;Thickness[mm];Constant
-F.Mask;Top Solder Mask;;0.03;
-F.Cu;copper;;0.035;
-dielectric 1;prepreg;PR2313;0.0964;4.31
-In1.Cu;copper;;0.0152;
-dielectric 2;core;S1000-2M;0.1;4.35
-In2.Cu;copper;;0.0152;
-dielectric 3;prepreg;PR2116;0.1118;4.29
-In3.Cu;copper;;0.0152;
-dielectric 4;core;S1000-2M;0.1;4.35
-In4.Cu;copper;;0.0152;
-dielectric 5;prepreg;PR2116;0.1118;4.29
-In5.Cu;copper;;0.0152;
-dielectric 6;core;S1000-2M;0.1;4.35
-In6.Cu;copper;;0.0152;
-dielectric 7;prepreg;PR2116;0.1118;4.29
-In7.Cu;copper;;0.0152;
-dielectric 8;core;S1000-2M;0.1;4.35
-In8.Cu;copper;;0.0152;
-dielectric 9;prepreg;PR2116;0.1118;4.29
-In9.Cu;copper;;0.0152;
-dielectric 10;core;S1000-2M;0.1;4.35
-In10.Cu;copper;;0.0152;
-dielectric 11;prepreg;PR2116;0.1118;4.31
-In11.Cu;copper;;0.0152;
-dielectric 12;core;S1000-2M;0.1;4.5
-In12.Cu;copper;;0.0152;
-dielectric 13;prepreg;PR2313;0.0964;4.5
-B.Cu;copper;;0.035;
-B.Mask;Bottom Solder Mask;;0.03;
+Name;Type;Material;Thickness[mm];Constant;User-Name
+F.Mask;Top Solder Mask;;0.03;;F_Mask
+F.Cu;copper;;0.035;;F_Cu
+dielectric 1;prepreg;PR2313;0.0964;4.31;dielectric 1
+In1.Cu;copper;;0.0152;;In1_Cu
+dielectric 2;core;S1000-2M;0.1;4.35;dielectric 2
+In2.Cu;copper;;0.0152;;In2_Cu
+dielectric 3;prepreg;PR2116;0.1118;4.29;dielectric 3
+In3.Cu;copper;;0.0152;;In3_Cu
+dielectric 4;core;S1000-2M;0.1;4.35;dielectric 4
+In4.Cu;copper;;0.0152;;In4_Cu
+dielectric 5;prepreg;PR2116;0.1118;4.29;dielectric 5
+In5.Cu;copper;;0.0152;;In5_Cu
+dielectric 6;core;S1000-2M;0.1;4.35;dielectric 6
+In6.Cu;copper;;0.0152;;In6_Cu
+dielectric 7;prepreg;PR2116;0.1118;4.29;dielectric 7
+In7.Cu;copper;;0.0152;;In7_Cu
+dielectric 8;core;S1000-2M;0.1;4.35;dielectric 8
+In8.Cu;copper;;0.0152;;In8_Cu
+dielectric 9;prepreg;PR2116;0.1118;4.29;dielectric 9
+In9.Cu;copper;;0.0152;;In9_Cu
+dielectric 10;core;S1000-2M;0.1;4.35;dielectric 10
+In10.Cu;copper;;0.0152;;In10_Cu
+dielectric 11;prepreg;PR2116;0.1118;4.31;dielectric 11
+In11.Cu;copper;;0.0152;;In11_Cu
+dielectric 12;core;S1000-2M;0.1;4.5;dielectric 12
+In12.Cu;copper;;0.0152;;In12_Cu
+dielectric 13;prepreg;PR2313;0.0964;4.5;dielectric 13
+B.Cu;copper;;0.035;;B_Cu
+B.Mask;Bottom Solder Mask;;0.03;;B_Mask
