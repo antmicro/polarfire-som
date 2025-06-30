@@ -1,0 +1,390 @@
+{
+  "asset": {
+    "generator": "glTF-Transform v4.2.0",
+    "version": "2.0"
+  },
+  "accessors": [
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 918,
+      "max": [
+        27.503433227539062,
+        1.6015549898147583,
+        19.996891021728516
+      ],
+      "min": [
+        -27.503433227539062,
+        0,
+        -19.998332977294922
+      ],
+      "bufferView": 0,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 918,
+      "bufferView": 0,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 918,
+      "bufferView": 0,
+      "byteOffset": 24
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 2562,
+      "bufferView": 1,
+      "byteOffset": 0
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 1317,
+      "bufferView": 1,
+      "byteOffset": 5124
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 1317,
+      "bufferView": 1,
+      "byteOffset": 7760
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 427,
+      "max": [
+        27.503433227539062,
+        0,
+        19.996891021728516
+      ],
+      "min": [
+        -27.503433227539062,
+        0,
+        -19.998332977294922
+      ],
+      "bufferView": 2,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 427,
+      "bufferView": 2,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 427,
+      "bufferView": 2,
+      "byteOffset": 24
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 427,
+      "max": [
+        27.503433227539062,
+        1.600000023841858,
+        19.996891021728516
+      ],
+      "min": [
+        -27.503433227539062,
+        1.600000023841858,
+        -19.998332977294922
+      ],
+      "bufferView": 3,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 427,
+      "bufferView": 3,
+      "byteOffset": 12
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 427,
+      "bufferView": 3,
+      "byteOffset": 24
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 29376,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 29376,
+      "byteLength": 10396,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 39772,
+      "byteLength": 13664,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 53436,
+      "byteLength": 13664,
+      "byteStride": 32,
+      "target": 34962
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "extensions": {
+        "KHR_texture_basisu": {
+          "source": 1
+        }
+      }
+    },
+    {
+      "sampler": 0,
+      "extensions": {
+        "KHR_texture_basisu": {
+          "source": 0
+        }
+      }
+    },
+    {
+      "sampler": 0,
+      "extensions": {
+        "KHR_texture_basisu": {
+          "source": 3
+        }
+      }
+    },
+    {
+      "sampler": 0,
+      "extensions": {
+        "KHR_texture_basisu": {
+          "source": 2
+        }
+      }
+    },
+    {
+      "sampler": 0,
+      "extensions": {
+        "KHR_texture_basisu": {
+          "source": 4
+        }
+      }
+    },
+    {
+      "sampler": 0,
+      "extensions": {
+        "KHR_texture_basisu": {
+          "source": 6
+        }
+      }
+    },
+    {
+      "sampler": 0,
+      "extensions": {
+        "KHR_texture_basisu": {
+          "source": 5
+        }
+      }
+    },
+    {
+      "sampler": 0,
+      "extensions": {
+        "KHR_texture_basisu": {
+          "source": 7
+        }
+      }
+    }
+  ],
+  "images": [
+    {
+      "name": "main_pcb_edge_bare_normal",
+      "mimeType": "image/ktx2",
+      "uri": "main_pcb_edge_bare_normal.ktx2"
+    },
+    {
+      "name": "main_pcb_edge_bare_color",
+      "mimeType": "image/ktx2",
+      "uri": "main_pcb_edge_bare_color.ktx2"
+    },
+    {
+      "name": "polarfire-som_main_pcb_bot_normal",
+      "mimeType": "image/ktx2",
+      "uri": "polarfire-som_main_pcb_bot_normal.ktx2"
+    },
+    {
+      "name": "polarfire-som_main_pcb_bot_color",
+      "mimeType": "image/ktx2",
+      "uri": "polarfire-som_main_pcb_bot_color.ktx2"
+    },
+    {
+      "name": "polarfire-som_main_pcb_bot_metallic_roughness",
+      "mimeType": "image/ktx2",
+      "uri": "polarfire-som_main_pcb_bot_metallic_roughness.ktx2"
+    },
+    {
+      "name": "polarfire-som_main_pcb_top_normal",
+      "mimeType": "image/ktx2",
+      "uri": "polarfire-som_main_pcb_top_normal.ktx2"
+    },
+    {
+      "name": "polarfire-som_main_pcb_top_color",
+      "mimeType": "image/ktx2",
+      "uri": "polarfire-som_main_pcb_top_color.ktx2"
+    },
+    {
+      "name": "polarfire-som_main_pcb_top_metallic_roughness",
+      "mimeType": "image/ktx2",
+      "uri": "polarfire-som_main_pcb_top_metallic_roughness.ktx2"
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "polarfire-som.bin",
+      "byteLength": 67100
+    }
+  ],
+  "materials": [
+    {
+      "name": "gltf_main_pcb_edge_bare",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "roughnessFactor": 0.5,
+        "metallicFactor": 0.10000000149011612,
+        "baseColorTexture": {
+          "index": 0
+        }
+      },
+      "normalTexture": {
+        "index": 1
+      }
+    },
+    {
+      "name": "gltf_polarfire-som_main_pcb_bot",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "roughnessFactor": 1.5,
+        "baseColorTexture": {
+          "index": 2
+        },
+        "metallicRoughnessTexture": {
+          "index": 4
+        }
+      },
+      "normalTexture": {
+        "index": 3
+      }
+    },
+    {
+      "name": "gltf_polarfire-som_main_pcb_top",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "roughnessFactor": 1.5,
+        "baseColorTexture": {
+          "index": 5
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      },
+      "normalTexture": {
+        "index": 6
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "PCB_layer1_mesh",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 3
+        },
+        {
+          "attributes": {
+            "POSITION": 6,
+            "NORMAL": 7,
+            "TEXCOORD_0": 8
+          },
+          "mode": 4,
+          "material": 1,
+          "indices": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 9,
+            "NORMAL": 10,
+            "TEXCOORD_0": 11
+          },
+          "mode": 4,
+          "material": 2,
+          "indices": 5
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "PCB_layer1",
+      "mesh": 0
+    },
+    {
+      "name": "polarfire-som",
+      "extras": {
+        "PCB_X": 55.006866455078125,
+        "PCB_Y": 39.996665954589844,
+        "PCB_Z": 1.600000023841858
+      },
+      "children": [
+        0
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        1
+      ]
+    }
+  ],
+  "scene": 0,
+  "extensionsUsed": [
+    "KHR_texture_basisu"
+  ],
+  "extensionsRequired": [
+    "KHR_texture_basisu"
+  ]
+}
