@@ -1,13 +1,13 @@
 (kicad_sch
-	(version 20231120)
+	(version 20250114)
 	(generator "eeschema")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(uuid "db4a0d3e-2eb3-499e-977d-6eb378cfd3ed")
 	(paper "A3")
 	(title_block
 		(title "PolarFire SoM")
-		(date "2025-05-12")
-		(rev "1.1.3")
+		(date "2025-07-22")
+		(rev "1.1.4")
 		(company "Antmicro Ltd")
 		(comment 1 "www.antmicro.com")
 	)
@@ -16,6 +16,30 @@
 		(members "CLK_P" "CLK_N" "TX0_P" "TX0_N" "TX1_P" "TX1_N" "TX2_P" "TX2_N"
 			"SCL" "SDA"
 		)
+	)
+	(text "MPFS250T\nFCVG484"
+		(exclude_from_sim no)
+		(at 208.915 127.635 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "b460d767-d612-45f1-bade-5830ddfc1de2")
+	)
+	(text "User LED"
+		(exclude_from_sim no)
+		(at 189.865 143.51 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f39e78d2-5227-4faf-96d2-03595c981a67")
 	)
 	(junction
 		(at 276.86 138.43)
@@ -3026,33 +3050,13 @@
 			"bWxs3Lt37169epmamvbv379fv359+/Y1MTHp3bs3VoCa7P8B26Bhky0h/QEAAAAASUVORK5CYII="
 		)
 	)
-	(text "MPFS250T\nFCVG484"
-		(exclude_from_sim no)
-		(at 208.915 127.635 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-				(thickness 0.508)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-		(uuid "b460d767-d612-45f1-bade-5830ddfc1de2")
-	)
-	(text "User LED"
-		(exclude_from_sim no)
-		(at 189.865 143.51 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "f39e78d2-5227-4faf-96d2-03595c981a67")
-	)
 	(sheet
 		(at 116.84 88.9)
 		(size 26.67 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -3082,13 +3086,13 @@
 		)
 		(pin "LPDDR4{LPDDR4}" input
 			(at 143.51 91.44 0)
+			(uuid "dba902bf-a745-4a18-9fee-57c49bd1992a")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "dba902bf-a745-4a18-9fee-57c49bd1992a")
 		)
 		(instances
 			(project "polarfire-som"
@@ -3101,6 +3105,10 @@
 	(sheet
 		(at 172.72 138.43)
 		(size 26.67 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -3130,93 +3138,93 @@
 		)
 		(pin "CAM0{CSI}" bidirectional
 			(at 172.72 146.05 180)
+			(uuid "894cd7ef-0d2f-4106-9ac1-ec50e4319938")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "894cd7ef-0d2f-4106-9ac1-ec50e4319938")
 		)
 		(pin "WiFi{SDIO}" input
 			(at 172.72 158.75 180)
+			(uuid "5db8e1a9-65ae-4332-a8af-4199a3313744")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "5db8e1a9-65ae-4332-a8af-4199a3313744")
 		)
 		(pin "HDMI_FPGA{HDMI}" bidirectional
 			(at 172.72 148.59 180)
+			(uuid "707b20f4-8d0a-4787-8740-de4bd6e02d13")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "707b20f4-8d0a-4787-8740-de4bd6e02d13")
 		)
 		(pin "Crosslink{SPI}" bidirectional
 			(at 172.72 153.67 180)
+			(uuid "2e1c96b6-24ef-45a5-82fa-b071c67e56e8")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "2e1c96b6-24ef-45a5-82fa-b071c67e56e8")
 		)
 		(pin "Crosslink{I^{2}C}" bidirectional
 			(at 172.72 156.21 180)
+			(uuid "6a0e9272-0d10-4a4b-b7a6-bc5d9de53de5")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "6a0e9272-0d10-4a4b-b7a6-bc5d9de53de5")
 		)
 		(pin "ETH{SMI}" input
 			(at 172.72 143.51 180)
+			(uuid "6ececafc-5ade-4cca-a4bb-8637a8696da2")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "6ececafc-5ade-4cca-a4bb-8637a8696da2")
 		)
 		(pin "I^{2}C0{I^{2}C}" input
 			(at 172.72 140.97 180)
+			(uuid "16a8d2bc-b5fc-492f-9743-e3845ec56731")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "16a8d2bc-b5fc-492f-9743-e3845ec56731")
 		)
 		(pin "PI3HDX511F{I^{2}C}" bidirectional
 			(at 172.72 151.13 180)
+			(uuid "1569c1fc-43ce-41ec-88a1-cb3f22f9c9f8")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "1569c1fc-43ce-41ec-88a1-cb3f22f9c9f8")
 		)
 		(pin "ULPI{ULPI}" input
 			(at 172.72 161.29 180)
+			(uuid "bb80f8ae-c593-4819-8d74-45b12e44251f")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "bb80f8ae-c593-4819-8d74-45b12e44251f")
 		)
 		(instances
 			(project "polarfire-som"
@@ -3229,6 +3237,10 @@
 	(sheet
 		(at 284.48 111.125)
 		(size 26.67 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -3258,13 +3270,13 @@
 		)
 		(pin "EMMC{SDIO}" input
 			(at 284.48 114.3 180)
+			(uuid "d1332d71-fc2d-415d-9f1e-ccd5815153e7")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "d1332d71-fc2d-415d-9f1e-ccd5815153e7")
 		)
 		(instances
 			(project "polarfire-som"
@@ -3277,6 +3289,10 @@
 	(sheet
 		(at 283.21 162.56)
 		(size 26.67 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -3306,33 +3322,33 @@
 		)
 		(pin "WiFi{SDIO}" input
 			(at 283.21 171.45 180)
+			(uuid "cee9c747-90c3-4ff5-8f31-afc8767a47d0")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "cee9c747-90c3-4ff5-8f31-afc8767a47d0")
 		)
 		(pin "WL_BT{USB}" input
 			(at 309.88 165.1 0)
+			(uuid "7fb96b78-674e-4fd4-9fdb-16c1327a05f3")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "7fb96b78-674e-4fd4-9fdb-16c1327a05f3")
 		)
 		(pin "PF_BT{UART}" input
 			(at 283.21 165.1 180)
+			(uuid "e21209b0-4753-4764-9b88-fef1591c1d2d")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "e21209b0-4753-4764-9b88-fef1591c1d2d")
 		)
 		(instances
 			(project "polarfire-som"
@@ -3345,6 +3361,10 @@
 	(sheet
 		(at 172.847 115.57)
 		(size 26.543 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -3383,6 +3403,10 @@
 	(sheet
 		(at 172.72 180.34)
 		(size 26.67 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -3412,43 +3436,43 @@
 		)
 		(pin "HDMI0{HDMI}" bidirectional
 			(at 172.72 195.58 180)
+			(uuid "a5d2b585-69d9-40f7-b74b-f1c3347673fa")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "a5d2b585-69d9-40f7-b74b-f1c3347673fa")
 		)
 		(pin "HDMI_FPGA{HDMI}" bidirectional
 			(at 172.72 185.42 180)
+			(uuid "0f9686bf-ab00-4848-8628-1dae72e0fd29")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "0f9686bf-ab00-4848-8628-1dae72e0fd29")
 		)
 		(pin "HDMI0{I^{2}C}" bidirectional
 			(at 172.72 187.96 180)
+			(uuid "5e95ed71-1287-4bda-9c3d-d7108e4ed7e1")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "5e95ed71-1287-4bda-9c3d-d7108e4ed7e1")
 		)
 		(pin "PI3HDX511F{I^{2}C}" bidirectional
 			(at 172.72 182.88 180)
+			(uuid "6228965b-4194-44c4-95a9-657338b6dd36")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "6228965b-4194-44c4-95a9-657338b6dd36")
 		)
 		(instances
 			(project "polarfire-som"
@@ -3461,6 +3485,10 @@
 	(sheet
 		(at 172.72 88.9)
 		(size 41.91 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -3490,23 +3518,23 @@
 		)
 		(pin "LPDDR4{LPDDR4}" input
 			(at 172.72 91.44 180)
+			(uuid "8680658a-3889-4776-9940-f537e5d69b7c")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "8680658a-3889-4776-9940-f537e5d69b7c")
 		)
 		(pin "SGMII{SGMII}" input
 			(at 214.63 91.44 0)
+			(uuid "d5b1c39c-0461-4ed6-b954-be1233f5a201")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "d5b1c39c-0461-4ed6-b954-be1233f5a201")
 		)
 		(instances
 			(project "polarfire-som"
@@ -3519,6 +3547,10 @@
 	(sheet
 		(at 116.84 127.635)
 		(size 26.67 32.385)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -3548,13 +3580,13 @@
 		)
 		(pin "SUPPLY{I^{2}C}" input
 			(at 143.51 129.54 0)
+			(uuid "9e1a6ab2-47f6-4750-9e72-c2afd7805e3c")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "9e1a6ab2-47f6-4750-9e72-c2afd7805e3c")
 		)
 		(instances
 			(project "polarfire-som"
@@ -3567,6 +3599,10 @@
 	(sheet
 		(at 236.22 140.97)
 		(size 26.67 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -3596,23 +3632,23 @@
 		)
 		(pin "Crosslink_B1{CPI}" input
 			(at 262.89 149.86 0)
+			(uuid "d9b850c5-ded6-49f4-bfdf-7c7301370f03")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "d9b850c5-ded6-49f4-bfdf-7c7301370f03")
 		)
 		(pin "Crosslink_B2{CPI}" input
 			(at 262.89 147.32 0)
+			(uuid "e8c477e4-0e67-4e22-99f4-0e2414e93095")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "e8c477e4-0e67-4e22-99f4-0e2414e93095")
 		)
 		(instances
 			(project "polarfire-som"
@@ -3625,6 +3661,10 @@
 	(sheet
 		(at 234.95 180.34)
 		(size 26.67 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -3654,63 +3694,63 @@
 		)
 		(pin "CAM1{CSI}" bidirectional
 			(at 261.62 195.58 0)
+			(uuid "ad11e5c5-4f0c-449b-acfb-1860a039818a")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "ad11e5c5-4f0c-449b-acfb-1860a039818a")
 		)
 		(pin "DSI1{DSI}" bidirectional
 			(at 261.62 193.04 0)
+			(uuid "e8743b08-da6b-42b6-bccc-b64b06db7c35")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "e8743b08-da6b-42b6-bccc-b64b06db7c35")
 		)
 		(pin "Crosslink_B1{CPI}" input
 			(at 261.62 182.88 0)
+			(uuid "fbabe04c-373d-4112-a690-3037770ac202")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "fbabe04c-373d-4112-a690-3037770ac202")
 		)
 		(pin "Crosslink_B2{CPI}" input
 			(at 261.62 185.42 0)
+			(uuid "cd89a197-6b31-424b-a6ea-1dfae15544e2")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "cd89a197-6b31-424b-a6ea-1dfae15544e2")
 		)
 		(pin "Crosslink{I^{2}C}" bidirectional
 			(at 234.95 187.96 180)
+			(uuid "25f49da5-8a3a-430b-b4ee-31cfaaeb59b6")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "25f49da5-8a3a-430b-b4ee-31cfaaeb59b6")
 		)
 		(pin "Crosslink{SPI}" bidirectional
 			(at 234.95 190.5 180)
+			(uuid "44513b7d-0bfb-4899-b32c-32d0a0a764c2")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "44513b7d-0bfb-4899-b32c-32d0a0a764c2")
 		)
 		(instances
 			(project "polarfire-som"
@@ -3723,6 +3763,10 @@
 	(sheet
 		(at 204.47 144.78)
 		(size 25.4 19.05)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -3752,13 +3796,13 @@
 		)
 		(pin "PCIE{PCIe_x4}" bidirectional
 			(at 204.47 161.29 180)
+			(uuid "b9b4eb97-87ca-400a-805e-fb34496d5c39")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "b9b4eb97-87ca-400a-805e-fb34496d5c39")
 		)
 		(instances
 			(project "polarfire-som"
@@ -3771,6 +3815,10 @@
 	(sheet
 		(at 284.48 86.995)
 		(size 26.67 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -3800,33 +3848,33 @@
 		)
 		(pin "ETH{MDI}" input
 			(at 311.15 88.9 0)
+			(uuid "35776ac1-ac98-4778-a041-d9c26ed7919c")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "35776ac1-ac98-4778-a041-d9c26ed7919c")
 		)
 		(pin "SGMII{SGMII}" input
 			(at 284.48 88.9 180)
+			(uuid "689b8d1a-7d64-4811-a85e-68ba3e04489c")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "689b8d1a-7d64-4811-a85e-68ba3e04489c")
 		)
 		(pin "ETH{SMI}" input
 			(at 311.15 91.44 0)
+			(uuid "83a6df53-439e-40cf-8fc0-43fd2f160621")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "83a6df53-439e-40cf-8fc0-43fd2f160621")
 		)
 		(instances
 			(project "polarfire-som"
@@ -3839,6 +3887,10 @@
 	(sheet
 		(at 172.72 205.74)
 		(size 88.9 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -3868,73 +3920,73 @@
 		)
 		(pin "PCIE{PCIe_x4}" bidirectional
 			(at 172.72 208.28 180)
+			(uuid "cf9ad104-44ea-467f-baec-4097419bbb2a")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "cf9ad104-44ea-467f-baec-4097419bbb2a")
 		)
 		(pin "CAM0{CSI}" bidirectional
 			(at 172.72 215.9 180)
+			(uuid "8929bc8d-39fa-45ad-b1c9-327fed3e8079")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "8929bc8d-39fa-45ad-b1c9-327fed3e8079")
 		)
 		(pin "CAM1{CSI}" bidirectional
 			(at 261.62 208.28 0)
+			(uuid "e35dce1c-264a-46e2-bb5a-dc9886d53367")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "e35dce1c-264a-46e2-bb5a-dc9886d53367")
 		)
 		(pin "HDMI0{HDMI}" bidirectional
 			(at 172.72 210.82 180)
+			(uuid "e18441a5-181a-4514-967d-40469dd330ab")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "e18441a5-181a-4514-967d-40469dd330ab")
 		)
 		(pin "DSI1{DSI}" bidirectional
 			(at 261.62 210.82 0)
+			(uuid "2833369b-c05a-466c-bdf6-4dbb7d446ac0")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "2833369b-c05a-466c-bdf6-4dbb7d446ac0")
 		)
 		(pin "CONN{USB}" input
 			(at 261.62 213.36 0)
+			(uuid "ef5f1cde-2fd5-455b-84d7-998f485f6aad")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "ef5f1cde-2fd5-455b-84d7-998f485f6aad")
 		)
 		(pin "HDMI0{I^{2}C}" bidirectional
 			(at 172.72 213.36 180)
+			(uuid "c0d3ff8f-688d-43ea-9fe1-f6d04b642fd4")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "c0d3ff8f-688d-43ea-9fe1-f6d04b642fd4")
 		)
 		(instances
 			(project "polarfire-som"
@@ -3947,6 +3999,10 @@
 	(sheet
 		(at 284.48 135.89)
 		(size 26.67 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -3976,33 +4032,33 @@
 		)
 		(pin "ULPI{ULPI}" input
 			(at 284.48 138.43 180)
+			(uuid "d1fb615f-4ad0-4061-badb-89e5f11668cb")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "d1fb615f-4ad0-4061-badb-89e5f11668cb")
 		)
 		(pin "WL_BT{USB}" input
 			(at 311.15 140.97 0)
+			(uuid "fe9aa54e-2bf7-4815-b8bb-3787c183ef82")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "fe9aa54e-2bf7-4815-b8bb-3787c183ef82")
 		)
 		(pin "CONN{USB}" input
 			(at 311.15 138.43 0)
+			(uuid "c0da9fb6-46af-46d5-9d0e-684ac46bc718")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "c0da9fb6-46af-46d5-9d0e-684ac46bc718")
 		)
 		(instances
 			(project "polarfire-som"
@@ -4015,6 +4071,10 @@
 	(sheet
 		(at 236.22 116.84)
 		(size 26.67 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -4053,6 +4113,10 @@
 	(sheet
 		(at 173.99 59.69)
 		(size 88.9 17.145)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -4082,43 +4146,43 @@
 		)
 		(pin "ETH{MDI}" input
 			(at 262.89 74.93 0)
+			(uuid "9e8c54ec-7141-4daa-ae26-11c40e5af32d")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "9e8c54ec-7141-4daa-ae26-11c40e5af32d")
 		)
 		(pin "SD{SDIO}" input
 			(at 262.89 72.39 0)
+			(uuid "792da02a-af2e-4214-9859-c8d7a5e45d54")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "792da02a-af2e-4214-9859-c8d7a5e45d54")
 		)
 		(pin "ID{I^{2}C}" input
 			(at 262.89 69.85 0)
+			(uuid "bd556fd0-3977-4d13-9754-ffe20336cf17")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "bd556fd0-3977-4d13-9754-ffe20336cf17")
 		)
 		(pin "I^{2}C0{I^{2}C}" input
 			(at 173.99 60.96 180)
+			(uuid "fd503f80-2deb-4fec-bccc-0752fad3c723")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "fd503f80-2deb-4fec-bccc-0752fad3c723")
 		)
 		(instances
 			(project "polarfire-som"
@@ -4131,6 +4195,10 @@
 	(sheet
 		(at 226.06 88.9)
 		(size 36.83 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -4160,63 +4228,63 @@
 		)
 		(pin "SD{SDIO}" input
 			(at 262.89 93.98 0)
+			(uuid "ff1d5549-5f1c-425e-a3e4-264ada49abec")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "ff1d5549-5f1c-425e-a3e4-264ada49abec")
 		)
 		(pin "EMMC{SDIO}" input
 			(at 262.89 99.06 0)
+			(uuid "90154c1e-f85d-4330-b834-25f979707b62")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "90154c1e-f85d-4330-b834-25f979707b62")
 		)
 		(pin "ULPI{ULPI}" input
 			(at 262.89 101.6 0)
+			(uuid "5918bf2a-edac-47f4-a54f-a88cb839356e")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "5918bf2a-edac-47f4-a54f-a88cb839356e")
 		)
 		(pin "SUPPLY{I^{2}C}" input
 			(at 262.89 91.44 0)
+			(uuid "0c3d870b-b38b-4f40-b76e-44bf41ba0237")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "0c3d870b-b38b-4f40-b76e-44bf41ba0237")
 		)
 		(pin "ID{I^{2}C}" input
 			(at 262.89 96.52 0)
+			(uuid "49ca8f19-8cb9-4d2a-bf21-b5fb9654dced")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "49ca8f19-8cb9-4d2a-bf21-b5fb9654dced")
 		)
 		(pin "PF_BT{UART}" input
 			(at 262.89 104.14 0)
+			(uuid "93cf7169-d421-4e67-b394-0603827c2344")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "93cf7169-d421-4e67-b394-0603827c2344")
 		)
 		(instances
 			(project "polarfire-som"
@@ -4231,4 +4299,5 @@
 			(page "1")
 		)
 	)
+	(embedded_fonts no)
 )
